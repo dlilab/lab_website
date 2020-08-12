@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+    <section class="container">
+        {{ .Content }}
+        {{$current := .Site.Data.people.current }}
+        {{$past := .Site.Data.people.past }}
+        <h2>Current members</h2>
+        <div class="listing">
+            {{ range $current }}
+                {{ if (eq .name "Daijiang Li")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+            {{ range $current }}
+                {{ if not (eq .name "Daijiang Li")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+        </div>
+        <!-- <h2>Former members</h2>
+        <div class="listing">
+            {{ range $past }}
+                {{ partial "people.html" . }}
+            {{ end }}
+        </div> -->
+    </section>
+</main>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,64 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Li Lab"
+theme = "hugo-ivy"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+hasCJKLanguage = true
+enableEmoji = true
+date = "2020/08/08"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+[[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 3
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+[[menu.main]]
+    name = "Join us"
+    url = "/opportunities/"
+    weight = 5
+[[menu.main]]
+    name = "Value"
+    url = "/value/"
+    weight = 6
+
+[params]
+    description = "Quantitative Ecology in a Changing World"
+    footer = "&copy; [the Li lab](/) at [LSU Biology](https://www.lsu.edu/science/biosci/) & [CCT](https://www.cct.lsu.edu/) 2020 - "
+    dateFormat = "2006/01/02"
+    githubContentURL = "https://github.com/rbind/daijiang/edit/master/content/"
+    customJS = ["js/external-link.js", "js/alt-title.js", "js/header-link.js"]
+
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex"]
+  highlightjsTheme = "github"
+
+[logo]
+  img = "/image/logo.png"
+  
+[blackfriday]
+    extensionsmask = ["noIntraEmphasis"]
+    fractions = false
+    hrefTargetBlank = true
+
+[markup.goldmark.renderer]
+    unsafe = true

@@ -1,0 +1,294 @@
+/* navigation menu */
+@media screen and (min-width: 961px) {
+  .masthead {
+    position: sticky;
+    top: 0;
+    min-height: 100vh;
+    border-right: 15px solid #FDD023;
+    background: #461D7C;
+    width: 200px;
+    padding: 2em 1em;
+    float: left;
+  }
+  .main {
+    margin-left: calc(50% - 250px);
+  }
+  nav.menu {
+    color: #FDD023;
+    margin-top: 88px;
+  }
+
+  .masthead h1 a {
+    color: #FDD023;
+  }
+
+  .masthead p {
+    color: #FDD023;
+    font-weight: 500;
+  }
+
+  nav.menu a {
+    color: #FDD023;
+  }
+
+  .menu a:hover {
+    border-bottom: none;
+  }
+  
+  #widerimg {
+    width: 900px;
+    margin: 0;
+  	padding: 0;
+    text-align: center;
+    /* background-image:url('/images/yellow_trout_lily.jpg'); */
+  	align-content: center;
+  	margin-left: -120px;
+    margin-right: 100px;
+  }
+}
+
+
+
+.wideimg-text {
+  text-align: center;
+  position: absolute;
+  top: 46%;
+  left: 55%;
+  color: white;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+
+/* body of main content */
+body {
+    width: auto;
+    padding: 0;
+}
+
+.main {
+    padding: 2em 20px;
+    hyphens: none;
+    border-left: none;
+}
+
+.main a {
+    color: #461D7C;
+}
+
+.main a:hover {
+    color: #FDD023;
+    border-bottom: none;
+}
+
+/* color of links in main content */
+.menu-extra {
+    list-style: circle;
+    margin-top: 88px;
+}
+
+
+/* listing of people */
+
+.listing {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.item {
+  display: inline-block;
+  padding: .6em;
+  margin-bottom: 3em;
+  max-width: 215px;
+  vertical-align: top;
+}
+
+.item a {
+  color: #461D7C;
+}
+
+.item a:hover {
+  color: #FDD023;
+  border-bottom: none;
+}
+
+.item h2 {
+    font-weight: 500;
+    font-size: 120%;
+    color: black;
+    padding-top: 0em;
+    margin-bottom: 0em;
+    height: 3em;
+    text-align: center;
+}
+
+.item img.mugshot {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #461D7C;
+    /* box-shadow: 0 0 0 2pt #FDD023; */
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    filter: grayscale(25%);
+  }
+
+.item img.mugshot:hover {
+    filter: grayscale(0%);
+  }
+
+.item .summary {
+    color: #555;
+    font-weight: 400;
+    height: 12.5em;
+    line-height: 1.5em;
+}
+
+.itemResearch {
+  display: inline-block;
+  padding: .6em;
+  margin-bottom: 3em;
+  max-width: 280px;
+  vertical-align: top;
+}
+
+.itemResearch a {
+  color: #FDD023;
+  background-color: #461D7C;
+  font-weight: 600;
+  vertical-align: bottom;
+  padding: 0.6em;
+  border-radius: 1.2em;
+}
+
+.itemResearch a:hover {
+  color: #461D7C;
+  background-color: #FDD023;
+  border-bottom: none;
+}
+
+.itemResearch h2 {
+    font-weight: 500;
+    font-size: 120%;
+    color: black;
+    padding-top: 0em;
+    margin-bottom: 0em;
+    height: 5em;
+    text-align: center;
+}
+
+.itemResearch img.headImage {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #461D7C;
+    /* box-shadow: 0 0 0 2pt #FDD023; */
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+  }
+
+.itemResearch .summary {
+    color: #555;
+    font-weight: 400;
+    height: 15em;
+    line-height: 1.5em;
+}
+
+/* icons */
+
+.ai-2x:hover {
+  color: #FDD023;
+}
+
+.ai-2x {
+  padding-top: 3px;
+  color: #461D7C;
+}
+
+/* publication style */
+
+.paper {
+  margin-bottom: 1.4em;
+  line-height: 1.3em;
+}
+
+.paper .title {
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.paper .authors {
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.paper .metadata {
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.paper .badge a {
+  color: #461D7C;
+}
+
+.paper .badge a:hover {
+  color: #FDD023;
+}
+
+@media screen and (max-width: 960px) {
+  h1, h2, h3, h4, h5, h6 {
+    margin: 2em auto 1.5em auto;
+  }
+  #menu-label {
+    color: #461D7C;
+  }
+  .title h2, .title h3 {
+    margin: 1.5em auto;
+  }
+  .main .title h1 {
+    margin: 1em auto 0 auto;
+  }
+  .title hr {
+    margin: 2em auto;
+  }
+  .masthead {
+    padding: 1em;
+  }
+  .masthead .menu {
+    max-width: inherit;
+  }
+  .masthead h1 {
+    margin-bottom: 10px;
+  }
+  .masthead h1 a {
+    color: #461D7C;
+  }
+  .masthead p {
+    color: #461D7C;
+  }
+  .masthead .menu ul {
+    text-align: center;
+  }
+  .masthead .menu a {
+    display: inline-block;
+    padding: 5px 10px;
+    background: #461D7C;
+    color: #FDD023;
+    border-radius: 5px;
+  }
+  .masthead .menu .active a {
+    background: #FDD023;
+    border: 1px solid #444;
+    color: #461D7C;
+  }
+  .masthead .menu li, .masthead .menu li:first-child {
+    border: none;
+    display: inline-block;
+    margin-top: 5px;
+  }
+  .masthead .menu .menu-extra {
+    display: none;
+  }
+}

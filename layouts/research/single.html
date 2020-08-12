@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<main id="content">
+    <section class="container">
+        {{ .Content }}
+        {{ if .Page.Params.papers }}
+        
+        <h3>Selected articles</h3>
+        
+        {{ range where .Site.Data.papers "id" "in" .Page.Params.papers }}
+            {{ partial "publications.html" . }}
+        {{ end }}
+
+        {{ end }}
+    </section>
+</main>
+{{ partial "footer.html" . }}

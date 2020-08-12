@@ -1,0 +1,6 @@
+{{ if not .IsHome }}
+<h1>{{ .Title }}</h1>
+{{ with .Params.subtitle }}<h1><span class="subtitle">{{ . }}</span></h1>{{ end }}
+<h3>{{ with .Params.author }}{{ . }}{{ end }}
+<hr>
+{{ end }}

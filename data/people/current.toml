@@ -1,0 +1,22 @@
+[daijiangli]
+  name = "Daijiang Li"
+  mugshot = "mugshots/daijiangli.jpg"
+  text = [
+    "Quantitative Ecologist. Interested in how global changes have and will affect ecological communities.",
+    "Assistant professor at the [Department of Biological Sciences](https://www.lsu.edu/science/biosci/) and [CCT](https://www.cct.lsu.edu/), Louisiana State University"
+  ]
+  role = "Assistant professor"
+  [daijiangli.social]
+    email = "dli30@lsu.edu"
+    twitter = "_djli"
+    github = "daijiang"
+    www = "https://daijiang.name/"
+    orcid = "https://orcid.org/0000-0002-0925-3421"
+    cv = "/pdf/Li_cv.pdf"
+
+[you]
+  name = "You?"
+  mugshot = "images/logo.png"
+  text = ["I am looking for a Technician (start as soon as possible), a postdoc, and 1-2 PhD students. See the [join us](/opportunities/) page for more information",
+  "Feel free to contact me through :email: to discuss ideas."]
+  role = "PhD"

@@ -1,0 +1,2073 @@
+[
+	{
+		"id": "Li2020Changestaxonomicphylogenetic",
+		"type": "article-journal",
+		"abstract": "To better understand how ecosystems are changing, a multifaceted approach to measuring biodiversity that considers species richness (SR) and evolutionary history across spatial scales is needed. Here, we compiled 162 datasets for fish, bird and plant assemblages across the globe and measured how taxonomic and phylogenetic diversity changed at different spatial scales (within site α diversity and between sites spatial β diversity). Biodiversity change is measured from these datasets in three ways: across land use gradients, from species lists, and through sampling of the same locations across two time periods. We found that local SR and phylogenetic α diversity (Faith's PD (phylogenetic diversity)) increased for all taxonomic groups. However, when measured with a metric that is independent of SR (phylogenetic species variation, PSV), phylogenetic α diversity declined for all taxonomic groups. Land use datasets showed declines in SR, Faith's PD and PSV. For all taxonomic groups and data types, spatial taxonomic and phylogenetic β diversity decreased when measured with Sorensen dissimilarity and phylogenetic Sorensen dissimilarity, respectively, providing strong evidence of global biotic homogenization. The decoupling of α and β diversity, as well as taxonomic and phylogenetic diversity, highlights the need for a broader perspective on contemporary biodiversity changes. Conservation and environmental policy decisions thus need to consider biodiversity beyond local SR to protect biodiversity and ecosystem services.",
+		"container-title": "Proceedings of the Royal Society B: Biological Sciences",
+		"DOI": "10.1098/rspb.2020.0777",
+		"issue": "1929",
+		"journalAbbreviation": "Proceedings of the Royal Society B: Biological Sciences",
+		"note": "publisher: Royal Society",
+		"page": "20200777",
+		"source": "royalsocietypublishing.org (Atypon)",
+		"title": "Changes in taxonomic and phylogenetic diversity in the Anthropocene",
+		"URL": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0777",
+		"volume": "287",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Olden",
+				"given": "Julian D."
+			},
+			{
+				"family": "Lockwood",
+				"given": "Julie L."
+			},
+			{
+				"family": "Record",
+				"given": "Sydne"
+			},
+			{
+				"family": "McKinney",
+				"given": "Michael L."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "Guralnick2020Bodysizetrends",
+		"type": "article-journal",
+		"abstract": "Body size decline is hypothesized to be a key response to climate warming, including warming driven by urban heat islands. However, urbanization may also generate selective gradients for body size increases in smaller endotherms via habitat fragmentation. Here we utilize a densely sampled, multi-source dataset to examine how climate and urbanization affect body size of Peromyscus maniculatus (PEMA), an abundant rodent found across North America. We predicted PEMA would conform to Bergmann’s Rule, e.g. larger individuals in colder climates, spatially and temporally. Hypotheses regarding body size in relation to urbanization are less clear; however, with increased food resources due to greater anthropogenic activity, we expected an increase in PEMA size. Spatial mixed-models showed that PEMA conform to Bergmann’s Rule and that PEMA were shorter in more urbanized areas. With the inclusion of decade in mixed-models, we found PEMA mass, but not length, is decreasing over time irrespective of climate or population density. We also unexpectedly found that, over time, smaller-bodied populations of PEMA are getting larger, while larger-bodied populations are getting smaller. Our work highlights the importance of using dense spatiotemporal datasets, and modeling frameworks that account for bias, to better disentangle broad-scale climatic and urbanization effects on body size.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-020-65755-x",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"language": "en",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "8882",
+		"source": "www.nature.com",
+		"title": "Body size trends in response to climate and urbanization in the widespread North American deer mouse, Peromyscus maniculatus",
+		"URL": "https://www.nature.com/articles/s41598-020-65755-x",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Guralnick",
+				"given": "Robert"
+			},
+			{
+				"family": "Hantak",
+				"given": "Maggie M."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "McLean",
+				"given": "Bryan S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Harrison2020Climateplantcommunity",
+		"type": "article-journal",
+		"abstract": "Climate strongly shapes plant diversity over large spatial scales, with relatively warm and wet (benign, productive) regions supporting greater numbers of species. Unresolved aspects of this relationship include what causes it, whether it permeates to community diversity at smaller spatial scales, whether it is accompanied by patterns in functional and phylogenetic diversity as some hypotheses predict, and whether it is paralleled by climate-driven changes in diversity over time. Here, studies of Californian plants are reviewed and new analyses are conducted to synthesize climate–diversity relationships in space and time. Across spatial scales and organizational levels, plant diversity is maximized in more productive (wetter) climates, and these consistent spatial relationships are mirrored in losses of taxonomic, functional, and phylogenetic diversity over time during a recent climatic drying trend. These results support the tolerance and climatic niche conservatism hypotheses for climate–diversity relationships, and suggest there is some predictability to future changes in diversity in water-limited climates.",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.1921724117",
+		"ISSN": "0027-8424, 1091-6490",
+		"issue": "9",
+		"journalAbbreviation": "Proc Natl Acad Sci USA",
+		"language": "en",
+		"page": "4464-4470",
+		"source": "DOI.org (Crossref)",
+		"title": "Climate and plant community diversity in space and time",
+		"URL": "http://www.pnas.org/lookup/doi/10.1073/pnas.1921724117",
+		"volume": "117",
+		"author": [
+			{
+				"family": "Harrison",
+				"given": "Susan"
+			},
+			{
+				"family": "Spasojevic",
+				"given": "Marko J."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Barve2020Methodsbroadscaleplant",
+		"type": "article-journal",
+		"abstract": "Premise Citizen science platforms for sharing photographed digital vouchers, such as iNaturalist, are a promising source of phenology data, but methods and best practices for use have not been developed. Here we introduce methods using Yucca flowering phenology as a case study, because drivers of Yucca phenology are not well understood despite the need to synchronize flowering with obligate pollinators. There is also evidence of recent anomalous winter flowering events, but with unknown spatiotemporal extents. Methods We collaboratively developed a rigorous, consensus-based approach for annotating and sharing whole plant and flower presence data from iNaturalist and applied it to Yucca records. We compared spatiotemporal flowering coverage from our annotations with other broad-scale monitoring networks (e.g., the National Phenology Network) in order to determine the unique value of photograph-based citizen science resources. Results Annotations from iNaturalist were uniquely able to delineate extents of unusual flowering events in Yucca. These events, which occurred in two different regions of the Desert Southwest, did not appear to disrupt the typical-period flowering. Discussion Our work demonstrates that best practice approaches to scoring iNaturalist records provide fine-scale delimitation of phenological events. This approach can be applied to other plant groups to better understand how phenology responds to changing climate.",
+		"container-title": "Applications in Plant Sciences",
+		"DOI": "10.1002/aps3.11315",
+		"ISSN": "2168-0450",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/aps3.11315",
+		"page": "e11315",
+		"source": "Wiley Online Library",
+		"title": "Methods for broad-scale plant phenology assessments using citizen scientists’ photographs",
+		"URL": "https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/aps3.11315",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Barve",
+				"given": "Vijay V."
+			},
+			{
+				"family": "Brenskelle",
+				"given": "Laura"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Stucky",
+				"given": "Brian J."
+			},
+			{
+				"family": "Barve",
+				"given": "Narayani V."
+			},
+			{
+				"family": "Hantak",
+				"given": "Maggie M."
+			},
+			{
+				"family": "McLean",
+				"given": "Bryan S."
+			},
+			{
+				"family": "Paluh",
+				"given": "Daniel J."
+			},
+			{
+				"family": "Oswald",
+				"given": "Jessica A."
+			},
+			{
+				"family": "Belitz",
+				"given": "Michael W."
+			},
+			{
+				"family": "Folk",
+				"given": "Ryan A."
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2019effecturbanizationplant",
+		"type": "article-journal",
+		"abstract": "Plant and animal phenology is shifting in response to urbanization, with most hypotheses focusing on the ‘urban heat island’ (UHI) effect as the driver. However, generalities regarding the direction and magnitude of phenological response to urbanization have not yet emerged because most studies have focused on remote-sensed vegetative phenologies or at local scales with relatively few species. Furthermore, how urbanization interacts with broad-scale climate gradients remains an unknown but important component of anthropogenically driven phenological change. Here, we used a database with >22 million in situ plant phenological observations from the United States and Europe to study the joint influence of varying human population density, which serves as an urbanization measure, and of regional temperature on median flowering and leaf-out dates across a wide plant phylogenetic spectrum. Separately, increasing population density and warmer regional temperature both advanced plant flowering and leaf-out. However, the influence of human population density on plant flowering and leaf-out depends on the regional temperature: high population density advanced plant phenology in cold areas but this effect disappeared or even reversed in warm areas. UHI effects (as measured by daily land surface temperature) alone cannot explain the overall influence of urbanization on plant phenology, suggesting that urbanization also affects plant phenology via other mechanisms. Shorter plants with large specific leaf areas and early flower or leaf-out dates were most affected by urbanization and temperature changes. Our study provides strong empirical evidence that the influence of urbanization on plant phenology varies with regional temperature. Therefore, robust understanding and accurate prediction of phenological changes must take this interaction into account.",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-019-1004-1",
+		"ISSN": "2397-334X",
+		"issue": "12",
+		"language": "en",
+		"note": "number: 12\npublisher: Nature Publishing Group",
+		"page": "1661-1667",
+		"source": "www.nature.com",
+		"title": "The effect of urbanization on plant phenology depends on regional temperature",
+		"URL": "https://www.nature.com/articles/s41559-019-1004-1",
+		"volume": "3",
+		"pressrelease": [
+		  {"presslink": "https://www.nature.com/articles/s41559-019-1043-7"},
+		  {"presslink": "https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas"},
+		  {"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609"},
+		  {"presslink": "https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/"},
+		  {"presslink": "https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals"}
+		],
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Stucky",
+				"given": "Brian J."
+			},
+			{
+				"family": "Deck",
+				"given": "John"
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2019Climatedrivesloss",
+		"type": "article-journal",
+		"abstract": "While climate change has already profoundly influenced biodiversity through local extinctions, range shifts, and altered interactions, its effects on the evolutionary history contained within sets of coexisting species—or phylogenetic community diversity—have yet to be documented. Phylogenetic community diversity may be a proxy for the diversity of functional strategies that can help sustain ecological systems in the face of disturbances. Under climatic warming, phylogenetic diversity may be especially vulnerable to decline in plant communities in warm, water-limited regions, as intensified water stress eliminates drought-intolerant species that may be relicts of past wetter climates and may be distantly related to coexisting species. Here, we document a 19-y decline of phylogenetic diversity in a grassland community as moisture became less abundant and predictable at a critical time of the year. This decline was strongest in native forbs, particularly those with high specific leaf area, a trait indicating drought sensitivity. This decline occurred at the small spatial scale where species interact, but the larger regional community has so far been buffered against loss of phylogenetic diversity by its high levels of physical and biotic heterogeneity.",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.1912247116",
+		"ISSN": "0027-8424, 1091-6490",
+		"issue": "40",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"note": "publisher: National Academy of Sciences\nsection: Biological Sciences\nPMID: 31527249",
+		"page": "19989-19994",
+		"source": "www.pnas.org",
+		"title": "Climate drives loss of phylogenetic diversity in a grassland community",
+		"URL": "https://www.pnas.org/content/116/40/19989",
+		"volume": "116",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Miller",
+				"given": "Jesse E. D."
+			},
+			{
+				"family": "Harrison",
+				"given": "Susan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2019commoncommunityphylogenetic",
+		"type": "article-journal",
+		"abstract": "Should we build our own phylogenetic trees based on gene sequence data, or can we simply use available synthesis phylogenies? This is a fundamental question that any study involving a phylogenetic framework must face at the beginning of the project. Building a phylogeny from gene sequence data (purpose-built phylogeny) requires more effort, expertise, and cost than subsetting an already available phylogeny (synthesis-based phylogeny). However, we still lack a comparison of how these two approaches to building phylogenetic trees influence common community phylogenetic analyses such as comparing community phylogenetic diversity and estimating trait phylogenetic signal. Here, we generated three purpose-built phylogenies and their corresponding synthesis-based trees (two from Phylomatic and one from the Open Tree of Life, OTL). We simulated 1,000 communities and 12,000 continuous traits along each purpose-built phylogeny. We then compared the effects of different trees on estimates of phylogenetic diversity (alpha and beta) and phylogenetic signal (Pagel's λ and Blomberg's K). Synthesis-based phylogenies generally yielded higher estimates of phylogenetic diversity when compared to purpose-built phylogenies. However, resulting measures of phylogenetic diversity from both types of phylogenies were highly correlated (Spearman's ρ > 0.8 in most cases). Mean pairwise distance (both alpha and beta) is the index that is most robust to the differences in tree construction that we tested. Measures of phylogenetic diversity based on the OTL showed the highest correlation with measures based on the purpose-built phylogenies. Trait phylogenetic signal estimated with synthesis-based phylogenies, especially from the OTL, was also highly correlated with estimates of Blomberg's K or close to Pagel's λ from purpose-built phylogenies when traits were simulated under Brownian motion. For commonly employed community phylogenetic analyses, our results justify taking advantage of recently developed and continuously improving synthesis trees, especially the Open Tree of Life.",
+		"container-title": "Ecology",
+		"DOI": "10.1002/ecy.2788",
+		"ISSN": "1939-9170",
+		"issue": "9",
+		"language": "en",
+		"note": "_eprint: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.2788",
+		"page": "e02788",
+		"source": "Wiley Online Library",
+		"title": "For common community phylogenetic analyses, go ahead and use synthesis phylogenies",
+		"URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2788",
+		"biorxiv": "https://www.biorxiv.org/content/10.1101/370353v3.full",
+		"volume": "100",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren"
+			},
+			{
+				"family": "Marx",
+				"given": "Hannah E."
+			},
+			{
+				"family": "Allen",
+				"given": "Julie M."
+			},
+			{
+				"family": "Sun",
+				"given": "Miao"
+			},
+			{
+				"family": "Soltis",
+				"given": "Douglas E."
+			},
+			{
+				"family": "Soltis",
+				"given": "Pamela S."
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Miller2019Functionaldiversitypassenger",
+		"type": "article-journal",
+		"abstract": "Effects of climate change on plant community functional diversity are of interest since experiments have found functional diversity to predict ecosystem function. Functional diversity has been hypothesized to confer resilience to plant communities (as a “driver” of community change), but in unmanipulated natural communities, it might alternatively (or additionally) act as a “passenger” by responding to changes in plant diversity caused by extrinsic factors such as climate. We examined trends in plant functional diversity in annual grasslands in Northern California over a 19-year period, during which a trend towards drier winters had previously been associated with the losses of drought-intolerant species. We tested whether functional diversity decreased over the period of the study (acting as a passenger), and also whether initial site functional diversity influenced the degree of community change over the study period (acting as a driver). Initial community functional diversity was not related to species richness loss or community variability. We found that functional diversity declined as plant species richness and community mean specific leaf area declined over the course of the study, and all of these trends were associated with declining precipitation, indicating that functional diversity acted as a passenger of community change. Synthesis. This study is among the first to demonstrate that recent climatic trends may drive loss of functional diversity. Our findings highlight that functional diversity does not necessarily confer community resilience when its variation is shaped by the environment rather than by experimental treatments.",
+		"container-title": "Journal of Ecology",
+		"DOI": "10.1111/1365-2745.13244",
+		"ISSN": "1365-2745",
+		"issue": "5",
+		"language": "en",
+		"note": "_eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.13244",
+		"page": "2033-2039",
+		"source": "Wiley Online Library",
+		"title": "Functional diversity is a passenger but not driver of drought-related plant diversity losses in annual grasslands",
+		"URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13244",
+		"volume": "107",
+		"author": [
+			{
+				"family": "Miller",
+				"given": "Jesse E. D."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "LaForgia",
+				"given": "Marina"
+			},
+			{
+				"family": "Harrison",
+				"given": "Susan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Baiser2019Ecogeographicalrulesmacroecology",
+		"type": "article-journal",
+		"abstract": "Aim How do factors such as space, time, climate and other ecological drivers influence food web structure and dynamics? Collections of well-studied food webs and replicate food webs from the same system that span biogeographical and ecological gradients now enable detailed, quantitative investigation of such questions and help integrate food web ecology and macroecology. Here, we integrate macroecology and food web ecology by focusing on how ecogeographical rules [the latitudinal diversity gradient (LDG), Bergmann's rule, the island rule and Rapoport's rule] are associated with the architecture of food webs. Location Global. Time period Current. Major taxa studied All taxa. Methods We discuss the implications of each ecogeographical rule for food webs, present predictions for how food web structure will vary with each rule, assess empirical support where available, and discuss how food webs may influence ecogeographical rules. Finally, we recommend systems and approaches for further advancing this research agenda. Results We derived testable predictions for some ecogeographical rules (e.g. LDG, Rapoport's rule), while for others (e.g., Bergmann's and island rules) it is less clear how we would expect food webs to change over macroecological scales. Based on the LDG, we found weak support for both positive and negative relationships between food chain length and latitude and for increased generality and linkage density at higher latitudes. Based on Rapoport's rule, we found support for the prediction that species turnover in food webs is inversely related to latitude. Main conclusions The macroecology of food webs goes beyond traditional approaches to biodiversity at macroecological scales by focusing on trophic interactions among species. The collection of food web data for different types of ecosystems across biogeographical gradients is key to advance this research agenda. Further, considering food web interactions as a selection pressure that drives or disrupts ecogeographical rules has the potential to address both mechanisms of and deviations from these macroecological relationships. For these reasons, further integration of macroecology and food webs will help ecologists better understand the assembly, maintenance and change of ecosystems across space and time.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.12925",
+		"ISSN": "1466-8238",
+		"issue": "9",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.12925",
+		"page": "1204-1218",
+		"source": "Wiley Online Library",
+		"title": "Ecogeographical rules and the macroecology of food webs",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Gravel",
+				"given": "Dominique"
+			},
+			{
+				"family": "Cirtwill",
+				"given": "Alyssa R."
+			},
+			{
+				"family": "Dunne",
+				"given": "Jennifer A."
+			},
+			{
+				"family": "Fahimipour",
+				"given": "Ashkaan K."
+			},
+			{
+				"family": "Gilarranz",
+				"given": "Luis J."
+			},
+			{
+				"family": "Grochow",
+				"given": "Joshua A."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Martinez",
+				"given": "Neo D."
+			},
+			{
+				"family": "McGrew",
+				"given": "Alicia"
+			},
+			{
+				"family": "Poisot",
+				"given": "Timothée"
+			},
+			{
+				"family": "Romanuk",
+				"given": "Tamara N."
+			},
+			{
+				"family": "Stouffer",
+				"given": "Daniel B."
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren B."
+			},
+			{
+				"family": "Valdovinos",
+				"given": "Fernanda S."
+			},
+			{
+				"family": "Williams",
+				"given": "Richard J."
+			},
+			{
+				"family": "Wood",
+				"given": "Spencer A."
+			},
+			{
+				"family": "Yeakel",
+				"given": "Justin D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Albuquerque2019BayesianLDAmixedmembership",
+		"type": "article-journal",
+		"abstract": "The goal of this paper is to present the Rlda package for mixed-membership clustering analysis based on the Latent Dirichlet Allocation model adapted to different types of data (i.e., Multinomial, Bernoulli, and Binomial entries). We present the corresponding statistical models and illustrate their use with several examples using the Rlda package. Because these types of data frequently emerge in fields as disparate as ecology, remote sensing, marketing, and finance, we believe this package will be of broad interest for users interested in unsupervised pattern recognition, particularly mixed-membership clustering analysis for categorical data.",
+		"container-title": "Knowledge-Based Systems",
+		"DOI": "10.1016/j.knosys.2018.10.024",
+		"ISSN": "0950-7051",
+		"journalAbbreviation": "Knowledge-Based Systems",
+		"language": "en",
+		"page": "988-995",
+		"source": "ScienceDirect",
+		"title": "Bayesian LDA for mixed-membership clustering analysis: The Rlda package",
+		"title-short": "Bayesian LDA for mixed-membership clustering analysis",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0950705118305100",
+		"github": "https://github.com/PedroBSB/Rlda",
+		"volume": "163",
+		"author": [
+			{
+				"family": "Albuquerque",
+				"given": "Pedro H. M."
+			},
+			{
+				"family": "Valle",
+				"given": "Denis Ribeiro",
+				"non-dropping-particle": "do"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2018Homogenizationspeciescomposition",
+		"type": "article-journal",
+		"abstract": "Aim Ecological communities are composed of both species and the biotic relationships (interactions or spatial associations) among them. Biotic homogenization in species composition (i.e., increased site-to-site similarity) is recognized as a common consequence of global change, but less is known about how the similarity of species relationships changes over space and time. Does homogenization of species composition lead to homogenization of species relationships or are the dynamics of species relationships decoupled from changes in species composition? Location Wisconsin, USA. Time period 1950–2012. Major taxa studied Vascular plants. Methods We used long-term resurvey data to analyse changes in plant species association patterns between the 1950s and 2000s at 266 sites distributed among three community types in Wisconsin, USA. We used species associations (quantified via local co-occurrence patterns) to represent one type of relationship among species. Species pairs that co-occur more or less than expected by chance have positive or negative associations, respectively. We then measured beta diversity in both species composition and species association networks over time and space. Results Shifts in species associations consistently exceeded the shifts observed in species composition. Less disturbed forests of northern Wisconsin have converged somewhat in species composition but little in species associations. In contrast, forests in central Wisconsin succeeding from pine barrens to closed-canopy forests have strongly homogenized in both species composition and species associations. More fragmented forests in southern Wisconsin also tended to converge in species composition and in the species’ negative associations, but their positive associations diverged over the last half century. Species composition and associations are generally affected by a similar set of environmental variables. Their relative importance, however, has changed over time. Main conclusions Long-term shifts in species relationships appear to be decoupled from shifts in species composition despite being affected by similar environmental variables.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.12825",
+		"ISSN": "1466-8238",
+		"issue": "12",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.12825",
+		"page": "1481-1491",
+		"source": "Wiley Online Library",
+		"title": "Homogenization of species composition and species association networks are decoupled",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12825",
+		"biorxiv": "https://www.biorxiv.org/content/early/2018/02/14/265264",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Poisot",
+				"given": "Timothée"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2018hillRtaxonomicfunctional",
+		"type": "article-journal",
+		"abstract": "Li, (2018). hillR: taxonomic, functional, and phylogenetic diversity and similarity through Hill Numbers. Journal of Open Source Software, 3(31), 1041, https://doi.org/10.21105/joss.01041",
+		"container-title": "Journal of Open Source Software",
+		"DOI": "10.21105/joss.01041",
+		"ISSN": "2475-9066",
+		"issue": "31",
+		"language": "en",
+		"page": "1041",
+		"source": "joss.theoj.org",
+		"title": "hillR: taxonomic, functional, and phylogenetic diversity and similarity through Hill Numbers",
+		"title-short": "hillR",
+		"URL": "https://joss.theoj.org/papers/10.21105/joss.01041",
+		"github": "https://github.com/daijiang/hillR",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "Ives2018rr2packagecalculate",
+		"type": "article-journal",
+		"abstract": "Ives et al., (2018). rr2: An R package to calculate $R^2$s for regression models. Journal of Open Source Software, 3(30), 1028, https://doi.org/10.21105/joss.01028",
+		"container-title": "Journal of Open Source Software",
+		"DOI": "10.21105/joss.01028",
+		"ISSN": "2475-9066",
+		"issue": "30",
+		"language": "en",
+		"page": "1028",
+		"source": "joss.theoj.org",
+		"title": "`rr2`: An R package to calculate $R^2$s for regression models",
+		"title-short": "`rr2`",
+		"URL": "https://joss.theoj.org/papers/10.21105/joss.01028",
+		"github": "https://github.com/arives/rr2",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Ives",
+				"given": "Anthony R."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "Baiser2018Comparingspeciesarea",
+		"type": "article-journal",
+		"abstract": "The species–area relationship (SAR) is one of the most general patterns in ecology. Recently, SARs have been employed as tools for comparing the ecology and biogeography of native and exotic species across spatial scales and exploring the influence of invasive species on native biodiversity. Here, we assess published studies to determine if SARs differ between native and exotic assemblages. We conducted a literature search to find studies that estimated the exponent (z) of the power-law SAR for native and exotic species across the same set of locales. We also compiled intercepts (c) of SARs where available. We used linear mixed models to test if z and c differed between native and exotic SARs and if this relationship differed across taxa. Our literature search produced 36 native-exotic pairs from 23 studies with which to compare the exponent of the power-law SAR. Further, SAR intercepts were available for 21 native-exotic pairs. Overall, exotic SAR exponents (z) did not differ from those of natives. However, this pattern did not hold across all taxonomic groups. Plant assemblages, which are best represented in our data (61% of total), mirrored the overall pattern showing no differences in exponents between native and exotic SARs. On the other hand, SAR exponents were greater for both native bird and animal assemblages. The intercepts (c) of native SARs were significantly greater than those of exotics for all taxa combined and for each individual taxonomic grouping. Our results suggest processes driving the increase in species richness with area are similar for native and exotic plant species, but not for animals. Expanding studies that compare SARs of native and exotic species to more taxonomic groups and different types of SARs (e.g., nested, contiguous, non-contiguous) will facilitate a better understanding of how native and exotic species richness scale with area.",
+		"container-title": "Biological Invasions",
+		"DOI": "10.1007/s10530-018-1802-4",
+		"ISSN": "1573-1464",
+		"issue": "12",
+		"journalAbbreviation": "Biol Invasions",
+		"language": "en",
+		"page": "3647-3658",
+		"source": "Springer Link",
+		"title": "Comparing species–area relationships of native and exotic species",
+		"URL": "https://doi.org/10.1007/s10530-018-1802-4",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2018TaxonomicPhylogeneticHomogenization",
+		"type": "chapter",
+		"abstract": "US national parks are firmly engrained into the culture of the country. Since the first national park was established in 1872, these protected areas have been central to biodiversity conservation, education, and recreation in the United States. However, national parks face many of the same threats to biodiversity as non-protected areas, including non-native species invasion. As invasive species spread and replace native species across national parks, the composition, function, and evolutionary history of these ecological communities continue to change. To better understand the impact of non-native species on ecological communities in US national parks, we compared species composition for bird and plant assemblages in 244 and 241 national park units, respectively, with and without non-native species. We specifically ask if the establishment of non-native species has resulted in taxonomic and phylogenetic homogenization across national parks. We show that the establishment of non-native plants in US national parks has resulted in both taxonomic and phylogenetic homogenization. However, the establishment of non-native birds has led to phylogenetic differentiation in spite of taxonomic homogenization, indicating that taxonomic and phylogenetic homogenization are decoupled. As the uniqueness of regional floras and faunas is lost through the process of homogenization, not only is biodiversity lost but so are cultural resources and values that define the United States.",
+		"collection-title": "Ecology and Ethics",
+		"container-title": "From Biocultural Homogenization to Biocultural Conservation",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-99513-7",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-99513-7_17",
+		"page": "275-288",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Taxonomic and Phylogenetic Homogenization Across US National Parks: The Role of Non-native Species",
+		"title-short": "Taxonomic and Phylogenetic Homogenization Across US National Parks",
+		"URL": "https://doi.org/10.1007/978-3-319-99513-7_17",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Lockwood",
+				"given": "Julie L."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"editor": [
+			{
+				"family": "Rozzi",
+				"given": "Ricardo"
+			},
+			{
+				"family": "May Jr.",
+				"given": "Roy H."
+			},
+			{
+				"family": "Chapin III",
+				"given": "F. Stuart"
+			},
+			{
+				"family": "Massardo",
+				"given": "Francisca"
+			},
+			{
+				"family": "Gavin",
+				"given": "Michael C."
+			},
+			{
+				"family": "Klaver",
+				"given": "Irene J."
+			},
+			{
+				"family": "Pauchard",
+				"given": "Aníbal"
+			},
+			{
+				"family": "Nuñez",
+				"given": "Martin A."
+			},
+			{
+				"family": "Simberloff",
+				"given": "Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Trotta2018Communityphylogenyglobally",
+		"type": "article-journal",
+		"abstract": "Premise of the Study Community phylogenetic methods incorporate information on evolutionary relationships into studies of organismal assemblages. We used a community phylogenetic framework to investigate relationships and biogeographic affinities and to calculate phylogenetic signal of endemism and invasiveness for the flora of the pine rocklands—a globally critically imperiled ecosystem with a significant portion of its distribution in South Florida, United States. Methods We reconstructed phylogenetic relationships of 538 vascular plant taxa, which represent 92.28% of the vascular flora of the pine rocklands. We estimated phylogenetic signal for endemism and invasiveness using phylogenetic generalized linear mixed models. We determined the native range for each species in the data set and calculated the total number of species sourced from each region and all possible combinations of these regions. Key Results The pine rockland flora includes representatives of all major vascular plant lineages, and most species have native ranges in the New World. There was strong phylogenetic signal for endemism, but not for invasiveness. Conclusions Community phylogenetics has high potential value for conservation planning, particularly for fragmented and endangered ecosystems like the pine rockland. Strong phylogenetic signal for endemic species in our data set, which also tend to be threatened or endangered, can help to identify species at risk, as well as fragments where those species occur, highlighting conservation priorities. Our results indicate, at least in the pine rockland ecosystem, no phylogenetic signal for invasive species, and thus other information must be used to predict the potential for invasiveness.",
+		"container-title": "American Journal of Botany",
+		"DOI": "10.1002/ajb2.1168",
+		"ISSN": "1537-2197",
+		"issue": "10",
+		"language": "en",
+		"note": "_eprint: https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.1168",
+		"page": "1735-1747",
+		"source": "Wiley Online Library",
+		"title": "Community phylogeny of the globally critically imperiled pine rockland ecosystem",
+		"URL": "https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1168",
+		"volume": "105",
+		"author": [
+			{
+				"family": "Trotta",
+				"given": "Lauren B."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Possley",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Lange",
+				"given": "James"
+			},
+			{
+				"family": "Martin",
+				"given": "Sarah"
+			},
+			{
+				"family": "Sessa",
+				"given": "Emily B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Perring2018Understandingcontextdependency",
+		"type": "article-journal",
+		"abstract": "Understorey communities can dominate forest plant diversity and strongly affect forest ecosystem structure and function. Understoreys often respond sensitively but inconsistently to drivers of ecological change, including nitrogen (N) deposition. Nitrogen deposition effects, reflected in the concept of critical loads, vary greatly not only among species and guilds, but also among forest types. Here, we characterize such context dependency as driven by differences in the amounts and forms of deposited N, cumulative deposition, the filtering of N by overstoreys, and available plant species pools. Nitrogen effects on understorey trajectories can also vary due to differences in surrounding landscape conditions; ambient browsing pressure; soils and geology; other environmental factors controlling plant growth; and, historical and current disturbance/management regimes. The number of these factors and their potentially complex interactions complicate our efforts to make simple predictions about how N deposition affects forest understoreys. We review the literature to examine evidence for context dependency in N deposition effects on forest understoreys. We also use data from 1814 European temperate forest plots to test the ability of multi-level models to characterize context-dependent understorey responses across sites that differ in levels of N deposition, community composition, local conditions and management history. This analysis demonstrated that historical management, and plot location on light and pH-fertility gradients, significantly affect how understorey communities respond to N deposition. We conclude that species' and communities' responses to N deposition, and thus the determination of critical loads, vary greatly depending on environmental contexts. This complicates our efforts to predict how N deposition will affect forest understoreys and thus how best to conserve and restore understorey biodiversity. To reduce uncertainty and incorporate context dependency in critical load setting, we should assemble data on underlying environmental conditions, conduct globally distributed field experiments, and analyse a wider range of habitat types.",
+		"container-title": "Environmental Pollution",
+		"DOI": "10.1016/j.envpol.2018.07.089",
+		"ISSN": "0269-7491",
+		"journalAbbreviation": "Environmental Pollution",
+		"language": "en",
+		"page": "1787-1799",
+		"source": "ScienceDirect",
+		"title": "Understanding context dependency in the response of forest understorey plant communities to nitrogen deposition",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0269749118316610",
+		"volume": "242",
+		"author": [
+			{
+				"family": "Perring",
+				"given": "Michael P."
+			},
+			{
+				"family": "Diekmann",
+				"given": "Martin"
+			},
+			{
+				"family": "Midolo",
+				"given": "Gabriele"
+			},
+			{
+				"family": "Schellenberger Costa",
+				"given": "David"
+			},
+			{
+				"family": "Bernhardt-Römermann",
+				"given": "Markus"
+			},
+			{
+				"family": "Otto",
+				"given": "Johanna C. J."
+			},
+			{
+				"family": "Gilliam",
+				"given": "Frank S."
+			},
+			{
+				"family": "Hedwall",
+				"given": "Per-Ola"
+			},
+			{
+				"family": "Nordin",
+				"given": "Annika"
+			},
+			{
+				"family": "Dirnböck",
+				"given": "Thomas"
+			},
+			{
+				"family": "Simkin",
+				"given": "Samuel M."
+			},
+			{
+				"family": "Máliš",
+				"given": "František"
+			},
+			{
+				"family": "Blondeel",
+				"given": "Haben"
+			},
+			{
+				"family": "Brunet",
+				"given": "Jörg"
+			},
+			{
+				"family": "Chudomelová",
+				"given": "Markéta"
+			},
+			{
+				"family": "Durak",
+				"given": "Tomasz"
+			},
+			{
+				"family": "De Frenne",
+				"given": "Pieter"
+			},
+			{
+				"family": "Hédl",
+				"given": "Radim"
+			},
+			{
+				"family": "Kopecký",
+				"given": "Martin"
+			},
+			{
+				"family": "Landuyt",
+				"given": "Dries"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Manning",
+				"given": "Peter"
+			},
+			{
+				"family": "Petřík",
+				"given": "Petr"
+			},
+			{
+				"family": "Reczyńska",
+				"given": "Kamila"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Standovár",
+				"given": "Tibor"
+			},
+			{
+				"family": "Świerkosz",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Vild",
+				"given": "Ondřej"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			},
+			{
+				"family": "Verheyen",
+				"given": "Kris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Liao2018Soilmicrobesregulate",
+		"type": "article-journal",
+		"abstract": "Ecological forest succession can be influenced by plant-plant interactions that exert contrasting effects on early- and late-successional species. In this study, we explored the role of indirect plant-plant interactions and the underlying microbial mechanisms in forest succession.",
+		"container-title": "Plant and Soil",
+		"DOI": "10.1007/s11104-018-3733-3",
+		"ISSN": "1573-5036",
+		"issue": "1",
+		"journalAbbreviation": "Plant Soil",
+		"language": "en",
+		"page": "277-289",
+		"source": "Springer Link",
+		"title": "Soil microbes regulate forest succession in a subtropical ecosystem in China: evidence from a mesocosm experiment",
+		"title-short": "Soil microbes regulate forest succession in a subtropical ecosystem in China",
+		"URL": "https://doi.org/10.1007/s11104-018-3733-3",
+		"volume": "430",
+		"author": [
+			{
+				"family": "Liao",
+				"given": "Huixuan"
+			},
+			{
+				"family": "Huang",
+				"given": "Fangfang"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Kang",
+				"given": "Luyao"
+			},
+			{
+				"family": "Chen",
+				"given": "Baoming"
+			},
+			{
+				"family": "Zhou",
+				"given": "Ting"
+			},
+			{
+				"family": "Peng",
+				"given": "Shaolin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2018Speciesrichnessphylogenetic",
+		"type": "article-journal",
+		"abstract": "Aim To test whether native and non-native species have similar diversity–area relationships (species–area relationships [SARs] and phylogenetic diversity–area relationships [PDARs]) and whether they respond similarly to environmental variables. Location United States. Methods Using lists of native and non-native species as well as environmental variables for >250 US national parks, we compared SARs and PDARs of native and non-native species to test whether they respond similarly to environmental conditions. We then used multiple regressions involving climate, land cover and anthropogenic variables to further explore underlying predictors of diversity for plants and birds in US national parks. Results Native and non-native species had different slopes for SARs and PDARs, with significantly higher slopes for native species. Corroborating this pattern, multiple regressions showed that native and non-native diversity of plants and birds responded differently to a greater number of environmental variables than expected by chance. For native species richness, park area and longitude were the most important variables while the number of park visitors, temperature and the percentage of natural area were among the most important ones for non-native species richness. Interestingly, the most important predictor of native and non-native plant phylogenetic diversity, temperature, had positive effects on non-native plants but negative effects on natives. Main conclusions SARs, PDARs and multiple regressions all suggest that native and non-native plants and birds responded differently to environmental factors that influence their diversity. The agreement between diversity–area relationships and multiple regressions with environmental variables suggests that SARs and PDARs can be both used as quick proxies of overall responses of species to environmental conditions. However, more importantly, our results suggest that global change will have different effects on native and non-native species, making it inappropriate to apply the large body of knowledge on native species to understand patterns of community assembly of non-native species.",
+		"container-title": "Diversity and Distributions",
+		"DOI": "10.1111/ddi.12731",
+		"ISSN": "1472-4642",
+		"issue": "6",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.12731",
+		"page": "853-864",
+		"source": "Wiley Online Library",
+		"title": "Species richness and phylogenetic diversity of native and non-native species respond differently to area and environmental factors",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ddi.12731",
+		"github": "https://github.com/daijiang/rnps",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Monahan",
+				"given": "William B."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Sessa2018Communityassemblyferns",
+		"type": "article-journal",
+		"abstract": "Premise of the Study Many ecological and evolutionary processes shape the assembly of organisms into local communities from a regional pool of species. We analyzed phylogenetic and functional diversity to understand community assembly of the ferns of Florida at two spatial scales. Methods We built a phylogeny for 125 of the 141 species of ferns in Florida using five chloroplast markers. We calculated mean pairwise dissimilarity (MPD) and mean nearest taxon distance (MNTD) from phylogenetic distances and functional trait data for both spatial scales and compared the results to null models to assess significance. Key Results Our results for over vs. underdispersion in functional and phylogenetic diversity differed depending on spatial scale and metric considered. At the county scale, MPD revealed evidence for phylogenetic overdispersion, while MNTD revealed phylogenetic and functional underdispersion, and at the conservation area scale, MPD revealed phylogenetic and functional underdispersion while MNTD revealed evidence only of functional underdispersion. Conclusions Our results are consistent with environmental filtering playing a larger role at the smaller, conservation area scale. The smaller spatial units are likely composed of fewer local habitat types that are selecting for closely related species, with the larger-scale units more likely to be composed of multiple habitat types that bring together a larger pool of species from across the phylogeny. Several aspects of fern biology, including their unique physiology and water relations and the importance of the independent gametophyte stage of the life cycle, make ferns highly sensitive to local, microhabitat conditions.",
+		"container-title": "American Journal of Botany",
+		"DOI": "10.1002/ajb2.1073",
+		"ISSN": "1537-2197",
+		"issue": "3",
+		"language": "en",
+		"note": "_eprint: https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.1073",
+		"page": "549-564",
+		"source": "Wiley Online Library",
+		"title": "Community assembly of the ferns of Florida",
+		"URL": "https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1073",
+		"volume": "105",
+		"author": [
+			{
+				"family": "Sessa",
+				"given": "Emily B."
+			},
+			{
+				"family": "Chambers",
+				"given": "Sally M."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren"
+			},
+			{
+				"family": "Endara",
+				"given": "Lorena"
+			},
+			{
+				"family": "Burleigh",
+				"given": "J. Gordon"
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Perring2018Globalenvironmentalchange",
+		"type": "article-journal",
+		"abstract": "The contemporary state of functional traits and species richness in plant communities depends on legacy effects of past disturbances. Whether temporal responses of community properties to current environmental changes are altered by such legacies is, however, unknown. We expect global environmental changes to interact with land-use legacies given different community trajectories initiated by prior management, and subsequent responses to altered resources and conditions. We tested this expectation for species richness and functional traits using 1814 survey-resurvey plot pairs of understorey communities from 40 European temperate forest datasets, syntheses of management transitions since the year 1800, and a trait database. We also examined how plant community indicators of resources and conditions changed in response to management legacies and environmental change. Community trajectories were clearly influenced by interactions between management legacies from over 200 years ago and environmental change. Importantly, higher rates of nitrogen deposition led to increased species richness and plant height in forests managed less intensively in 1800 (i.e., high forests), and to decreases in forests with a more intensive historical management in 1800 (i.e., coppiced forests). There was evidence that these declines in community variables in formerly coppiced forests were ameliorated by increased rates of temperature change between surveys. Responses were generally apparent regardless of sites’ contemporary management classifications, although sometimes the management transition itself, rather than historic or contemporary management types, better explained understorey responses. Main effects of environmental change were rare, although higher rates of precipitation change increased plant height, accompanied by increases in fertility indicator values. Analysis of indicator values suggested the importance of directly characterising resources and conditions to better understand legacy and environmental change effects. Accounting for legacies of past disturbance can reconcile contradictory literature results and appears crucial to anticipating future responses to global environmental change.",
+		"container-title": "Global Change Biology",
+		"DOI": "10.1111/gcb.14030",
+		"ISSN": "1365-2486",
+		"issue": "4",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14030",
+		"page": "1722-1740",
+		"source": "Wiley Online Library",
+		"title": "Global environmental change effects on plant community composition trajectories depend upon management legacies",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14030",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Perring",
+				"given": "Michael P."
+			},
+			{
+				"family": "Bernhardt‐Römermann",
+				"given": "Markus"
+			},
+			{
+				"family": "Baeten",
+				"given": "Lander"
+			},
+			{
+				"family": "Midolo",
+				"given": "Gabriele"
+			},
+			{
+				"family": "Blondeel",
+				"given": "Haben"
+			},
+			{
+				"family": "Depauw",
+				"given": "Leen"
+			},
+			{
+				"family": "Landuyt",
+				"given": "Dries"
+			},
+			{
+				"family": "Maes",
+				"given": "Sybryn L."
+			},
+			{
+				"family": "Lombaerde",
+				"given": "Emiel De"
+			},
+			{
+				"family": "Carón",
+				"given": "Maria Mercedes"
+			},
+			{
+				"family": "Vellend",
+				"given": "Mark"
+			},
+			{
+				"family": "Brunet",
+				"given": "Jörg"
+			},
+			{
+				"family": "Chudomelová",
+				"given": "Markéta"
+			},
+			{
+				"family": "Decocq",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Diekmann",
+				"given": "Martin"
+			},
+			{
+				"family": "Dirnböck",
+				"given": "Thomas"
+			},
+			{
+				"family": "Dörfler",
+				"given": "Inken"
+			},
+			{
+				"family": "Durak",
+				"given": "Tomasz"
+			},
+			{
+				"family": "Frenne",
+				"given": "Pieter De"
+			},
+			{
+				"family": "Gilliam",
+				"given": "Frank S."
+			},
+			{
+				"family": "Hédl",
+				"given": "Radim"
+			},
+			{
+				"family": "Heinken",
+				"given": "Thilo"
+			},
+			{
+				"family": "Hommel",
+				"given": "Patrick"
+			},
+			{
+				"family": "Jaroszewicz",
+				"given": "Bogdan"
+			},
+			{
+				"family": "Kirby",
+				"given": "Keith J."
+			},
+			{
+				"family": "Kopecký",
+				"given": "Martin"
+			},
+			{
+				"family": "Lenoir",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Máliš",
+				"given": "František"
+			},
+			{
+				"family": "Mitchell",
+				"given": "Fraser J. G."
+			},
+			{
+				"family": "Naaf",
+				"given": "Tobias"
+			},
+			{
+				"family": "Newman",
+				"given": "Miles"
+			},
+			{
+				"family": "Petřík",
+				"given": "Petr"
+			},
+			{
+				"family": "Reczyńska",
+				"given": "Kamila"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Standovár",
+				"given": "Tibor"
+			},
+			{
+				"family": "Świerkosz",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Calster",
+				"given": "Hans Van"
+			},
+			{
+				"family": "Vild",
+				"given": "Ondřej"
+			},
+			{
+				"family": "Wagner",
+				"given": "Eva Rosa"
+			},
+			{
+				"family": "Wulf",
+				"given": "Monika"
+			},
+			{
+				"family": "Verheyen",
+				"given": "Kris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2017statisticalneedinclude",
+		"type": "article-journal",
+		"abstract": "A growing number of studies incorporate functional trait information to analyse patterns and processes of community assembly. These studies of trait–environment relationships generally ignore phylogenetic relationships among species. When functional traits and the residual variation in species distributions among communities have phylogenetic signal, however, analyses ignoring phylogenetic relationships can decrease estimation accuracy and power, inflate type I error rates and lead to potentially false conclusions. Using simulations, we compared estimation accuracy, statistical power and type I error rates of linear mixed models (LMM) and phylogenetic linear mixed models (PLMM) designed to test for trait–environment interactions in the distribution of species abundances among sites. We considered the consequences of both phylogenetic signal in traits and phylogenetic signal in the residual variation in species distributions generated by an unmeasured (latent) trait with phylogenetic signal. When there was phylogenetic signal in the residual variation in species among sites, PLMM provided better estimates (closer to the true value) and greater statistical power for testing whether the trait–environment interaction regression coefficient differed from zero. LMM had unacceptably high type I error rates when there was phylogenetic signal in both traits and the residual variation in species distributions. When there was no phylogenetic signal in the residual variation in species distributions, LMM and PLMM had similar performances. Linear mixed models that ignore phylogenetic relationships can lead to poor statistical tests of trait–environment relationships when there is phylogenetic signal in the residual variation in species distributions among sites, such as caused by unmeasured traits. Therefore, phylogenies and PLMMs should be used when studying how functional traits affect species abundances among communities in response to environmental gradients.",
+		"container-title": "Methods in Ecology and Evolution",
+		"DOI": "10.1111/2041-210X.12767",
+		"ISSN": "2041-210X",
+		"issue": "10",
+		"language": "en",
+		"note": "_eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.12767",
+		"page": "1192-1199",
+		"source": "Wiley Online Library",
+		"title": "The statistical need to include phylogeny in trait-based analyses of community composition",
+		"URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12767",
+		"github": "https://github.com/daijiang/Trait-Envi-Interactions",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Ives",
+				"given": "Anthony R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2017Fireexclusionclimate",
+		"type": "article-journal",
+		"abstract": "Aim Plant functional traits allow us to mechanistically link changes in species composition to changes in ecosystem functions. Understanding how and why changes occur in functional composition of plant communities can thus help us better conserve and restore biodiversity. We aim to examine long-term effects of fire exclusion and climate change on the functional composition of fire-maintained pine barrens in central Wisconsin. Location Central Wisconsin, USA. Methods Using a database that included vegetation data of surveys (1958) and resurveys (2012) of 30 sites, we quantified functional composition (α and β functional diversity, community-weighted means) of each site at both time periods. We then applied linear regression and linear mixed models to study effects of fire exclusion and climate change on changes in functional composition. Results We observed shifts towards larger specific leaf area, greater seed mass and other traits related to shade tolerance. These communities thus appear to be undergoing ecological succession, favouring plant adaptions to better harvest light and carbon in darker, warmer and wetter habitats. Functional alpha diversity increased, while functional beta diversity decreased even after controlling for changes in taxonomic diversity. Fire exclusion and climate change both contributed to these increases in local functional diversity but neither is related to the functional homogenization observed. Fire exclusion and climate change also interacted negatively to affect local functional diversity, suggesting that future climate change and succession may soon reduce alpha functional diversity. Main conclusions Our study provides a rare record of long-term functional dynamics and demonstrates that fire exclusion and climate change can interact to affect the functional composition of plant communities. Thus, we should consider changes in local ecological conditions as we seek to predict how climate change will affect the functional composition of plant communities.",
+		"container-title": "Diversity and Distributions",
+		"DOI": "10.1111/ddi.12542",
+		"ISSN": "1472-4642",
+		"issue": "5",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.12542",
+		"page": "496-506",
+		"source": "Wiley Online Library",
+		"title": "Fire exclusion and climate change interact to affect long-term changes in the functional composition of plant communities",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ddi.12542",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2017Canfunctionaltraits",
+		"type": "article-journal",
+		"abstract": "Phylogenetic and functional trait-based analyses inform our understanding of community composition, yet methods for quantifying the overlap in information derived from functional traits and phylogenies remain underdeveloped. Does adding traits to analyses of community composition reduce the phylogenetic signal in the residual variation? If not, then measured functional traits alone may be insufficient to explain community assembly. We propose a general statistical framework to quantify the proportion of phylogenetic pattern in community composition that remains after including measured functional traits. We then illustrate the framework with applications to two empirical data sets. Both data sets showed strong phylogenetic attraction, with related species likely to co-occur in the same communities. In one data set, including traits eliminated all phylogenetic signals in the residual variation of both abundance and presence/absence patterns. In the second data set, including traits reduced phylogenetic signal in residuals by 25% and 98% for abundance and presence/absence data, respectively. Our framework provides an explicit way to estimate how much phylogenetic community pattern remains in the residual variation after including measured functional traits. Knowing that functional traits account for most of the phylogenetic pattern should provide confidence that important traits for phylogenetic community structure have been identified. Conversely, knowing that there is unexplained residual phylogenetic information should spur the search for additional functional traits or other processes underlying community assembly.",
+		"container-title": "New Phytologist",
+		"DOI": "10.1111/nph.14397",
+		"ISSN": "1469-8137",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.14397",
+		"page": "607-618",
+		"source": "Wiley Online Library",
+		"title": "Can functional traits account for phylogenetic signal in community composition?",
+		"URL": "https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.14397",
+		"github": "https://github.com/daijiang/New_Phytologist_Appendix",
+		"volume": "214",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Ives",
+				"given": "Anthony R."
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Verheyen2017CombiningBiodiversityResurveys",
+		"type": "article-journal",
+		"abstract": "Abstract.  More and more ecologists have started to resurvey communities sampled in earlier decades to determine long-term shifts in community composition and i",
+		"container-title": "BioScience",
+		"DOI": "10.1093/biosci/biw150",
+		"ISSN": "0006-3568",
+		"issue": "1",
+		"journalAbbreviation": "BioScience",
+		"language": "en",
+		"note": "publisher: Oxford Academic",
+		"page": "73-83",
+		"source": "academic.oup.com",
+		"title": "Combining Biodiversity Resurveys across Regions to Advance Global Change Research",
+		"URL": "https://academic.oup.com/bioscience/article/67/1/73/2661833",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Verheyen",
+				"given": "Kris"
+			},
+			{
+				"family": "De Frenne",
+				"given": "Pieter"
+			},
+			{
+				"family": "Baeten",
+				"given": "Lander"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			},
+			{
+				"family": "Hédl",
+				"given": "Radim"
+			},
+			{
+				"family": "Perring",
+				"given": "Michael P."
+			},
+			{
+				"family": "Blondeel",
+				"given": "Haben"
+			},
+			{
+				"family": "Brunet",
+				"given": "Jörg"
+			},
+			{
+				"family": "Chudomelová",
+				"given": "Markéta"
+			},
+			{
+				"family": "Decocq",
+				"given": "Guillaume"
+			},
+			{
+				"family": "De Lombaerde",
+				"given": "Emiel"
+			},
+			{
+				"family": "Depauw",
+				"given": "Leen"
+			},
+			{
+				"family": "Dirnböck",
+				"given": "Thomas"
+			},
+			{
+				"family": "Durak",
+				"given": "Tomasz"
+			},
+			{
+				"family": "Eriksson",
+				"given": "Ove"
+			},
+			{
+				"family": "Gilliam",
+				"given": "Frank S."
+			},
+			{
+				"family": "Heinken",
+				"given": "Thilo"
+			},
+			{
+				"family": "Heinrichs",
+				"given": "Steffi"
+			},
+			{
+				"family": "Hermy",
+				"given": "Martin"
+			},
+			{
+				"family": "Jaroszewicz",
+				"given": "Bogdan"
+			},
+			{
+				"family": "Jenkins",
+				"given": "Michael A."
+			},
+			{
+				"family": "Johnson",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Kirby",
+				"given": "Keith J."
+			},
+			{
+				"family": "Kopecký",
+				"given": "Martin"
+			},
+			{
+				"family": "Landuyt",
+				"given": "Dries"
+			},
+			{
+				"family": "Lenoir",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Macek",
+				"given": "Martin"
+			},
+			{
+				"family": "Maes",
+				"given": "Sybryn L."
+			},
+			{
+				"family": "Máliš",
+				"given": "František"
+			},
+			{
+				"family": "Mitchell",
+				"given": "Fraser J. G."
+			},
+			{
+				"family": "Naaf",
+				"given": "Tobias"
+			},
+			{
+				"family": "Peterken",
+				"given": "George"
+			},
+			{
+				"family": "Petřík",
+				"given": "Petr"
+			},
+			{
+				"family": "Reczyńska",
+				"given": "Kamila"
+			},
+			{
+				"family": "Rogers",
+				"given": "David A."
+			},
+			{
+				"family": "Schei",
+				"given": "Fride HØistad"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Standovár",
+				"given": "Tibor"
+			},
+			{
+				"family": "Świerkosz",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Ujházy",
+				"given": "Karol"
+			},
+			{
+				"family": "Van Calster",
+				"given": "Hans"
+			},
+			{
+				"family": "Vellend",
+				"given": "Mark"
+			},
+			{
+				"family": "Vild",
+				"given": "Ondřej"
+			},
+			{
+				"family": "Woods",
+				"given": "Kerry"
+			},
+			{
+				"family": "Wulf",
+				"given": "Monika"
+			},
+			{
+				"family": "Bernhardt-Römermann",
+				"given": "Markus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2016Longtermshiftspatterns",
+		"type": "article-journal",
+		"abstract": "Aim Plant species co-occur within communities in response to variation in environmental conditions, limited species dispersal and biotic interactions. We used surveys and resurveys of the same sites of three temperate forest plant communities to study patterns of association between co-occurring species pairs and to infer how these mechanisms contribute to community assembly. Our goal was to compare these forces among communities occupying more and less disturbed landscapes and examine how these have changed over the last 50 years. Location Wisconsin, USA. Methods We resurveyed 266 sites first surveyed in the 1950s to assess the patterns and dynamics of co-occurrence among understorey plant species in three community types. We then used checkerboard scores, null models and a newly developed framework to infer the mechanisms likely to have driven community assembly. Finally, we compared these across the three communities and two time periods. Results Species co-occur less often than expected in all three vegetation types and both periods. We detected high fractions of aggregated and segregated species pairs (up to 14% and 17%, respectively). In the fragmented southern upland forests and central sand plains, both biotic interactions and dispersal limitation may play important roles in community assembly with inferred dispersal limitation becoming more important since the 1950s. In the more continuous and intact northern upland forests, environmental filtering and biotic interactions appear to dominate community dynamics with little change over time. Aggregated and segregated species pairs made a similar contribution to our ability to infer these mechanisms. Main conclusions Environmental filtering, biotic interactions and dispersal limitation all appear to affect plant community structure in both time periods. However, the influence of dispersal limitation seems to be increasing in more fragmented forest landscapes, portending shifts in community composition and dynamics. Because aggregated and segregated species pairs may be shaped by similar processes both can be used to infer processes of community assembly.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.12432",
+		"ISSN": "1466-8238",
+		"issue": "5",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.12432",
+		"page": "516-526",
+		"source": "Wiley Online Library",
+		"title": "Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12432",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "Li2015Driversobservedbiotica",
+		"type": "article-journal",
+		"abstract": "Fire suppression throughout the 20th century greatly altered plant communities in fire-dominated systems across North America. Our ability to assess these effects over the long term, however, is handicapped by the paucity of baseline data. Here, we used detailed baseline data from the 1950s to track changes in the over- and understory composition of pine-barrens vegetation growing on sandy, glacial lake-bed sediments in central Wisconsin. We expected fire suppression to favor succession to closed-canopy conditions, leading to decreases in shade-intolerant and fire-adapted species and consequent reductions in alpha and gamma diversity. We also expected beta diversity to decline due to increases in shade-tolerant, fire-sensitive, and exotic species. In fact, fire suppression has greatly altered the structure and composition of these pine-barrens communities over the past 54 years. Woody, wind-pollinated, and shade-tolerant species all increased in richness and abundance, as expected, with succession following fire suppression. Contrary to expectations, local and regional species richness increased by 12% and 26%, respectively, while Shannon beta diversity declined 24.1%. Increases in canopy coverage and number of native species appear to have driven this biotic homogenization. In contrast, increases in exotic species in our study did not promote biotic homogenization, reflecting their relative rarity across sites. Our findings highlight the key role fire plays in shaping the assembly of these pine-barrens communities.",
+		"container-title": "Ecology",
+		"DOI": "10.1890/14-0893.1",
+		"ISSN": "1939-9170",
+		"issue": "4",
+		"language": "en",
+		"note": "_eprint: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/14-0893.1",
+		"page": "1030-1041",
+		"source": "Wiley Online Library",
+		"title": "Drivers of observed biotic homogenization in pine barrens of central Wisconsin",
+		"URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/14-0893.1",
+		"volume": "96",
+		"pressrelease": [
+		  {"presslink": "http://news.wisc.edu/23803"},
+		  {"presslink": "http://www.sciencedaily.com/releases/2015/05/150526123833.htm"},
+		  {"presslink": "http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97"}
+		],
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "ChenNonAdditiveEffectsDecomposition2013",
+		"type": "article-journal",
+		"abstract": "A common hypothesis to explain the effect of litter mixing is based on the difference in litter N content between mixed species. Although many studies have shown that litter of invasive non-native plants typically has higher N content than that of native plants in the communities they invade, there has been surprisingly little study of mixing effects during plant invasions. We address this question in south China where Mikania micrantha H.B.K., a non-native vine, with high litter N content, has invaded many forested ecosystems. We were specifically interested in whether this invader accelerated decomposition and how the strength of the litter mixing effect changes with the degree of invasion and over time during litter decomposition. Using litterbags, we evaluated the effect of mixing litter of M. micrantha with the litter of 7 native resident plants, at 3 ratios: M1 (1∶4, = exotic:native litter), M2 (1∶1) and M3 (4∶1, = exotic:native litter) over three incubation periods. We compared mixed litter with unmixed litter of the native species to identify if a non-additive effect of mixing litter existed. We found that there were positive significant non-additive effects of litter mixing on both mass loss and nutrient release. These effects changed with native species identity, mixture ratio and decay times. Overall the greatest accelerations of mixture decay and N release tended to be in the highest degree of invasion (mix ratio M3) and during the middle and final measured stages of decomposition. Contrary to expectations, the initial difference in litter N did not explain species differences in the effect of mixing but overall it appears that invasion by M. micrantha is accelerating the decomposition of native species litter. This effect on a fundamental ecosystem process could contribute to higher rates of nutrient turnover in invaded ecosystems.",
+		"container-title": "PLoS ONE",
+		"DOI": "10.1371/journal.pone.0066289",
+		"issue": "6",
+		"journalAbbreviation": "PLoS ONE",
+		"note": "00006",
+		"page": "e66289",
+		"source": "PLoS Journals",
+		"title": "Non-Additive Effects on Decomposition from Mixing Litter of the Invasive Mikania micrantha H.B.K. with Native Plants",
+		"URL": "http://dx.doi.org/10.1371/journal.pone.0066289",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Baoming"
+			},
+			{
+				"family": "Peng",
+				"given": "Shaolin"
+			},
+			{
+				"family": "D’Antonio",
+				"given": "Carla M."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Ren",
+				"given": "Wentao"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "Lieffectsleaflitter2013",
+		"type": "article-journal",
+		"abstract": "Background and aims Climbing plants are increasing in dominance in the subtropical forests of South China and other areas around the world, altering patterns of plant dominance and evenness in community. We investigated how changes in species’ identity and patterns of leaf litter evenness affected decomposition of litter mixtures. Methods We used litter-bag method to study the influence of different relative abundance mixtures (75 % : 25 %; 50 % : 50 %; 25 % : 75 %) of plant litter from two functional groups (climbing plants and trees) on decomposition rates in a subtropical forest in Guangdong, China. Results We found negative non-additive effects of mixing litter overall and species composition affected decomposition rates the most. In addition, when climbing plants were dominant, even mixtures decomposed slower significantly than uneven mixtures. Evenness did not affect decomposition rates, however, when trees were dominant. The magnitude of antagonistic effects increased with increasing dominance of climbing plants but decreased with time, suggesting a strong negative feedback between litter proportion of climbing plant and decomposition rates at the initial stage. Conclusion The evenness in leaf litter composition affects rates of decomposition, but these effects depend on which plant functional group is dominant. Thus, we should pay more attention to shifts in identity of dominant species and patterns of community evenness.",
+		"container-title": "Plant and Soil",
+		"DOI": "10.1007/s11104-012-1337-x",
+		"ISSN": "0032-079X, 1573-5036",
+		"issue": "1-2",
+		"journalAbbreviation": "Plant Soil",
+		"language": "en",
+		"note": "00005",
+		"page": "255-266",
+		"source": "link.springer.com",
+		"title": "The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant",
+		"URL": "http://link.springer.com/article/10.1007/s11104-012-1337-x",
+		"volume": "365",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Peng",
+				"given": "Shaolin"
+			},
+			{
+				"family": "Chen",
+				"given": "Baoming"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "WangResearchprogressMerremia2009",
+		"type": "article-journal",
+		"container-title": "Chinese Journal of Ecology",
+		"issue": "11",
+		"page": "2360-2365",
+		"title": "Research progress on Merremia boisiana",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Bosun"
+			},
+			{
+				"family": "Peng",
+				"given": "Shaolin"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Zhou",
+				"given": "Ting"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	}
+]
