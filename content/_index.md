@@ -7,10 +7,9 @@ disable_highlight: true
 
 <div id="widerimg">
     <img src="/images/yellow_trout_lily.jpg">
-  <div class="wideimg-text">
-    Ecological Communities in a Changing World
-  </div>
 </div>
+
+# Ecological Communities in a Changing World
 
 <p style="margin-top:1cm;"><center><strong> Community Ecology | Biodiversity | Phenology | Prediction in a Changing Era </strong></center></p>
 

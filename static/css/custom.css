@@ -34,18 +34,18 @@
   .menu a:hover {
     border-bottom: none;
   }
-  
+
   #widerimg {
-    width: 900px;
+    width: 700px;
     margin: 0;
   	padding: 0;
     text-align: center;
-    /* background-image:url('/images/yellow_trout_lily.jpg'); */
+    /* background-image:url('/images/yellow_trout_lily.jpg');
   	align-content: center;
   	margin-left: -120px;
-    margin-right: 100px;
+    margin-right: 100px; */
   }
-  
+
   .wideimg-text {
     text-align: center;
     position: absolute;
