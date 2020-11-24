@@ -14,13 +14,10 @@ disable_comments: true
 # In press
 
 <ol>
+<li> <b>Climate, urbanization, and species traits interactively drive flowering duration</b>. <b>Li D.</b>, Barve N., Brenskelle L, Earl K., Barve V., Belitz M., Doby J., Hantak M., Oswald J., Stucky B., Walters M., Guralnick R.,. <i>Global Change Biology</i>.</li>
+
 <li> <b>Geographic patterns and environmental correlates of phylogenetic relatedness and diversity for freshwater fish assemblages in North America</b>. Qian H., Cao Y., <b>Li D.</b>, Chu C., Sandel B., Wang X. <i>Ecography</i>. <span class="doi link badge">
     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05280" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a>
-</span> </li>
-
-<li> <b>phyr: An R package for phylogenetic species-distribution modelling in ecological communities</b>. <b>Li D.</b>, Dinnage R., Helmus M., Ives A. <i>Methods in Ecology & Evolution</i>
-<span class="doi link badge">
-    <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13471" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a>
 </span> </li>
 </ol>
 

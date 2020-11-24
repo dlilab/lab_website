@@ -9,14 +9,14 @@
 
         {{ $idyear := newScratch }}
         {{ range $publication := $publications }}
-        {{ $year := index $publication.issued "date-parts" 0 0 | int }}
-        {{ $month := index $publication.issued "date-parts" 0 1 | int }}
-        {{ $day := index $publication.issued "date-parts" 0 1 | int }}
-        {{ $fyear := printf "%04d" (sub $year 3000)}}
-        {{ $fmonth := printf "%02d" $month }}
-        {{ $fday := printf "%02d" $day }}
-        {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
-        {{ $idyear.SetInMap "date" $date $publication.id }}
+            {{ $year := index $publication.issued "date-parts" 0 0 | int }}
+            {{ $month := index $publication.issued "date-parts" 0 1 | int }}
+            {{ $day := index $publication.issued "date-parts" 0 2 | int }}
+            {{ $fyear := printf "%04d" (sub $year 3000)}}
+            {{ $fmonth := printf "%02d" $month }}
+            {{ $fday := printf "%02d" $day }}
+            {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
+            {{ $idyear.SetInMap "date" $date $publication.id }}
         {{ end }}
 
         <ol reversed>
