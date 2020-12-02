@@ -1,4 +1,64 @@
 [
+  	{
+		"id": "Qian2020Geographicpatternsenvironmental",
+		"type": "article-journal",
+		"abstract": "The tropical niche conservatism hypothesis suggests that most groups should be most phylogenetically clustered in cold, dry environments. This idea has been well-tested in plants and some animal groups, but not for fishes. We assess the geographic patterns of freshwater fish phylogenetic structure and investigate the relationships between these patterns and environmental variables across North America and within two biogeographic realms. Phylogenetic relatedness and diversity of 360 freshwater fish assemblages across North America were quantified with three metrics based on a well-dated phylogeny, and were related to 15 environmental variables using correlation and regression analyses. Geographically, the data were analyzed for North America as well as for separate biogeographic realms. We found that cold temperatures are the strongest determinant of phylogenetic clustering overall. However, in the arid west, clustering is most pronounced in the driest regions. In eastern North America, phylogenetic clustering increases at higher latitudes, while the reverse is true in western North America. The strongest phylogenetic clustering for freshwater fish assemblages on the continent is found in the most arid, rather than the coldest, climate in North America. Our results highlight that patterns of phylogenetic structure of freshwater fishes in North America are driven by both ecological and evolutionary processes that differ regionally.",
+		"container-title": "Ecography",
+		"DOI": "https://doi.org/10.1111/ecog.05280",
+		"ISSN": "1600-0587",
+		"issue": "12",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.05280",
+		"page": "1814-1824",
+		"source": "Wiley Online Library",
+		"title": "Geographic patterns and environmental correlates of phylogenetic relatedness and diversity for freshwater fish assemblages in North America",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.05280",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Hong"
+			},
+			{
+				"family": "Cao",
+				"given": "Yong"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Chu",
+				"given": "Cindy"
+			},
+			{
+				"family": "Sandel",
+				"given": "Brody"
+			},
+			{
+				"family": "Wang",
+				"given": "Xianli"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					18
+				]
+			]
+		}
+	},
   {
 		"id": "Li2020phyrpackagephylogenetic",
 		"type": "article-journal",
@@ -210,7 +270,7 @@
 				[
 					"2020",
 					1,
-					19
+					9
 				]
 			]
 		}

@@ -17,7 +17,7 @@ disable_highlight: true
 
 # News
 
-
+- 2020/11/15: We have [one lab technician position opening](https://t.co/eShy9Q66N0?amp=1). Please apply if you are interested.
 - 2020/11/23: We have [one postdoc position opening](https://t.co/xh0MZN2kwC?amp=1)! Check it out and let's do some exciting work together!
 - 2020/11/10: We have [*two fully funded* PhD student positions](/pdf/phd_position_2021fall.pdf) in the lab. Students will be able to follow their research interests. Please get in touch if you are interested. 
-- :rocket: :rocket: :rocket: the lab is opening at August 15th, 2020 at LSU!! Feel free to contact me to discuss about [opportunities](/opportunities/)! :fireworks: :tada: :confetti_ball:
+- 2020/08/15: :rocket: :rocket: :rocket: the lab is opening at August 15th, 2020 at LSU!! Feel free to contact me to discuss about [opportunities](/opportunities/)! :fireworks: :tada: :confetti_ball:
