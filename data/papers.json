@@ -850,7 +850,7 @@
 		"language": "en",
 		"page": "1028",
 		"source": "joss.theoj.org",
-		"title": "`rr2`: An R package to calculate $R^2$s for regression models",
+		"title": "rr2: An R package to calculate R2s for regression models",
 		"title-short": "`rr2`",
 		"URL": "https://joss.theoj.org/papers/10.21105/joss.01028",
 		"github": "https://github.com/arives/rr2",
