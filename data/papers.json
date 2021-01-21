@@ -1,4 +1,86 @@
 [
+  {
+		"id": "Li2021Climateurbanizationspecies",
+		"type": "article-journal",
+		"abstract": "A wave of green leaves and multi-colored flowers advances from low to high latitudes each spring. However, little is known about how flowering offset (i.e., ending of flowering) and duration of populations of the same species vary along environmental gradients. Understanding these patterns is critical for predicting the effects of future climate and land-use change on plants, pollinators, and herbivores. Here, we investigated potential climatic and landscape drivers of flowering onset, offset, and duration of 52 plant species with varying key traits. We generated phenology estimates using >270,000 community-science photographs and a novel presence-only phenometric estimation method. We found longer flowering durations in warmer areas, which is more obvious for summer-blooming species compared to spring-bloomers driven by their strongly differing offset dynamics. We also found that higher human population density and higher annual precipitation are associated with delayed flowering offset and extended flowering duration. Finally, offset of woody perennials was more sensitive than herbaceous species to both climate and urbanization drivers. Empirical forecast models suggested that flowering durations will be longer in 2030 and 2050 under representative concentration pathway (RCP) 8.5, especially for summer-blooming species. Our study provides critical insight into drivers of key flowering phenophases and confirms that Hopkins’ Bioclimatic Law also applies to flowering durations for summer-blooming species and herbaceous spring-blooming species.",
+		"container-title": "Global Change Biology",
+		"DOI": "https://doi.org/10.1111/gcb.15461",
+		"ISSN": "1365-2486",
+		"issue": "4",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.15461",
+		"page": "892-903",
+		"source": "Wiley Online Library",
+		"title": "Climate, urbanization, and species traits interactively drive flowering duration",
+		"URL": "http://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15461",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Barve",
+				"given": "Narayani"
+			},
+			{
+				"family": "Brenskelle",
+				"given": "Laura"
+			},
+			{
+				"family": "Earl",
+				"given": "Kamala"
+			},
+			{
+				"family": "Barve",
+				"given": "Vijay"
+			},
+			{
+				"family": "Belitz",
+				"given": "Michael W."
+			},
+			{
+				"family": "Doby",
+				"given": "Joshua"
+			},
+			{
+				"family": "Hantak",
+				"given": "Maggie M."
+			},
+			{
+				"family": "Oswald",
+				"given": "Jessica A."
+			},
+			{
+				"family": "Stucky",
+				"given": "Brian J."
+			},
+			{
+				"family": "Walters",
+				"given": "Mitch"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
   	{
 		"id": "Qian2020Geographicpatternsenvironmental",
 		"type": "article-journal",
