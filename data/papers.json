@@ -13,6 +13,9 @@
 		"source": "Wiley Online Library",
 		"title": "Climate, urbanization, and species traits interactively drive flowering duration",
 		"URL": "http://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15461",
+		"github": "https://github.com/daijiang/flower_duration",
+		"coverImage": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15174",
+		"pressrelease": [{"presslink": "https://www.lsu.edu/science/news_events/cos-news-events/2020/december/daijiang_li_inaturalist_research.php"}],
 		"volume": "27",
 		"author": [
 			{
@@ -211,6 +214,7 @@
 		"source": "royalsocietypublishing.org (Atypon)",
 		"title": "Changes in taxonomic and phylogenetic diversity in the Anthropocene",
 		"URL": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0777",
+		"dryad": "https://dx.doi.org/10.5061/dryad.3j9kd51fc",
 		"volume": "287",
 		"author": [
 			{
@@ -518,6 +522,7 @@
 		"source": "www.pnas.org",
 		"title": "Climate drives loss of phylogenetic diversity in a grassland community",
 		"URL": "https://www.pnas.org/content/116/40/19989",
+		"figshare": "https://figshare.com/articles/dataset/Climate_drives_loss_of_phylogenetic_diversity/9747455",
 		"volume": "116",
 		"author": [
 			{

@@ -44,9 +44,27 @@
         </span>
         {{ end }}
 
+        {{ if isset . "dryad" }}
+        <span class="url link badge">
+        <a href="{{ .dryad}}" target="_blank" title="Data repository at Dryad"><i class="ai ai-dryad"></i></a>
+        </span>
+        {{ end }}
+
+        {{ if isset . "figshare" }}
+        <span class="url link badge">
+        <a href="{{ .figshare}}" target="_blank" title="Data repository at Figshare"><i class="ai ai-figshare"></i></a>
+        </span>
+        {{ end }}
+
         {{ if isset . "biorxiv" }}
         <span class="url link badge">
         <a href="{{ .biorxiv}}" target="_blank" title="Preprint version"><i class="ai ai-biorxiv-square"></i></a>
+        </span>
+        {{ end }}
+
+        {{ if isset . "coverImage" }}
+        <span class="url link badge">
+        <a href="{{ .coverImage}}" target="_blank" title="Cover paper of the issue"><i class="fas fa-file-image"></i></a>
         </span>
         {{ end }}
 
