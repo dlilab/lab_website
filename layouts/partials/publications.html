@@ -68,12 +68,20 @@
         </span>
         {{ end }}
 
+        {{ if isset . "EditorChoice" }}
+        <span class="url link badge">
+        <a href="{{ .EditorChoice}}" target="_blank" title="Editor's Choice"><i class="fas fa-marker"></i></a>
+        </span>
+        {{ end }}
+
+
         {{ if isset . "pressrelease" }}
         {{ range $press := .pressrelease }}
         <span class="url link badge">
         <a href="{{ $press.presslink}}" target="_blank" title="Press Release"><i class="far fa-newspaper"></i></a>
         </span>
         {{ end }}
+
         {{ end }}
     </div>
 </div>

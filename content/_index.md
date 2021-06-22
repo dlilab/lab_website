@@ -1,6 +1,6 @@
 ---
 title: Homepage
-date: '2020-08-01'
+date: '2021-06-22'
 disable_mathjax: true
 disable_highlight: true
 ---
@@ -9,6 +9,7 @@ disable_highlight: true
     <img src="/images/yellow_trout_lily.jpg">
 </div>
 
+
 # Ecological Communities in a Changing World
 
 <p style="margin-top:1cm;"><center><strong> Community Ecology | Biodiversity | Phenology | Prediction in a Changing Era </strong></center></p>
@@ -16,6 +17,12 @@ disable_highlight: true
 <center><strong> Quantitative Ecology | Statistics </strong></center>
 
 # News
+
+## 2021
+
+- 2021/02/01: Matt Blanchard joined the lab as a Research Associate. Welcome!
+
+## 2020
 
 - 2020/11/15: We have [one lab technician position opening](https://t.co/eShy9Q66N0?amp=1). Please apply if you are interested.
 - 2020/11/23: We have [one postdoc position opening](https://t.co/xh0MZN2kwC?amp=1)! Check it out and let's do some exciting work together!

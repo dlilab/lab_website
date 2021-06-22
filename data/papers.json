@@ -1,4 +1,70 @@
 [
+  		{
+		"id": "Liao2021rolefunctionalstrategies",
+		"type": "article-journal",
+		"abstract": "Understanding the determinants of species distributions is a central topic in ecology. Competition, stress tolerance and colonization, respectively represented by Grime's competitor (C), stress-tolerator (S) and ruderal (R) schemes, are three important functions that interactively influence plant distributions. In this study, we compiled a dataset of 2645 vascular plant species to explore the roles of the CSR strategies in global plant distribution. We analyzed the associations between the CSR scores and species range size with phylogenetic generalized least square (PGLS) models and phylogenetic path analysis, both of which accounted for the effects of species phylogenetic relatedness, longevity and growth form. The functional strategy-range size associations differed across different distributional ranges and growth forms. Specifically, species global and native range sizes were positively associated with the R score; species naturalized range size was positively associated with the C score; and all range-size measurements were negatively associated with the S score. These patterns were mostly driven by herbs but not shrubs or trees. For species global and native-range distributions, the patterns of shrubs were even opposite to those of herbs. Our work emphasizes the importance of distinguishing the functional strategy-distribution associations between different distributional ranges and growth forms for ecosystem conservation and invasion risk prediction, because of the trade-offs among the CSR strategies.",
+		"container-title": "Ecography",
+		"DOI": "10.1111/ecog.05476",
+		"ISSN": "1600-0587",
+		"issue": "4",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.05476",
+		"page": "493-503",
+		"source": "Wiley Online Library",
+		"title": "The role of functional strategies in global plant distribution",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.05476",
+		"EditorChoice": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.05476",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Liao",
+				"given": "Huixuan"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Zhou",
+				"given": "Ting"
+			},
+			{
+				"family": "Huang",
+				"given": "Bei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Haijie"
+			},
+			{
+				"family": "Chen",
+				"given": "Baoming"
+			},
+			{
+				"family": "Peng",
+				"given": "Shaolin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					1
+				]
+			]
+		}
+	},
+
   {
 		"id": "Li2021Climateurbanizationspecies",
 		"type": "article-journal",
@@ -79,12 +145,15 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2021"
+					"2021",
+					1,
+					1
 				]
 			]
 		}
 	},
-  	{
+
+  {
 		"id": "Qian2020Geographicpatternsenvironmental",
 		"type": "article-journal",
 		"abstract": "The tropical niche conservatism hypothesis suggests that most groups should be most phylogenetically clustered in cold, dry environments. This idea has been well-tested in plants and some animal groups, but not for fishes. We assess the geographic patterns of freshwater fish phylogenetic structure and investigate the relationships between these patterns and environmental variables across North America and within two biogeographic realms. Phylogenetic relatedness and diversity of 360 freshwater fish assemblages across North America were quantified with three metrics based on a well-dated phylogeny, and were related to 15 environmental variables using correlation and regression analyses. Geographically, the data were analyzed for North America as well as for separate biogeographic realms. We found that cold temperatures are the strongest determinant of phylogenetic clustering overall. However, in the arid west, clustering is most pronounced in the driest regions. In eastern North America, phylogenetic clustering increases at higher latitudes, while the reverse is true in western North America. The strongest phylogenetic clustering for freshwater fish assemblages on the continent is found in the most arid, rather than the coldest, climate in North America. Our results highlight that patterns of phylogenetic structure of freshwater fishes in North America are driven by both ecological and evolutionary processes that differ regionally.",

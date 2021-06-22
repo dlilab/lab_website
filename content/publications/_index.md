@@ -1,6 +1,6 @@
 ---
 Title: "Publications"
-date: "2020-08-12"
+date: "2021-06-12"
 disable_mathjax: true
 disable_highlight: true
 disable_comments: true
@@ -11,11 +11,15 @@ disable_comments: true
 <a target="_blank" href="https://publons.com/a/719613/"><i class="ai ai-publons ai-2x"></i></a>
 </center>
 
+<!---
+
 # In press
 
 <ol>
 
 <li> <b>The role of functional strategies in global plant distribution</b>. Liao H., <b>Li D.</b>, et al. <i>Ecography</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05476" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 </ol>
+
+-->
 
 # Published

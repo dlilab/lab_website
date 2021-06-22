@@ -2,7 +2,7 @@
   name = "Daijiang Li"
   mugshot = "mugshots/daijiangli.jpg"
   text = [
-    "Quantitative Ecologist. Interested in how global changes have and will affect ecological communities.",
+    "**PI**. Quantitative Ecologist. Interested in how global changes have and will affect ecological communities.",
     "Assistant professor at the [Department of Biological Sciences](https://www.lsu.edu/science/biosci/) and [CCT](https://www.cct.lsu.edu/), Louisiana State University"
   ]
   role = "Assistant professor"
@@ -13,6 +13,16 @@
     www = "https://daijiang.name/"
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
+
+[mattBlanchard]
+  name = "Matthew Blanchard"
+  mugshot = "mugshots/matt_blanchard.jpeg"
+  text = [
+    "**Research Associate**. Matt has broad research interests in ecology, biodiversity, and conservation biology."
+  ]
+  role = "Research Associate"
+  [mattBlanchard.social]
+    email = "mblan31@lsu.edu"
 
 [you]
   name = "You?"
