@@ -26,6 +26,8 @@ disable_comments: true
 
 <ol>
 
+<li> <b>Harnessing the NEON Data Revolution to Advance Open Environmental Science with a Diverse and Data-Capable Community</b>. Nagy et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
+
 <li> <b>Functional trait data for vascular plant species from northeastern North America</b>. Waller et al., ..., <b>Li D.</b>, ..., <i>Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 <li> <b>Taxonomic and phylogenetic beta diversity of freshwater fish assemblages in relation to geographic and climatic determinants in North America'</b>. Qian et al., ..., <b>Li D.</b>, ..., <i>Global Ecology and Biogeography</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
