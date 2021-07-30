@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+{{ if .Content }}
+{{ .Content }}
+{{ end }}
+
+
+{{ if .Params.list_pages }}
+<div class="archive">
+  {{ range .Pages.GroupByDate "2006" }}
+  <h2 class="archive-title">{{ .Key }}</h2>
+  {{ range .Pages.GroupByDate "2006-01-02" }}
+  {{ range .Pages }}
+  <h4>
+    <span>{{ .Date.Format "2006-01-02" }}</span>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h4>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+
+
+{{ partial "footer.html" . }}
