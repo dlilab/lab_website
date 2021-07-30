@@ -11,7 +11,7 @@ date = "2020/08/08"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
+    notebook = "/notebook/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "Home"
@@ -38,6 +38,8 @@ date = "2020/08/08"
     url = "/value/"
     weight = 6
 
+
+
 [params]
     description = "Quantitative Ecology in a Changing World"
     footer = "&copy; [the Li lab](/) at [LSU Biology](https://www.lsu.edu/science/biosci/) & [CCT](https://www.cct.lsu.edu/) 2020 - "
@@ -52,6 +54,9 @@ date = "2020/08/08"
 
 [logo]
   img = "/image/logo.png"
+
+[author]
+    notebook = ["Daijiang Li"]
 
 [blackfriday]
     extensionsmask = ["noIntraEmphasis"]
