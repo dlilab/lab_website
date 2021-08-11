@@ -1,10 +1,10 @@
 ---
 title: "Join us!"
 disable_comments: true
-date: "2020-08-01"
+date: "2021-08-01"
 ---
 
-**Postdoc, Graduate, and Technician positions in Quantitative Ecology available in the lab at Biology and Center of Computation and Technology at LSU**
+**Postdoc and PhD student positions in Quantitative Ecology available in the lab at Biology and Center of Computation and Technology at LSU**
 
 I am seeking curious and motivated postdocs, graduate students, and a technician to join the group. Our lab will study how global anthropogenic environmental changes have and will affect ecological communities, including species composition, biodiversity, plant phenology, etc. Our work combines experimental, observatory, statistical, and computational approaches to develop a mechanistic and predictive understanding of ecology. As a mentor, I am committed to building a [diverse and inclusive research lab](/value/) to make quantitative ecology more accessible and to fulfill group members' professional goals (whatever it is).
 
