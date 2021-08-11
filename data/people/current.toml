@@ -24,6 +24,16 @@
   [mattBlanchard.social]
     email = "mblan31@lsu.edu"
 
+[EvelinReyes]
+  name = "Evelin Reyes"
+  mugshot = "mugshots/Evelin_Reyes.jpeg"
+  text = [
+    "**PhD student**. Evelin is interested in biodiversity, population ecology, data analysis, and how climate change is affecting and modifying ecosystems. Also, she enjoys hiking, camping, yoga, and chess."
+  ]
+  role = "PhD student"
+  [EvelinReyes.social]
+    email = "ereye11@lsu.edu"
+
 [you]
   name = "You?"
   mugshot = "images/logo.png"
