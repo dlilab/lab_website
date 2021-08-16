@@ -65,6 +65,60 @@
 		}
 	},
 
+	{
+		"id": "Hantak2021Mammalianbodysize",
+		"type": "article-journal",
+		"abstract": "Anthropogenically-driven climate warming is a hypothesized driver of animal body size reductions. Less understood are effects of other human-caused disturbances on body size, such as urbanization. We compiled 140,499 body size records of over 100 North American mammals to test how climate and human population density, a proxy for urbanization, and their interactions with species traits, impact body size. We tested three hypotheses of body size variation across urbanization gradients: urban heat island effects, habitat fragmentation, and resource availability. Our results demonstrate that both urbanization and temperature influence mammalian body size variation, most often leading to larger individuals, thus supporting the resource availability hypothesis. In addition, life history and other ecological factors play a critical role in mediating the effects of climate and urbanization on body size. Larger mammals and species that utilize thermal buffering are more sensitive to warmer temperatures, while flexibility in activity time appears to be advantageous in urbanized areas. This work highlights the value of using digitized, natural history data to track how human disturbance drives morphological variation.",
+		"container-title": "Communications Biology",
+		"DOI": "10.1038/s42003-021-02505-3",
+		"ISSN": "2399-3642",
+		"issue": "1",
+		"journalAbbreviation": "Commun Biol",
+		"language": "en",
+		"note": "Bandiera_abtest: a\nCc_license_type: cc_by\nCg_type: Nature Research Journals\nnumber: 1\nPrimary_atype: Research\npublisher: Nature Publishing Group\nSubject_term: Climate-change ecology;Evolutionary ecology\nSubject_term_id: climate-change-ecology;evolutionary-ecology",
+		"page": "1-10",
+		"source": "www.nature.com",
+		"title": "Mammalian body size is determined by interactions between climate, urbanization, and ecological traits",
+		"URL": "https://www.nature.com/articles/s42003-021-02505-3",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Hantak",
+				"given": "Maggie M."
+			},
+			{
+				"family": "McLean",
+				"given": "Bryan S."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					8,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					1
+				]
+			]
+		}
+	},
+
   {
 		"id": "Li2021Climateurbanizationspecies",
 		"type": "article-journal",

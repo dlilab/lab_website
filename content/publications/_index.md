@@ -26,8 +26,6 @@ disable_comments: true
 
 <ol>
 
-<li> <b>Mammalian body size is determined by interactions between climate, urbanization, and ecological traits</b>. Hantak M., McLean B., <b>Li D.</b>, and Guralnick R., <i>Communications Biology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
-
 <li> <b>Exploring discrepancies between in situ phenology and remotely derived phenometrics at NEON sites</b>. Donnelly et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 <li> <b>Harnessing the NEON Data Revolution to Advance Open Environmental Science with a Diverse and Data-Capable Community</b>. Nagy et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 

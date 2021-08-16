@@ -1,5 +1,6 @@
 <div class="item">
-    <img class="mugshot" src="/{{.mugshot}}" alt="{{.name}}" />
+    {{ if .mugshot }} <img class="mugshot" src="/{{.mugshot}}" alt="{{.name}}" /> {{ end }}
+
     <h2>{{.name}}</h2>
     <div class="summary">
         {{range .text }}
