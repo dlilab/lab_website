@@ -12,8 +12,27 @@
                     {{ partial "people.html" . }}
                 {{ end }}
             {{ end }}
+            
             {{ range $current }}
-                {{ if not (eq .name "Daijiang Li")}}
+                {{ if (eq .role "Research Associate")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+                
+            {{ range $current }}
+                {{ if (eq .role "PhD student")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+            
+            {{ range $current }}
+                {{ if (eq .role "Undergraduate student")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+            
+            {{ range $current }}
+                {{ if (eq .role "?")}}
                     {{ partial "people.html" . }}
                 {{ end }}
             {{ end }}

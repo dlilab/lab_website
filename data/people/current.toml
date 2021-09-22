@@ -34,9 +34,29 @@
   [EvelinReyes.social]
     email = "ereye11@lsu.edu"
 
+[AlexisBenoit]
+  name = "Alexis Benoit"
+  mugshot = "mugshots/Alexis_Benoit.jpeg"
+  text = [
+    "**Undergraduate student**. Alexis is interested in biodiversity and physiological ecology. She enjoy running, hiking, and traveling."
+  ]
+  role = "Undergraduate student"
+  [AlexisBenoit.social]
+    email = "abeno23@lsu.edu"
+    
+[KatharineDarst]
+  name = "Sofia Darst"
+  mugshot = "mugshots/Katharine_S_Darst.jpeg"
+  text = [
+    "**Undergraduate student**. Sofia will work with Alexis on the lifeplan project."
+  ]
+  role = "Undergraduate student"
+  [KatharineDarst.social]
+    email = "kdarst1@lsu.edu"
+
 [you]
   name = "You?"
   mugshot = "images/logo.png"
   text = ["I am looking for a Technician (start as soon as possible), a postdoc, and 1-2 PhD students. See the [join us](/opportunities/) page for more information",
   "Feel free to contact me through :email: to discuss ideas."]
-  role = "PhD"
+  role = "?"

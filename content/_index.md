@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2021
 
+- 2021/09/22: Welcome Sofia and Alexis to the lab! We are very excited to have your here.
 - 2021/08/11: Evelin Reyes joined us as a PhD student! Welcome Evelin! Cannot wait to do some exciting science together!
 - 2021/02/20: Our paper about flower duration was on the [cover](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15174) of *Global Change Biology*, check it out!
 - 2021/02/01: Matt Blanchard joined the lab as a Research Associate. Welcome!
