@@ -14,16 +14,6 @@
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
 
-[mattBlanchard]
-  name = "Matthew Blanchard"
-  mugshot = "mugshots/matt_blanchard.jpeg"
-  text = [
-    "**Research Associate**. Matt has broad research interests in ecology, biodiversity, and conservation biology."
-  ]
-  role = "Research Associate"
-  [mattBlanchard.social]
-    email = "mblan31@lsu.edu"
-
 [EvelinReyes]
   name = "Evelin Reyes"
   mugshot = "mugshots/Evelin_Reyes.jpeg"

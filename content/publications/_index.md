@@ -26,7 +26,7 @@ disable_comments: true
 
 <ol>
 
-
+<li> <b>Predicting Phenological Anomaly: a Case Study of Yucca in the Southwestern United States</b>. Brenskelle et al., ..., <b>Li D.</b> <i>Scientific Reports</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 <li> <b>Climate drivers of adult insect activity are conditioned by life history traits</b>. Belitz et al., ..., <b>Li D.</b>, ..., <i>Ecology Letters</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 

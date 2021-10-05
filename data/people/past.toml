@@ -4,3 +4,13 @@
     "**Undergraduate student**. Harroop was a CCT REU in the lab for summer 2021."
   ]
   role = "Undergraduate student"
+
+[mattBlanchard]
+  name = "Matthew Blanchard"
+  mugshot = "mugshots/matt_blanchard.jpeg"
+  text = [
+    "**Research Associate**. Matt has broad research interests in ecology, biodiversity, and conservation biology."
+  ]
+  role = "Research Associate"
+  [mattBlanchard.social]
+    email = "mblan31@lsu.edu"
