@@ -64,6 +64,71 @@
 			]
 		}
 	},
+	
+	{
+		"id": "http://zotero.org/users/1411594/items/I78QB6WX",
+		"type": "article-journal",
+		"abstract": "Aim A full understanding of the origin and maintenance of β-diversity patterns in a region requires understanding of: (1) the relationships of both taxonomic and phylogenetic β-diversity (TBD and PBD, respectively) and their respective turnover and nestedness components with geographical and environmental distances; (2) the relative importance of the turnover and nestedness components of β-diversity; and (3) the relationships between PBD measures representing different evolutionary depths. Here, we investigate all these aspects of β-diversity simultaneously for freshwater fishes in North America. Location North America north of Mexico (hereafter, North America). Taxon Freshwater fishes. Methods North America was divided into 360 watersheds. Using two sampling approaches (neighbourhood vs. pairwise), we quantified β-diversity between fish assemblages using various metrics (representing total, turnover and nestedness components of TBD and PBD, and tip- vs. basal-weighted PBD) and related them to geographical and climatic factors using correlation and regression analyses. Results Geographical patterns of total TBD and PBD and their components of turnover and nestedness for freshwater fish assemblages among neighbouring watersheds were highly congruent across North America. Geographical patterns of basal-weighted PBD were generally opposite to those of tip-weighted PBD. Metrics of β-diversity were weakly associated with contemporary climatic variables. TBD and PBD were associated strongly to moderately with geographical distances and moderately with climatic distances. The relationships of metrics of β-diversity to geographical distances were stronger than those to climatic distances in all cases. Main conclusions Geographical and ecological patterns are highly congruent between taxonomic and tip-weighted PBD, but those between tip- and basal-weighted PBD are greatly different, suggesting that evolutionary histories have played an important role in shaping β-diversity. Our study suggests that geographical distance between watersheds is more important than climate similarity in determining β-diversity between freshwater fish assemblages.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.13358",
+		"ISSN": "1466-8238",
+		"issue": "10",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.13358",
+		"page": "1965-1977",
+		"source": "Wiley Online Library",
+		"title": "Taxonomic and phylogenetic β-diversity of freshwater fish assemblages in relationship to geographical and climatic determinants in North America",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13358",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Hong"
+			},
+			{
+				"family": "Cao",
+				"given": "Yong"
+			},
+			{
+				"family": "Chu",
+				"given": "Cindy"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Sandel",
+				"given": "Brody"
+			},
+			{
+				"family": "Wang",
+				"given": "Xianli"
+			},
+			{
+				"family": "Jin",
+				"given": "Yi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					1
+				]
+			]
+		}
+	},
 
 	{
 		"id": "Hantak2021Mammalianbodysize",

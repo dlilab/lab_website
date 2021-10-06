@@ -36,8 +36,6 @@ disable_comments: true
 
 <li> <b>Functional trait data for vascular plant species from northeastern North America</b>. Waller et al., ..., <b>Li D.</b>, ..., <i>Ecology</i>. In press. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3527" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
-<li> <b>Taxonomic and phylogenetic β-diversity of freshwater fish assemblages in relationship to geographical and climatic determinants in North America</b>. Qian et al., ..., <b>Li D.</b>, ..., <i>Global Ecology and Biogeography</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13358" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
-
 </ol>
 
 # Published
