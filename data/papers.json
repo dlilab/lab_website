@@ -66,6 +66,64 @@
 	},
 	
 	{
+		"id": "http://zotero.org/users/1411594/items/UR4WLSBZ",
+		"type": "article-journal",
+		"abstract": "Yucca in the American desert Southwest typically flowers in early spring, but a well-documented anomalous bloom event occurred during an unusually cold and wet late fall and early winter 2018–2019. We used community science photographs to generate flowering presence and absence data. We fit phenoclimatic models to determine which climate variables are explanatory for normal flowering, and then we tested if the same conditions that drive normal blooming also drove the anomalous blooming event. Flowering for Yucca brevifolia (Joshua tree) and Yucca schidigera (Mojave yucca) is driven by complex, nonlinear interactions between daylength, temperature, and precipitation. To our surprise, early-season flowering odds are highest in colder and drier conditions, especially for Joshua trees, but increase with precipitation late-season. However, the models used to fit normal blooming overpredicted the number of anomalous blooms compared to what was actually observed. Thus, predicting anomalous flowering events remains a challenge for quantitative phenological models. Because our model overpredicted the number of anomalous blooms, there are likely other factors, such as biotic interactions or other seasonal factors, which may be especially important in controlling what is presumed to be rare, out-of-season flowering in desert-adapted Yucca.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-021-00265-y",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"journalAbbreviation": "Sci Rep",
+		"language": "en",
+		"note": "Bandiera_abtest: a\nCc_license_type: cc_by\nCg_type: Nature Research Journals\nnumber: 1\nPrimary_atype: Research\npublisher: Nature Publishing Group\nSubject_term: Ecological modelling;Plant ecology\nSubject_term_id: ecological-modelling;plant-ecology",
+		"page": "20819",
+		"source": "www.nature.com",
+		"title": "Analyzing a phenological anomaly in Yucca of the southwestern United States",
+		"URL": "https://www.nature.com/articles/s41598-021-00265-y",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Brenskelle",
+				"given": "Laura"
+			},
+			{
+				"family": "Barve",
+				"given": "Vijay"
+			},
+			{
+				"family": "Majure",
+				"given": "Lucas C."
+			},
+			{
+				"family": "Guralnick",
+				"given": "Rob P."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					21
+				]
+			]
+		}
+	},
+	
+	{
 		"id": "http://zotero.org/users/1411594/items/I78QB6WX",
 		"type": "article-journal",
 		"abstract": "Aim A full understanding of the origin and maintenance of β-diversity patterns in a region requires understanding of: (1) the relationships of both taxonomic and phylogenetic β-diversity (TBD and PBD, respectively) and their respective turnover and nestedness components with geographical and environmental distances; (2) the relative importance of the turnover and nestedness components of β-diversity; and (3) the relationships between PBD measures representing different evolutionary depths. Here, we investigate all these aspects of β-diversity simultaneously for freshwater fishes in North America. Location North America north of Mexico (hereafter, North America). Taxon Freshwater fishes. Methods North America was divided into 360 watersheds. Using two sampling approaches (neighbourhood vs. pairwise), we quantified β-diversity between fish assemblages using various metrics (representing total, turnover and nestedness components of TBD and PBD, and tip- vs. basal-weighted PBD) and related them to geographical and climatic factors using correlation and regression analyses. Results Geographical patterns of total TBD and PBD and their components of turnover and nestedness for freshwater fish assemblages among neighbouring watersheds were highly congruent across North America. Geographical patterns of basal-weighted PBD were generally opposite to those of tip-weighted PBD. Metrics of β-diversity were weakly associated with contemporary climatic variables. TBD and PBD were associated strongly to moderately with geographical distances and moderately with climatic distances. The relationships of metrics of β-diversity to geographical distances were stronger than those to climatic distances in all cases. Main conclusions Geographical and ecological patterns are highly congruent between taxonomic and tip-weighted PBD, but those between tip- and basal-weighted PBD are greatly different, suggesting that evolutionary histories have played an important role in shaping β-diversity. Our study suggests that geographical distance between watersheds is more important than climate similarity in determining β-diversity between freshwater fish assemblages.",
