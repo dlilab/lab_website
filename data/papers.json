@@ -1,4 +1,97 @@
 [
+  {
+		"id": "belitz2021ecollett",
+		"type": "article-journal",
+		"abstract": "Insect phenological lability is key for determining which species will adapt under environmental change. However, little is known about when adult insect activity terminates and overall activity duration. We used community-science and museum specimen data to investigate the effects of climate and urbanisation on timing of adult insect activity for 101 species varying in life history traits. We found detritivores and species with aquatic larval stages extend activity periods most rapidly in response to increasing regional temperature. Conversely, species with subterranean larval stages have relatively constant durations regardless of regional temperature. Species extended their period of adult activity similarly in warmer conditions regardless of voltinism classification. Longer adult durations may represent a general response to warming, but voltinism data in subtropical environments are likely underreported. This effort provides a framework to address the drivers of adult insect phenology at continental scales and a basis for predicting species response to environmental change.",
+		"container-title": "Ecology Letters",
+		"DOI": "10.1111/ele.13889",
+		"ISSN": "1461-0248",
+		"issue": "12",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13889",
+		"page": "2687-2699",
+		"source": "Wiley Online Library",
+		"title": "Climate drivers of adult insect activity are conditioned by life history traits",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13889",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Belitz",
+				"given": "Michael W."
+			},
+			{
+				"family": "Barve",
+				"given": "Vijay"
+			},
+			{
+				"family": "Doby",
+				"given": "Joshua R."
+			},
+			{
+				"family": "Hantak",
+				"given": "Maggie M."
+			},
+			{
+				"family": "Larsen",
+				"given": "Elise A."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Oswald",
+				"given": "Jessica A."
+			},
+			{
+				"family": "Sewnath",
+				"given": "Neeka"
+			},
+			{
+				"family": "Walters",
+				"given": "Mitchell"
+			},
+			{
+				"family": "Barve",
+				"given": "Narayani"
+			},
+			{
+				"family": "Earl",
+				"given": "Kamala"
+			},
+			{
+				"family": "Gardner",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			},
+			{
+				"family": "Stucky",
+				"given": "Brian J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1, 
+					2
+				]
+			]
+		}
+	},
+	
   		{
 		"id": "Liao2021rolefunctionalstrategies",
 		"type": "article-journal",
