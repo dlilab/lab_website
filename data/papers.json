@@ -92,6 +92,522 @@
 		}
 	},
 	
+	{
+		"id": "Nagy2021HarnessingNEONdata",
+		"type": "article-journal",
+		"abstract": "It is a critical time to reflect on the National Ecological Observatory Network (NEON) science to date as well as envision what research can be done right now with NEON (and other) data and what training is needed to enable a diverse user community. NEON became fully operational in May 2019 and has pivoted from planning and construction to operation and maintenance. In this overview, the history of and foundational thinking around NEON are discussed. A framework of open science is described with a discussion of how NEON can be situated as part of a larger data constellation—across existing networks and different suites of ecological measurements and sensors. Next, a synthesis of early NEON science, based on >100 existing publications, funded proposal efforts, and emergent science at the very first NEON Science Summit (hosted by Earth Lab at the University of Colorado Boulder in October 2019) is provided. Key questions that the ecology community will address with NEON data in the next 10 yr are outlined, from understanding drivers of biodiversity across spatial and temporal scales to defining complex feedback mechanisms in human–environmental systems. Last, the essential elements needed to engage and support a diverse and inclusive NEON user community are highlighted: training resources and tools that are openly available, funding for broad community engagement initiatives, and a mechanism to share and advertise those opportunities. NEON users require both the skills to work with NEON data and the ecological or environmental science domain knowledge to understand and interpret them. This paper synthesizes early directions in the community’s use of NEON data, and opportunities for the next 10 yr of NEON operations in emergent science themes, open science best practices, education and training, and community building.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.3833",
+		"ISSN": "2150-8925",
+		"issue": "12",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3833",
+		"page": "e03833",
+		"source": "Wiley Online Library",
+		"title": "Harnessing the NEON data revolution to advance open environmental science with a diverse and data-capable community",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.3833",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Nagy",
+				"given": "R. Chelsea"
+			},
+			{
+				"family": "Balch",
+				"given": "Jennifer K."
+			},
+			{
+				"family": "Bissell",
+				"given": "Erin K."
+			},
+			{
+				"family": "Cattau",
+				"given": "Megan E."
+			},
+			{
+				"family": "Glenn",
+				"given": "Nancy F."
+			},
+			{
+				"family": "Halpern",
+				"given": "Benjamin S."
+			},
+			{
+				"family": "Ilangakoon",
+				"given": "Nayani"
+			},
+			{
+				"family": "Johnson",
+				"given": "Brian"
+			},
+			{
+				"family": "Joseph",
+				"given": "Maxwell B."
+			},
+			{
+				"family": "Marconi",
+				"given": "Sergio"
+			},
+			{
+				"family": "O’Riordan",
+				"given": "Catherine"
+			},
+			{
+				"family": "Sanovia",
+				"given": "James"
+			},
+			{
+				"family": "Swetnam",
+				"given": "Tyson L."
+			},
+			{
+				"family": "Travis",
+				"given": "William R."
+			},
+			{
+				"family": "Wasser",
+				"given": "Leah A."
+			},
+			{
+				"family": "Woolner",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Zarnetske",
+				"given": "Phoebe"
+			},
+			{
+				"family": "Abdulrahim",
+				"given": "Mujahid"
+			},
+			{
+				"family": "Adler",
+				"given": "John"
+			},
+			{
+				"family": "Barnes",
+				"given": "Grenville"
+			},
+			{
+				"family": "Bartowitz",
+				"given": "Kristina J."
+			},
+			{
+				"family": "Blake",
+				"given": "Rachael E."
+			},
+			{
+				"family": "Bombaci",
+				"given": "Sara P."
+			},
+			{
+				"family": "Brun",
+				"given": "Julien"
+			},
+			{
+				"family": "Buchanan",
+				"given": "Jacob D."
+			},
+			{
+				"family": "Chadwick",
+				"given": "K. Dana"
+			},
+			{
+				"family": "Chapman",
+				"given": "Melissa S."
+			},
+			{
+				"family": "Chong",
+				"given": "Steven S."
+			},
+			{
+				"family": "Chung",
+				"given": "Y. Anny"
+			},
+			{
+				"family": "Corman",
+				"given": "Jessica R."
+			},
+			{
+				"family": "Couret",
+				"given": "Jannelle"
+			},
+			{
+				"family": "Crispo",
+				"given": "Erika"
+			},
+			{
+				"family": "Doak",
+				"given": "Thomas G."
+			},
+			{
+				"family": "Donnelly",
+				"given": "Alison"
+			},
+			{
+				"family": "Duffy",
+				"given": "Katharyn A."
+			},
+			{
+				"family": "Dunning",
+				"given": "Kelly H."
+			},
+			{
+				"family": "Duran",
+				"given": "Sandra M."
+			},
+			{
+				"family": "Edmonds",
+				"given": "Jennifer W."
+			},
+			{
+				"family": "Fairbanks",
+				"given": "Dawson E."
+			},
+			{
+				"family": "Felton",
+				"given": "Andrew J."
+			},
+			{
+				"family": "Florian",
+				"given": "Christopher R."
+			},
+			{
+				"family": "Gann",
+				"given": "Daniel"
+			},
+			{
+				"family": "Gebhardt",
+				"given": "Martha"
+			},
+			{
+				"family": "Gill",
+				"given": "Nathan S."
+			},
+			{
+				"family": "Gram",
+				"given": "Wendy K."
+			},
+			{
+				"family": "Guo",
+				"given": "Jessica S."
+			},
+			{
+				"family": "Harvey",
+				"given": "Brian J."
+			},
+			{
+				"family": "Hayes",
+				"given": "Katherine R."
+			},
+			{
+				"family": "Helmus",
+				"given": "Matthew R."
+			},
+			{
+				"family": "Hensley",
+				"given": "Robert T."
+			},
+			{
+				"family": "Hondula",
+				"given": "Kelly L."
+			},
+			{
+				"family": "Huang",
+				"given": "Tao"
+			},
+			{
+				"family": "Hundertmark",
+				"given": "Wiley J."
+			},
+			{
+				"family": "Iglesias",
+				"given": "Virginia"
+			},
+			{
+				"family": "Jacinthe",
+				"given": "Pierre-Andre"
+			},
+			{
+				"family": "Jansen",
+				"given": "Lara S."
+			},
+			{
+				"family": "Jarzyna",
+				"given": "Marta A."
+			},
+			{
+				"family": "Johnson",
+				"given": "Tiona M."
+			},
+			{
+				"family": "Jones",
+				"given": "Katherine D."
+			},
+			{
+				"family": "Jones",
+				"given": "Megan A."
+			},
+			{
+				"family": "Just",
+				"given": "Michael G."
+			},
+			{
+				"family": "Kaddoura",
+				"given": "Youssef O."
+			},
+			{
+				"family": "Kagawa-Vivani",
+				"given": "Aurora K."
+			},
+			{
+				"family": "Kaushik",
+				"given": "Aleya"
+			},
+			{
+				"family": "Keller",
+				"given": "Adrienne B."
+			},
+			{
+				"family": "King",
+				"given": "Katelyn B. S."
+			},
+			{
+				"family": "Kitzes",
+				"given": "Justin"
+			},
+			{
+				"family": "Koontz",
+				"given": "Michael J."
+			},
+			{
+				"family": "Kouba",
+				"given": "Paige V."
+			},
+			{
+				"family": "Kwan",
+				"given": "Wai-Yin"
+			},
+			{
+				"family": "LaMontagne",
+				"given": "Jalene M."
+			},
+			{
+				"family": "LaRue",
+				"given": "Elizabeth A."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Li",
+				"given": "Bonan"
+			},
+			{
+				"family": "Lin",
+				"given": "Yang"
+			},
+			{
+				"family": "Liptzin",
+				"given": "Daniel"
+			},
+			{
+				"family": "Long",
+				"given": "William Alex"
+			},
+			{
+				"family": "Mahood",
+				"given": "Adam L."
+			},
+			{
+				"family": "Malloy",
+				"given": "Samuel S."
+			},
+			{
+				"family": "Malone",
+				"given": "Sparkle L."
+			},
+			{
+				"family": "McGlinchy",
+				"given": "Joseph M."
+			},
+			{
+				"family": "Meier",
+				"given": "Courtney L."
+			},
+			{
+				"family": "Melbourne",
+				"given": "Brett A."
+			},
+			{
+				"family": "Mietkiewicz",
+				"given": "Nathan"
+			},
+			{
+				"family": "Morisette",
+				"given": "Jeffery T."
+			},
+			{
+				"family": "Moustapha",
+				"given": "Moussa"
+			},
+			{
+				"family": "Muscarella",
+				"given": "Chance"
+			},
+			{
+				"family": "Musinsky",
+				"given": "John"
+			},
+			{
+				"family": "Muthukrishnan",
+				"given": "Ranjan"
+			},
+			{
+				"family": "Naithani",
+				"given": "Kusum"
+			},
+			{
+				"family": "Neely",
+				"given": "Merrie"
+			},
+			{
+				"family": "Norman",
+				"given": "Kari"
+			},
+			{
+				"family": "Parker",
+				"given": "Stephanie M."
+			},
+			{
+				"family": "Perez Rocha",
+				"given": "Mariana"
+			},
+			{
+				"family": "Petri",
+				"given": "Laís"
+			},
+			{
+				"family": "Ramey",
+				"given": "Colette A."
+			},
+			{
+				"family": "Record",
+				"given": "Sydne"
+			},
+			{
+				"family": "Rossi",
+				"given": "Matthew W."
+			},
+			{
+				"family": "SanClements",
+				"given": "Michael"
+			},
+			{
+				"family": "Scholl",
+				"given": "Victoria M."
+			},
+			{
+				"family": "Schweiger",
+				"given": "Anna K."
+			},
+			{
+				"family": "Seyednasrollah",
+				"given": "Bijan"
+			},
+			{
+				"family": "Sihi",
+				"given": "Debjani"
+			},
+			{
+				"family": "Smith",
+				"given": "Kathleen R."
+			},
+			{
+				"family": "Sokol",
+				"given": "Eric R."
+			},
+			{
+				"family": "Spaulding",
+				"given": "Sarah A."
+			},
+			{
+				"family": "Spiers",
+				"given": "Anna I."
+			},
+			{
+				"family": "St. Denis",
+				"given": "Lise A."
+			},
+			{
+				"family": "Staccone",
+				"given": "Anika P."
+			},
+			{
+				"family": "Stack Whitney",
+				"given": "Kaitlin"
+			},
+			{
+				"family": "Stanitski",
+				"given": "Diane M."
+			},
+			{
+				"family": "Stricker",
+				"given": "Eva"
+			},
+			{
+				"family": "Surasinghe",
+				"given": "Thilina D."
+			},
+			{
+				"family": "Thomsen",
+				"given": "Sarah K."
+			},
+			{
+				"family": "Vasek",
+				"given": "Patrisse M."
+			},
+			{
+				"family": "Xiaolu",
+				"given": "Li"
+			},
+			{
+				"family": "Yang",
+				"given": "Di"
+			},
+			{
+				"family": "Yu",
+				"given": "Rong"
+			},
+			{
+				"family": "Yule",
+				"given": "Kelsey M."
+			},
+			{
+				"family": "Zhu",
+				"given": "Kai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1, 3
+				]
+			]
+		}
+	},
+	
   		{
 		"id": "Liao2021rolefunctionalstrategies",
 		"type": "article-journal",
