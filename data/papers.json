@@ -1,5 +1,135 @@
 [
   {
+		"id": "http://zotero.org/users/1411594/items/M7XP2IAA",
+		"type": "article-journal",
+		"abstract": "Aim Urbanization is becoming one of the most important drivers of global environmental change as human population and economic development rapidly increase. However, the effects of urbanization on plant phenology are still poorly understood, especially for leaf senescence and growing season length across large spatial scales. We aimed to fill this knowledge gap by combining in situ observations and remote sensing phenological data. Location The United States and Europe. Time period 2009–2018. Major taxa studied Vascular plants. Methods We divided the United States and Europe into 10 km by 10 km grid cells. We estimated leaf senescence dates for 93 species, and growing season length for a subset of 54 of these species, for grid cells with enough data using a database with >22 million in situ phenology observations. We also estimated growing season lengths at the community level for the Eastern Temperate Forest ecoregion in the US using remote sensing data. We then investigated effects of urbanization (using human population density as a proxy), temperature, and their interactions on leaf senescence and growing season lengths using linear mixed models. Results Urbanization and warmer regional temperature both delayed plant leaf senescence. In addition, the effects of urbanization on leaf senescence and growing season lengths depended on climate context: urbanization delayed leaf senescence and extended growing season length in cold regions; however, urbanization advanced leaf senescence and shortened growing season length in warm regions, implying the positive effects of urbanization on growing season length in cold regions may be weaker in a warmer future. Main conclusions Our study provides strong empirical evidence that the influence of urbanization on plant phenology and growing season length varies with regional temperature. Our results have important implications for predicting plant phenology and growing season length in a warmer and more urbanized future.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.13429",
+		"ISSN": "1466-8238",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.13429",
+		"page": "308-320",
+		"source": "Wiley Online Library",
+		"title": "Urbanization delays plant leaf senescence and extends growing season length in cold but not in warm areas of the Northern Hemisphere",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13429",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Stucky",
+				"given": "Brian J."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
+	{
+		"id": "http://zotero.org/users/1411594/items/Y7PUIAYI",
+		"type": "article-journal",
+		"abstract": "Wisconsin's plant communities are responding to shifting disturbance regimes, habitat fragmentation, aerial nitrogen deposition, exotic species invasions, ungulate herbivory, and successional processes. To better understand how plant functional traits mediate species' responses to changing environmental conditions, we collected a large set of functional trait data for vascular plant species occupying Wisconsin forests and grasslands. We used standard protocols to make 76,213 measurements of 34 quantitative traits. These data provide rich information on genome size, physical leaf traits (length, width, circularity, thickness, dry matter content, specific leaf area, etc.), chemical leaf traits (carbon, nitrogen, phosphorus, potassium, calcium, magnesium, ash), life history traits (vegetative and flower heights, seed mass), and traits affecting plant palatability (leaf fiber, fat, and lignin). These trait values derive from replicate measurements on 12+ individuals of each species from multiple sites and 45+ individuals for a selected subset of species. Measurements typically reflect values for individuals although some chemical traits involved composite samples from several individuals at the same site. We also qualitatively characterized each species by plant family, woodiness, functional group, and Raunkiaer lifeform. These data allow us to characterize trait dimensionality, differentiation, and covariation among temperate plant species (e.g., leaf and stem economic syndromes). We can also characterize species' responses to environmental gradients and drivers of ecological change. With survey and resurvey data available from >400 sites in Wisconsin, we can analyze variation in community trait distributions and diversity over time and space. These data therefore allow us to assess how trait divergence vs. convergence affects community assembly and how traits may be related to half-century shifts in the distribution and abundance of these species. The data set can be used for non-commercial purposes. The data set is licensed as follows: CC-By Attribution 4.0 International. We request users cite both the OSF data set and this Ecology data paper publication.",
+		"container-title": "Ecology",
+		"DOI": "10.1002/ecy.3527",
+		"ISSN": "1939-9170",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.3527",
+		"page": "e03527",
+		"source": "Wiley Online Library",
+		"title": "Functional trait data for vascular plant species from northeastern North America",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3527",
+		"volume": "103",
+		"author": [
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			},
+			{
+				"family": "Paulson",
+				"given": "Alison K."
+			},
+			{
+				"family": "Richards",
+				"given": "Jeannine H."
+			},
+			{
+				"family": "Alverson",
+				"given": "William S."
+			},
+			{
+				"family": "Amatangelo",
+				"given": "Kathryn L."
+			},
+			{
+				"family": "Bai",
+				"given": "Chengke"
+			},
+			{
+				"family": "Johnson",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Sonnier",
+				"given": "Grégory"
+			},
+			{
+				"family": "Toczydlowski",
+				"given": "Rachel H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					2
+				]
+			]
+		}
+	},
+	
+  {
 		"id": "belitz2021ecollett",
 		"type": "article-journal",
 		"abstract": "Insect phenological lability is key for determining which species will adapt under environmental change. However, little is known about when adult insect activity terminates and overall activity duration. We used community-science and museum specimen data to investigate the effects of climate and urbanisation on timing of adult insect activity for 101 species varying in life history traits. We found detritivores and species with aquatic larval stages extend activity periods most rapidly in response to increasing regional temperature. Conversely, species with subterranean larval stages have relatively constant durations regardless of regional temperature. Species extended their period of adult activity similarly in warmer conditions regardless of voltinism classification. Longer adult durations may represent a general response to warming, but voltinism data in subtropical environments are likely underreported. This effort provides a framework to address the drivers of adult insect phenology at continental scales and a basis for predicting species response to environmental change.",

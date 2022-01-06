@@ -18,6 +18,10 @@ disable_highlight: true
 
 # News
 
+## 2022
+
+- 2022/01/05: [Flavia](https://flamontano.wordpress.com) officially joined the lab as a postdoc! Welcome Fla!
+
 ## 2021
 
 - 2021/10/12: We are looking for 2 PhD students to start 2022 fall [(_*Job ad here*_)](/pdf/phd_position_2022fall.pdf)! Reach out if you are interested.
