@@ -30,7 +30,6 @@ disable_comments: true
 
 <li> <b>Community stability is related to animal diversity change</b>. Jarzyna et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
-<li> <b>Exploring discrepancies between in situ phenology and remotely derived phenometrics at NEON sites</b>. Donnelly et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 </ol>
 

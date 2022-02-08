@@ -37,14 +37,17 @@ date = "2020/08/08"
     name = "Value"
     url = "/value/"
     weight = 6
-
+[[menu.main]]
+    name = "blog"
+    url = "https://blog.dlilab.com/en/"
+    weight = 7
 
 
 [params]
     description = "Quantitative Ecology in a Changing World"
     footer = "&copy; [the Li lab](/) at [LSU Biology](https://www.lsu.edu/science/biosci/) & [CCT](https://www.cct.lsu.edu/) 2020 - "
     dateFormat = "2006/01/02"
-    githubContentURL = "https://github.com/rbind/daijiang/edit/master/content/"
+    githubContentURL = "https://github.com/dlilab/lab_website/edit/master/content/"
     customJS = ["js/external-link.js", "js/alt-title.js", "js/header-link.js"]
 
   highlightjsVersion = "9.12.0"

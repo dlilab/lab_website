@@ -53,6 +53,107 @@
 	},
 	
 	{
+		"id": "http://zotero.org/users/1411594/items/IABVEL62",
+		"type": "article-journal",
+		"abstract": "In recent decades, the use of satellite sensors, near-surface cameras, and other remote methods for monitoring vegetation phenology at landscape and higher scales has become increasingly common. These technologies provide a means to determine the timing of phenophases and growing season length at different spatial resolutions; coverage that is not attainable by human observers. However, in situ ground observations are required to validate remotely derived phenometrics. Despite increased knowledge and expertise there still remains the persistent challenge of reconciling ground observations at the individual plant level with remotely sensed (RS) phenometrics at landscape or larger scales. We compared the timing of in situ phenophase estimates (spring and autumn) with a range of corresponding remote sensing (moderate resolution imaging spectroradiometer [MODIS], visible infrared imaging radiometer suite [VIIRS], PhenoCam) phenometrics across five terrestrial sites in the United States' NEON (Harvard Forest [MA] [HARV], Onaqui [UT] [ONAQ], Abby Road [WA] [ABBY], Disney Wilderness Preserve [FL] [DSNY], and Ordway-Swisher Biological Station [FL] [OSBS]) focusing on the 3-year period from 2017 to 2019. Our main objective was to explore potential reasons for the observed discrepancies between in situ and RS phenometrics and to determine which technologies were better able to capture ground observations. Statistically significant relationships were strongest (p < 0.001) for spring phenophases, while the only RS phenometrics significantly correlated with in situ estimates of autumn phenophases were leaf fall (p < 0.01) and leaves (p < 0.000). In particular, root mean square error (RMSE) (mean bias error [MBE]) for MODIS-Enhanced Vegetation Index-2 band (EVI2), VIIRS-EVI2, and PhenoCam-green chromatic coordinate (GCC) derived early spring transition dates indicated overall differences of 21.7 days (−4.6 days), 28.4 days (−1.2 days), and 24.1 days (11.9 days) from in situ estimates of early leaf-out dates. In autumn, RMSE/MBE was smallest (10.9 days/−2.2 days) between phenesse estimates (95th percentile date) of the latest date of in situ leaf fall and VIIRS derived end of senescence, compared to the equivalent phenometric derived from MODIS (13.5 days/7.7 days) and PhenoCam (GCC greenness-falling) (13.8 days/−5.1 days). Overall, discrepancies between in situ and RS phenology related to scale, species availability, and the short duration of the time series (3 years). However, as the NEON project progresses these challenges are expected to be reduced as more data become available.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.3912",
+		"ISSN": "2150-8925",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3912",
+		"page": "e3912",
+		"source": "Wiley Online Library",
+		"title": "Exploring discrepancies between in situ phenology and remotely derived phenometrics at NEON sites",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.3912",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Donnelly",
+				"given": "Alison"
+			},
+			{
+				"family": "Yu",
+				"given": "Rong"
+			},
+			{
+				"family": "Jones",
+				"given": "Katherine"
+			},
+			{
+				"family": "Belitz",
+				"given": "Michael"
+			},
+			{
+				"family": "Li",
+				"given": "Bonan"
+			},
+			{
+				"family": "Duffy",
+				"given": "Katharyn"
+			},
+			{
+				"family": "Zhang",
+				"given": "Xiaoyang"
+			},
+			{
+				"family": "Wang",
+				"given": "Jianmin"
+			},
+			{
+				"family": "Seyednasrollah",
+				"given": "Bijan"
+			},
+			{
+				"family": "Gerst",
+				"given": "Katherine L."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Kaddoura",
+				"given": "Youssef"
+			},
+			{
+				"family": "Zhu",
+				"given": "Kai"
+			},
+			{
+				"family": "Morisette",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Ramey",
+				"given": "Colette"
+			},
+			{
+				"family": "Smith",
+				"given": "Kathleen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					6
+				]
+			]
+		}
+	},
+	
+	{
 		"id": "http://zotero.org/users/1411594/items/Y7PUIAYI",
 		"type": "article-journal",
 		"abstract": "Wisconsin's plant communities are responding to shifting disturbance regimes, habitat fragmentation, aerial nitrogen deposition, exotic species invasions, ungulate herbivory, and successional processes. To better understand how plant functional traits mediate species' responses to changing environmental conditions, we collected a large set of functional trait data for vascular plant species occupying Wisconsin forests and grasslands. We used standard protocols to make 76,213 measurements of 34 quantitative traits. These data provide rich information on genome size, physical leaf traits (length, width, circularity, thickness, dry matter content, specific leaf area, etc.), chemical leaf traits (carbon, nitrogen, phosphorus, potassium, calcium, magnesium, ash), life history traits (vegetative and flower heights, seed mass), and traits affecting plant palatability (leaf fiber, fat, and lignin). These trait values derive from replicate measurements on 12+ individuals of each species from multiple sites and 45+ individuals for a selected subset of species. Measurements typically reflect values for individuals although some chemical traits involved composite samples from several individuals at the same site. We also qualitatively characterized each species by plant family, woodiness, functional group, and Raunkiaer lifeform. These data allow us to characterize trait dimensionality, differentiation, and covariation among temperate plant species (e.g., leaf and stem economic syndromes). We can also characterize species' responses to environmental gradients and drivers of ecological change. With survey and resurvey data available from >400 sites in Wisconsin, we can analyze variation in community trait distributions and diversity over time and space. These data therefore allow us to assess how trait divergence vs. convergence affects community assembly and how traits may be related to half-century shifts in the distribution and abundance of these species. The data set can be used for non-commercial purposes. The data set is licensed as follows: CC-By Attribution 4.0 International. We request users cite both the OSF data set and this Ecology data paper publication.",

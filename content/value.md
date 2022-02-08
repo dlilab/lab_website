@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-date: '2020-08-08'
+date: '2022-02-08'
 slug: value
 ---
 
@@ -8,6 +8,15 @@ slug: value
 
 **We value collaboration and open science**. We support collaboration as a better model than competition within the lab and with colleagues at LSU and elsewhere. We are advocates of Open Science and reproducibility. Whenever possible, the data and software we generate is released under open licenses, a contribution we view as more important than simply churning out more papers (there may be cases for not sharing data openly immediately).
 
-More in developing...
+**General rules of conduct**:
+
+* Be kind to yourself. Be mindful of your limits, and do not exhaust yourself.
+* Be kind to others. Do not insult or put down other contributors.
+* Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+* Please make an effort to make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
+* All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual or discriminatory language and imagery is not appropriate at any time.
+
 
 Credits: this code of conduct was developed by members of Guralnick lab at UFL (including Daijiang).
+
+[Latest GitHub Version](https://github.com/dlilab/lab_Logistics/blob/main/Code_of_conduct.md)
