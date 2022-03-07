@@ -38,13 +38,9 @@ date = "2020/08/08"
     url = "/value/"
     weight = 6
 [[menu.main]]
-    name = "Wiki"
-    url = "/wiki/"
-    weight = 7
-[[menu.main]]
     name = "blog"
     url = "https://blog.dlilab.com/en/"
-    weight = 8
+    weight = 7
 
 
 [params]
