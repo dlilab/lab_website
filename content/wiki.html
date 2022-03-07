@@ -1,0 +1,87 @@
+---
+title: "Wiki"
+date: '2022-03-07'
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="computational-tools" class="section level2">
+<h2>Computational tools</h2>
+<p>This will change as machines get added to the lab. This doesn’t include the workstations for students, which are three 12gb Dell Optiplex 5020.</p>
+<ul>
+<li><code>2018 Macbook Pro</code>: lab laptop (16gb RAM laptop, currently lend to Flavia)</li>
+<li><code>server</code>: Dell server (PowerEdge T440, 128gb RAM, 32 Cores machine in LSB 125)</li>
+</ul>
+<p>Below is a list of computational tools that I would like lab members to be cognizant of.</p>
+<ul>
+<li><code>linux</code>: all lab computers will run the most current long term stable (LTS) release of Ubuntu.</li>
+<li><code>git</code> and <code>Github</code>: version control is an important part of science. It allows real time progress updates, issue tracking, and version control. There are numerous guides to beginning to learn how to use git with Github <a href="https://swcarpentry.github.io/git-novice-es/">training</a> and <a href="https://guides.github.com/activities/hello-world/">further training</a>.</li>
+<li><code>R</code>: lab members are expected to be familiar with the R programming environment. This is not to say you can’t program in other languages (e.g., Python or Julia are good alternatives), but the most overlap with other lab members will likely come through the use of R. I don’t care if you want to use base or the fanciest new package to hit the tidyverse, but having a common computational language among lab members has clear benefits <a href="http://swcarpentry.github.io/r-novice-inflammation/">training</a></li>
+<li><code>(R) markdown</code>: markdown is a markup language used to create this file. R markdown allows embedding R code within markdown documents, creating a document that can be compiled to contain both explanatory text and the results of analyses. <a href="https://www.markdowntutorial.com/">markdown tutorial</a>, <a href="https://rmarkdown.rstudio.com/lesson-1.html">R markdown tutorial</a></li>
+</ul>
+</div>
+<div id="lab-server" class="section level2">
+<h2>Lab server</h2>
+<p>To connect to the lab server, we need to be either on campus or use <code>GlobalProtect</code> VPN to connect to LSU intranet. The ip address is 130.39.115.238. To get access to it, we can use Terminal (<code>ssh user@130.39.115.238</code>) or go to your browser and enter <a href="http://130.39.115.238:8787/" class="uri">http://130.39.115.238:8787/</a> (or <a href="http://lsb-125-srv.lsu.edu:8787/" class="uri">http://lsb-125-srv.lsu.edu:8787/</a>) then login with your information.</p>
+<p>We should save our projects in <code>/media/dli/Data</code></p>
+<div id="set-up-new-user" class="section level3">
+<h3>Set up new user</h3>
+<pre class="bash"><code>ssh root@server.ip.address
+sudo adduser username
+sudo usermod -aG sudo username</code></pre>
+<p>Then log in to set up RStudio server:</p>
+<pre class="bash"><code># specify where to install R packages
+echo &#39;R_LIBS_USER=&quot;~/R&quot;&#39; &gt; .Renviron
+# to install binary packages
+echo &#39;options(servr.daemon = TRUE, repos = c(rstudio_binary = &quot;https://packagemanager.rstudio.com/all/__linux__/focal/latest&quot;))&#39; &gt; .Rprofile</code></pre>
+</div>
+</div>
+<div id="library-resource" class="section level2">
+<h2>Library resource</h2>
+<p>For some reason, I still cannot download articles directly from webpages even using the LSU VPN. Instead, I found that it is possible to replace the first part of the URL to get access to full text. Here is a list that I accumulated:</p>
+<ul>
+<li>List of databases from LSU library: <a href="https://login.libezp.lib.lsu.edu/menu" class="uri">https://login.libezp.lib.lsu.edu/menu</a></li>
+<li>Links with doi: <a href="https://doi-org.libezp.lib.lsu.edu/" class="uri">https://doi-org.libezp.lib.lsu.edu/</a></li>
+<li>jstor links: <a href="https://www-jstor-org.libezp.lib.lsu.edu" class="uri">https://www-jstor-org.libezp.lib.lsu.edu</a></li>
+<li>Science: <a href="https://www-sciencemag-org.libezp.lib.lsu.edu" class="uri">https://www-sciencemag-org.libezp.lib.lsu.edu</a> or <a href="http://www.sciencemag.org.libezp.lib.lsu.edu" class="uri">http://www.sciencemag.org.libezp.lib.lsu.edu</a></li>
+<li>Nature: <a href="https://www-nature-com.libezp.lib.lsu.edu" class="uri">https://www-nature-com.libezp.lib.lsu.edu</a></li>
+<li>Royal Society Publishing: <a href="https://royalsocietypublishing-org.libezp.lib.lsu.edu/" class="uri">https://royalsocietypublishing-org.libezp.lib.lsu.edu/</a></li>
+<li>Wiley: <a href="https://onlinelibrary-wiley-com.libezp.lib.lsu.edu" class="uri">https://onlinelibrary-wiley-com.libezp.lib.lsu.edu</a></li>
+<li>Science direct: <a href="https://www-sciencedirect-com.libezp.lib.lsu.edu" class="uri">https://www-sciencedirect-com.libezp.lib.lsu.edu</a></li>
+<li>U Chicago Press: <a href="https://www-journals-uchicago-edu.libezp.lib.lsu.edu/" class="uri">https://www-journals-uchicago-edu.libezp.lib.lsu.edu/</a></li>
+<li>Springer: <a href="https://link-springer-com.libezp.lib.lsu.edu" class="uri">https://link-springer-com.libezp.lib.lsu.edu</a></li>
+<li>Cell press: <a href="https://www-cell-com.libezp.lib.lsu.edu" class="uri">https://www-cell-com.libezp.lib.lsu.edu</a></li>
+<li>PNAS: <a href="https://www-pnas-org.libezp.lib.lsu.edu" class="uri">https://www-pnas-org.libezp.lib.lsu.edu</a></li>
+<li>Web of Science: <a href="https://apps-webofknowledge-com.libezp.lib.lsu.edu/WOS_GeneralSearch_input.do?product=WOS&amp;search_mode=GeneralSearch&amp;SID=8F8swBPcvR4AyxiPidm&amp;preferencesSaved=" class="uri">https://apps-webofknowledge-com.libezp.lib.lsu.edu/WOS_GeneralSearch_input.do?product=WOS&amp;search_mode=GeneralSearch&amp;SID=8F8swBPcvR4AyxiPidm&amp;preferencesSaved=</a></li>
+<li>Annual Reviews: <a href="https://www-annualreviews-org.libezp.lib.lsu.edu/action/showJournals" class="uri">https://www-annualreviews-org.libezp.lib.lsu.edu/action/showJournals</a></li>
+<li>ProQuest dissertations: <a href="https://search-proquest-com.libezp.lib.lsu.edu/?accountid=12154" class="uri">https://search-proquest-com.libezp.lib.lsu.edu/?accountid=12154</a></li>
+</ul>
+</div>
+<div id="collaboration" class="section level2">
+<h2>Collaboration</h2>
+<p>I do not need to be coauthor on every manuscript coming out of the lab, and I encourage students to research and publish independently of me. That being said, research using lab resources may be more suitable for my coauthorship, and I am happy to actively contribute to the project, or to allow the student to work independently. I also encourage students to collaborate with other scientists within LSU and outside. However, new collaborations should be discussed with me before students initiate them (if possible).</p>
+</div>
+<div id="university-authorization-process" class="section level2">
+<h2>University Authorization Process</h2>
+<p>If you need to get permission to drive a university vehicle, you need to <a href="https://lsu.edu/riskmgt/vehicleuse/lsuam_vehicleuseprocedures.php">get authorization first</a>.</p>
+</div>
+<div id="on-board-list" class="section level2">
+<h2>On board list</h2>
+<p>Here is a list for those who are just on board</p>
+<ul>
+<li>An official welcome (can be just an email)</li>
+<li>Tour of lab space</li>
+<li>Point to this Wiki</li>
+<li><a href="https://sites01.lsu.edu/faculty/biosci/work-request/">Request keys here</a>. In the ‘Purpose of Request’ row, select ‘Key Request’.</li>
+<li>Accessibility through email or office visits</li>
+<li>Talk about potential research projects</li>
+<li>Discuss the lab Github, protocols, and useful lab skill</li>
+<li>Weekly one-on-one meeting plus lab meeting
+<ul>
+<li>I expect everyone in the lab to create a weekly planning Google Doc and share it with me. Within this document, each of us should list what we have done this week and what we plan to do (<em>dodable actions</em>) next week. This file will also serve as an agenda for our one-to-one weekly meetings.</li>
+</ul></li>
+</ul>
+<hr />
+<p><strong>Latest version of this file can be found <a href="https://github.com/dlilab/lab_Logistics/blob/main/wiki.md">here</a>.</strong></p>
+</div>

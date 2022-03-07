@@ -1,0 +1,12 @@
+---
+title: "Wiki"
+date: '2022-03-07'
+---
+
+```{r, echo = FALSE, results = 'asis', warning=FALSE}
+cat(paste(readLines("https://raw.githubusercontent.com/dlilab/lab_Logistics/main/wiki.md")[-1], collapse = "\n"))
+```
+
+----------
+
+**Latest version of this file can be found [here](https://github.com/dlilab/lab_Logistics/blob/main/wiki.md).**
