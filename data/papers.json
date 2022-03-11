@@ -52,6 +52,59 @@
 		}
 	},
 	
+		{
+		"id": "http://zotero.org/users/1411594/items/8M9WCQZK",
+		"type": "article-journal",
+		"abstract": "Structural diversity is an emerging dimension of biodiversity that accounts for size variations in organs among individuals in a community. Previous studies show significant effects of structural diversity on forest growth, but its effects on forest mortality are not known, particularly at a large scale. To address this knowledge gap, we quantified structural diversity using stem structural diversity (SSD) based on both tree diameter and height. We obtained U.S. Forest Service Forest Inventory and Analysis (FIA) data from over 2400 plots across southcentral U.S. forests that have suffered a recent drought. Using data from multiple sampling times, we calculated SSD and compared the relative importance of SSD, species diversity, functional diversity and other stand attributes in determining tree mortalities caused by fire, insects and diseases. We also used FIRETEC, a physics-based fire model, to test the effect of SSD on canopy consumption by fire. Our results showed that (1) SSD was positively associated with tree mortalities caused by all three disturbances; (2) species richness was negatively associated with insect- and disease-caused mortalities; (3) functional diversity was negatively associated with fire- and disease-caused mortalities and (4) more phylogenetically related species had more similar mortality rates by insect and disease but not fire. Moreover, the FIRETEC model showed increasing canopy consumption by fire in stands with greater SSD. Together, the different tree mortalities during drought associated with SSD more consistently than the other biodiversity metrics were evaluated. Synthesis. Our results suggest that SSD could be considered in modelling forest dynamics and planning management to sustain forest health under disturbances.",
+		"container-title": "Journal of Ecology",
+		"DOI": "10.1111/1365-2745.13830",
+		"ISSN": "1365-2745",
+		"issue": "3",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.13830",
+		"page": "673-685",
+		"source": "Wiley Online Library",
+		"title": "Fire, insect and disease-caused tree mortalities increased in forests of greater structural diversity during drought",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13830",
+		"volume": "110",
+		"author": [
+			{
+				"family": "Zhai",
+				"given": "Lu"
+			},
+			{
+				"family": "Coyle",
+				"given": "David R."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Jonko",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+				  2	
+				]
+			]
+		}
+	},
+	
 	{
 		"id": "http://zotero.org/users/1411594/items/IABVEL62",
 		"type": "article-journal",
