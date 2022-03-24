@@ -18,29 +18,33 @@ date = "2020/08/08"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 2
-[[menu.main]]
     name = "People"
     url = "/people/"
+    weight = 2
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
     weight = 3
 [[menu.main]]
     name = "Publications"
     url = "/publications/"
     weight = 4
 [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 5
+[[menu.main]]
     name = "Join us"
     url = "/opportunities/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Value"
     url = "/value/"
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = "blog"
     url = "https://blog.dlilab.com/en/"
-    weight = 7
+    weight = 8
 
 
 [params]

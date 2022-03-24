@@ -28,8 +28,6 @@ disable_comments: true
 
 <li> <b>Standardized NEON organismal data for biodiversity research</b>. <b>Li D.</b> et al. <i>Ecosphere</i>. In press. <a href="https://ecoevorxiv.org/8kun3/" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
-<li> <b>Community stability is related to animal diversity change</b>. Jarzyna et al., ..., <b>Li D.</b>, ..., <i>Ecosphere</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
-
 
 </ol>
 

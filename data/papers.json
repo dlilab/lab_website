@@ -52,6 +52,87 @@
 		}
 	},
 	
+	{
+		"id": "http://zotero.org/users/1411594/items/EUBEV3HX",
+		"type": "article-journal",
+		"abstract": "Understanding the drivers of community stability in times of increasing anthropogenic pressure is an urgent issue. Biodiversity is known to promote community stability, but studies of the biodiversity–stability relationship rarely consider the full complexity of biodiversity change. Furthermore, finding generalities that hold across taxonomic groups and spatial and temporal scales remains challenging because most investigations have narrow taxonomic, spatial, and temporal scopes. We used organismal data collected through the National Ecological Observatory Network (NEON) at sites across the contiguous United States to evaluate linkages between community stability and biodiversity change for four taxonomic groups: small mammals, ground beetles, fish, and freshwater macroinvertebrates. We defined community stability as constancy of aggregate species' abundance. We quantified change in biodiversity as (1) dissimilarity in community taxonomic and functional composition and species replacement and richness change components of that dissimilarity and (2) change in species' abundance distributions as captured by change in species rank, richness, and evenness. We found that community stability increased with species replacement and with contribution of species replacement to overall dissimilarity for all taxonomic groups, but declined with increasing change in species richness and evenness. This is consistent with the notion that temporal fluctuations in species abundance can help stabilize community properties. We also found that community stability was highest when change in community functional composition was either lower or higher than expected given reshuffling of each community's taxonomic composition. This suggests that long-term community stability can result from fluctuations of functionally similar species in assemblages with high taxonomic reshuffling. On the contrary, the functional uniqueness of fluctuating species compensates for lower taxonomic reshuffling to drive stabilization of community properties. Our study provides an initial assessment of the relationship between community stability and biodiversity change and illustrates the utility of fine temporal resolution data collected across ecosystems and biomes to understand the general mechanisms underlying biodiversity–stability relationships.",
+		"container-title": "Ecosphere",
+		"DOI": "10.1002/ecs2.3970",
+		"ISSN": "2150-8925",
+		"issue": "3",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3970",
+		"page": "e3970",
+		"source": "Wiley Online Library",
+		"title": "Community stability is related to animal diversity change",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.3970",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Jarzyna",
+				"given": "Marta A."
+			},
+			{
+				"family": "Norman",
+				"given": "Kari E. A."
+			},
+			{
+				"family": "LaMontagne",
+				"given": "Jalene M."
+			},
+			{
+				"family": "Helmus",
+				"given": "Matthew R."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Parker",
+				"given": "Stephanie M."
+			},
+			{
+				"family": "Perez Rocha",
+				"given": "Mariana"
+			},
+			{
+				"family": "Record",
+				"given": "Sydne"
+			},
+			{
+				"family": "Sokol",
+				"given": "Eric R."
+			},
+			{
+				"family": "Zarnetske",
+				"given": "Phoebe L."
+			},
+			{
+				"family": "Surasinghe",
+				"given": "Thilina D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					5
+				]
+			]
+		}
+	},
+	
 		{
 		"id": "http://zotero.org/users/1411594/items/8M9WCQZK",
 		"type": "article-journal",
