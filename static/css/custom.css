@@ -59,6 +59,10 @@
   }
 }
 
+html {
+  font-size: 105%;
+}
+
 /* body of main content */
 body {
     width: auto;
