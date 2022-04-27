@@ -1055,6 +1055,9 @@
 		"title": "Analyzing a phenological anomaly in Yucca of the southwestern United States",
 		"URL": "https://www.nature.com/articles/s41598-021-00265-y",
 		"volume": "11",
+				"pressrelease": [
+		  {"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304305&org=BIO&from=news"}
+		],
 		"author": [
 			{
 				"family": "Brenskelle",
