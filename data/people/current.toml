@@ -13,6 +13,18 @@
     www = "/"
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
+    
+[FlaviaMontano]
+  name = "Flavia Montaño"
+  mugshot = "mugshots/flavia_montano.png"
+  text = [
+    "**Postdoc**. Flavia is widely interested in the drivers of biological diversity and has focused mostly on how animal and plant communities respond to changing conditions across elevations. She enjoys traveling, hiking, camping, dancing and doing handicrafts."
+  ]
+  role = "Postdoc"
+  [FlaviaMontano.social]
+    email = "fcente1@lsu.edu"
+    www = "https://flamontano.wordpress.com/"
+    twitter = "fla_montano"
 
 [PabloMoreno]
   name = "Pablo Moreno Garcia"
@@ -23,6 +35,7 @@
   role = "Postdoc"
   [PabloMoreno.social]
     email = "pmoreno@lsu.edu"
+    twitter = "PabloMorenoGar6"
 
 [EvelinReyes]
   name = "Evelin Reyes"
