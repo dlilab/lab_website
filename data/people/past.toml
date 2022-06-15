@@ -14,3 +14,13 @@
   role = "Research Associate"
   [mattBlanchard.social]
     email = "mblan31@lsu.edu"
+    
+[AlexisBenoit]
+  name = "Alexis Benoit"
+  mugshot = "mugshots/Alexis_Benoit.jpeg"
+  text = [
+    "**Undergraduate student**. Alexis is interested in biodiversity and physiological ecology. She enjoy running, hiking, and traveling."
+  ]
+  role = "Undergraduate student"
+  [AlexisBenoit.social]
+    email = "abeno23@lsu.edu"

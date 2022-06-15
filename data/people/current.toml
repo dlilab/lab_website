@@ -14,6 +14,16 @@
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
 
+[PabloMoreno]
+  name = "Pablo Moreno Garcia"
+  mugshot = "mugshots/pablo_moreno.png"
+  text = [
+    "**Postdoc**. Pablo is interested in ecological interactions, specifically in temporal and spatial changes of plant-pollinator relationships in responses to global change. He enjoys hiking, traveling, painting, and reading."
+  ]
+  role = "Postdoc"
+  [PabloMoreno.social]
+    email = "pmoreno@lsu.edu"
+
 [EvelinReyes]
   name = "Evelin Reyes"
   mugshot = "mugshots/Evelin_Reyes.jpeg"
@@ -24,15 +34,6 @@
   [EvelinReyes.social]
     email = "ereye11@lsu.edu"
 
-[AlexisBenoit]
-  name = "Alexis Benoit"
-  mugshot = "mugshots/Alexis_Benoit.jpeg"
-  text = [
-    "**Undergraduate student**. Alexis is interested in biodiversity and physiological ecology. She enjoy running, hiking, and traveling."
-  ]
-  role = "Undergraduate student"
-  [AlexisBenoit.social]
-    email = "abeno23@lsu.edu"
     
 [KatharineDarst]
   name = "Sofia Darst"

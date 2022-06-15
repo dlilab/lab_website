@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2022
 
+- 2022/06/15: The lab is growing! We welcome Pablo to our lab as postdoc! Pablo will work on plant-pollinator related projects and we are so excited!
 - 2022/01/05: [Flavia](https://flamontano.wordpress.com) officially joined the lab as a postdoc! Welcome Fla!
 
 ## 2021

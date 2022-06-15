@@ -14,6 +14,12 @@
             {{ end }}
             
             {{ range $current }}
+                {{ if (eq .role "Postdoc")}}
+                    {{ partial "people.html" . }}
+                {{ end }}
+            {{ end }}
+            
+            {{ range $current }}
                 {{ if (eq .role "Research Associate")}}
                     {{ partial "people.html" . }}
                 {{ end }}
