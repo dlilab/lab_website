@@ -24,3 +24,15 @@
   role = "Undergraduate student"
   [AlexisBenoit.social]
     email = "abeno23@lsu.edu"
+
+[KatharineDarst]
+  name = "Sofia Darst"
+  mugshot = "mugshots/Katharine_S_Darst.jpeg"
+  text = [
+    "**Undergraduate student**. Sofia will work with Alexis on the lifeplan project."
+  ]
+  role = "Undergraduate student"
+  [KatharineDarst.social]
+    email = "kdarst1@lsu.edu"
+
+

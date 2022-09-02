@@ -48,15 +48,28 @@
     email = "ereye11@lsu.edu"
 
     
-[KatharineDarst]
-  name = "Sofia Darst"
-  mugshot = "mugshots/Katharine_S_Darst.jpeg"
+[RohitJha]
+  name = "Rohit Jha"
+  mugshot = "mugshots/rohit_jha.jpeg"
   text = [
-    "**Undergraduate student**. Sofia will work with Alexis on the lifeplan project."
+    "**PhD student**. Rohit is broadly interested in biological invasions, altitudinal shift of plant communities, plant-animal interaction, and coupled human and natural systems. He enjoys cooking, hiking, poetry, and reading."
   ]
-  role = "Undergraduate student"
-  [KatharineDarst.social]
-    email = "kdarst1@lsu.edu"
+  role = "PhD student"
+  [RohitJha.social]
+    email = "rjha1@lsu.edu"
+    www = "https://www.researchgate.net/profile/Rohit-Jha-3"
+
+[LintaIslam]
+  name = "Linta Islam"
+  mugshot = "mugshots/linta_islam.jpeg"
+  text = [
+    "**PhD student**.Linta is interested in ecology and data science, especially on leveraging deep learning approaches to study ecological questions. She enjoys movies, music, and traveling."
+  ]
+  role = "PhD student"
+  [LintaIslam.social]
+    email = "lislam4@lsu.edu"
+    www = "https://lintacse.wordpress.com/"
+    
 
 [you]
   name = "You?"
