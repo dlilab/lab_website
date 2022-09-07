@@ -26,7 +26,7 @@ disable_comments: true
 
 <ol>
 
-<li> <b>Phenological research based on natural history collections: practical guidelines and a Lepidopteran case study</b>. Belitz M., Larsen E., Shirey V., <b>Li D.</b>, and Guralnick R. <i>Functional Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
+<li> <b>Phenological research based on natural history collections: practical guidelines and a Lepidopteran case study</b>. Belitz M., Larsen E., Shirey V., <b>Li D.</b>, and Guralnick R. <i>Functional Ecology</i>. In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14173?af=R" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 </ol>
 
 
