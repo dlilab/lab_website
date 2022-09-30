@@ -29,10 +29,16 @@
   name = "Sofia Darst"
   mugshot = "mugshots/Katharine_S_Darst.jpeg"
   text = [
-    "**Undergraduate student**. Sofia will work with Alexis on the lifeplan project."
+    "**Undergraduate student**. Sofia worked with Alexis on the lifeplan project."
   ]
   role = "Undergraduate student"
   [KatharineDarst.social]
     email = "kdarst1@lsu.edu"
 
-
+[SarahDegeyter]
+  name = "Sarah Degeyter"
+  text = [
+    "**Undergraduate student**. Sarah worked in the lab in spring 2022."
+  ]
+  role = "Undergraduate student"
+  

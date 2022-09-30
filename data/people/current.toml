@@ -70,6 +70,15 @@
     email = "lislam4@lsu.edu"
     www = "https://lintacse.wordpress.com/"
     
+[GraceHarden]
+  name = "Grace Harden"
+  mugshot = "mugshots/grace_harden.jpeg"
+  text = [
+    "**Undergraduate student**. Grace is interested in sustainability and climate issues in animal production systems and ecology. She enjoys reading, gardening, and volunteering at the Baton Rouge Zoo."
+  ]
+  role = "Undergraduate student"
+
+    
 
 [you]
   name = "You?"
