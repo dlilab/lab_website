@@ -22,6 +22,7 @@ disable_highlight: true
 
 - 2022/10/12: Our proposal to synthesize urban invasion ecology was funded by iDiv (German Centre for Integrative Biodiversity Research)! Lots of exciting projects to be done with a large group of collaborators!
 - 2022/09/01: The lab is officially #NSFfunded today! We are going to work on [a project to study species invasions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213567&HistoricalAwards=false) with advanced statistical models and to work on [a project to build a global database of plant phenology (PhenoBase)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2223508&HistoricalAwards=false) by integrating existing phenological records and adding new records using deep learning approaches.
+- 2022/08/26: Daijiang participated in the Urban Eco-Evo and Long-Term Ecology working group at the beautiful Sevilleta Field Station in New Mexico.
 - 2022/08/22: Welcome Rohit and Linta to the lab as the latest graduate students! We are excited to have both of you here!
 - 2022/06/15: The lab is growing! We welcome Pablo to our lab as postdoc! Pablo will work on plant-pollinator related projects and we are so excited!
 - 2022/01/05: [Flavia](https://flamontano.wordpress.com) officially joined the lab as a postdoc! Welcome Fla!
