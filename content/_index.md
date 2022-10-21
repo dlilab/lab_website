@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2022
 
+- 2022/10/20: Daijiang was [interviewed by KSLA TV Station](https://www.ksla.com/2022/10/21/lsu-biologist-building-first-worldwide-plant-phenology-database/) regarding the Phenobase project.
 - 2022/09/01: The lab is officially #NSFfunded today! We are going to work on [a project to study species invasions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213567&HistoricalAwards=false) with advanced statistical models and to work on [a project to build a global database of plant phenology (PhenoBase)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2223508&HistoricalAwards=false) by integrating existing phenological records and adding new records using deep learning approaches.
 - 2022/08/22: Welcome Rohit and Linta to the lab as the latest graduate students! We are excited to have both of you here!
 - 2022/06/15: The lab is growing! We welcome Pablo to our lab as postdoc! Pablo will work on plant-pollinator related projects and we are so excited!
