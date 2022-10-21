@@ -30,7 +30,8 @@ disable_comments: true
 
 <li> <b>Functional traits mediate individualistic species-environment distributions at broad spatial scales while fine-scale species’ associations remain unpredictable</b>. Beck J., <b>Li D.</b>, Johnson S., Rogers D., Cameron K., Sytsma K, Givnish T, and Waller D. <i>American Journal of Botany</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
-<li> <b>Effects of non-native species on phylogenetic dispersion of freshwater fish communities in North America</b>. Qian H., ...including <b>Li D.</b>, ... <i>Diversity and Distributions</i>. In press. </li>
+<li> <b>Effects of non-native species on phylogenetic dispersion of freshwater fish communities in North America</b>. Qian H., ...including <b>Li D.</b>, ... <i>Diversity and Distributions</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13647" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> </li>
+
 
 <li> <b>Phylogenetic diversity of eastern Asia–eastern North America disjunct plants is mainly associated with divergence time</b>. Han Y., ...including <b>Li D.</b>, ... <i>Plant Diversity</i>. In press. </li>
 
