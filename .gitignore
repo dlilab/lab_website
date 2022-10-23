@@ -6,3 +6,4 @@
 */.DS_Store
 public/
 blogdown/
+.hugo_build.lock
