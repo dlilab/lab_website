@@ -20,7 +20,7 @@ disable_highlight: true
 
 ## 2022
 
-- 2020/20/21: Our lab has two new postdoc positions opening: one on [species invasions](https://lsu.wd1.myworkdayjobs.com/LSU/job/0437-Life-Sciences-Building/Postdoctoral-Researcher_R00073358-1) and one on [deep learning and ontology development](https://lsu.wd1.myworkdayjobs.com/LSU/job/1079-Digital-Media-Center/Research-Data-Scientist--IT-Analyst-3-_R00074121-1). Please apply if interested.
+- 2022/10/21: Our lab has two new postdoc positions opening: one on [species invasions](https://lsu.wd1.myworkdayjobs.com/LSU/job/0437-Life-Sciences-Building/Postdoctoral-Researcher_R00073358-1) and one on [deep learning and ontology development](https://lsu.wd1.myworkdayjobs.com/LSU/job/1079-Digital-Media-Center/Research-Data-Scientist--IT-Analyst-3-_R00074121-1). Please apply if interested.
 - 2022/10/20: Daijiang was [interviewed by KSLA TV Station](https://www.ksla.com/2022/10/21/lsu-biologist-building-first-worldwide-plant-phenology-database/) regarding the Phenobase project.
 - 2022/10/12: Our proposal to synthesize urban invasion ecology was funded by iDiv (German Centre for Integrative Biodiversity Research)! Lots of exciting projects to be done with a large group of collaborators!
 - 2022/09/01: The lab is officially #NSFfunded today! We are going to work on [a project to study species invasions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213567&HistoricalAwards=false) with advanced statistical models and to work on [a project to build a global database of plant phenology (PhenoBase)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2223508&HistoricalAwards=false) by integrating existing phenological records and adding new records using deep learning approaches.
