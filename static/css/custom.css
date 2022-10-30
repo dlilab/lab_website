@@ -77,11 +77,11 @@ body {
 
 .main a {
     color: #461D7C;
+    border-bottom: none;
 }
 
 .main a:hover {
     color: #FDD023;
-    border-bottom: none;
 }
 
 /* color of links in main content */
