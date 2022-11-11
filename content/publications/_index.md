@@ -26,6 +26,8 @@ disable_comments: true
 
 <ol>
 
+<li> <b>Global patterns and drivers of raptor phylogenetic and functional diversity</b>. Montaño-Centellas F., Baiser B., McGrew A., Trotta L., and <b>Li D.</b> <i>Global Ecology and Biogeography</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
+
 <li> <b>Phenological research based on natural history collections: practical guidelines and a Lepidopteran case study</b>. Belitz M., Larsen E., Shirey V., <b>Li D.</b>, and Guralnick R. <i>Functional Ecology</i>. In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14173?af=R" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
 <li> <b>Functional traits mediate individualistic species-environment distributions at broad spatial scales while fine-scale species’ associations remain unpredictable</b>. Beck J., <b>Li D.</b>, Johnson S., Rogers D., Cameron K., Sytsma K, Givnish T, and Waller D. <i>American Journal of Botany</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
