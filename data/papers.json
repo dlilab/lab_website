@@ -53,6 +53,75 @@
 	},
 	
 		{
+		"id": "http://zotero.org/users/1411594/items/MD2QEMGQ",
+		"type": "article-journal",
+		"abstract": "Premise Numerous processes influence plant distributions and co-occurrence patterns, including ecological sorting, limiting similarity, and stochastic effects. To discriminate among these processes and determine the spatial scales at which they operate, we investigated how functional traits and phylogenetic relatedness influence the distribution of temperate forest herbs. Methods We surveyed understory plant communities across 257 forest stands in Wisconsin and Michigan (USA) and applied Bayesian phylogenetic linear mixed-effects models (PGLMMs) to quantify how functional traits and phylogenetic relatedness influence the environmental distribution of 139 herbaceous plant species along broad edaphic, climatic, and light gradients. These models also allowed us to test how functional and phylogenetic similarity affect species co-occurrence within microsites. Results Leaf height, specific leaf area, and seed mass all influenced individualistic plant distributions along landscape-scale gradients in soil texture, soil fertility, light availability, and climate. In contrast, phylogenetic relationships did not consistently predict species-environment relationships. Neither functionally similar nor phylogenetically related herbs segregated among microsites within forest stands. Conclusions Trait-mediated ecological sorting appears to drive temperate-forest community assembly, generating individualistic plant distributions along regional environmental gradients. This finding links classic studies in plant ecology and prior research in plant physiological ecology to current trait-based approaches in community ecology. However, our results fail to support the common assumption that limiting similarity governs local plant co-occurrences. Strong ecological sorting among forest stands coupled with stochastic fine-scale interactions among species appear to weaken deterministic, niche-based assembly processes at local scales.",
+		"container-title": "American Journal of Botany",
+		"DOI": "10.1002/ajb2.16085",
+		"ISSN": "1537-2197",
+		"issue": "12",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.16085",
+		"page": "1-15",
+		"source": "Wiley Online Library",
+		"title": "Functional traits mediate individualistic species-environment distributions at broad spatial scales while fine-scale species associations remain unpredictable",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.16085",
+		"volume": "109",
+		"author": [
+			{
+				"family": "Beck",
+				"given": "Jared J."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Johnson",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Rogers",
+				"given": "David"
+			},
+			{
+				"family": "Cameron",
+				"given": "Kenneth M."
+			},
+			{
+				"family": "Sytsma",
+				"given": "Kenneth J."
+			},
+			{
+				"family": "Givnish",
+				"given": "Thomas J."
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					2
+				]
+			]
+		}
+	},
+	
+		{
 		"id": "http://zotero.org/users/1411594/items/4KD8BT6T",
 		"type": "article-journal",
 		"abstract": "Aim Nitrogen (N)-fixing plants are an important component of global plant communities, but the drivers of N-fixing plant diversity, especially in temperate regions, remain underexplored. Here, we examined broad-scale patterns of N-fixing and non-fixing plant phylogenetic diversity (PD) and species richness (SR) across a wide portion of temperate North America, focusing on relationships with soil N and aridity. We also tested whether exotic species, with and without N-fixing symbiosis, have fewer abiotic limitations compared with native species. Location USA and Puerto Rico. Time period Current. Major taxa studied Vascular plants, focusing on N-fixing groups (orders Fabales, Fagales, Rosales and Cucurbitales). Methods We subset National Ecological Observatory Network (NEON) plant plot data from all sites along two axes (N fixing–non-N fixing and native–exotic), calculating plot-level SR, PD and mean pairwise phylogenetic distance (MPD). We then used linear mixed models to investigate relationships between diversity values and key soil measurements, along with aridity, temperature and fire frequency. Results Aridity was the sole predictor of proportional phylogenetic diversity of N fixers. The SR of N fixers still decreased marginally in arid regions, whereas native N-fixer MPD increased with aridity, indicative of unique lineages of N fixers in the driest conditions, in contrast to native non-N fixers. The SR of both native N fixers and non-N fixers increased in low-N soils. Aridity did not affect SR of exotic non-N fixers, unlike other groups, whereas exotic N fixers showed lower MPD in increasingly high-N soils, suggesting filtering, contrary what was found for native N fixers. Main conclusions Our results suggest that it is not nitrogen, or any soil nutrient, that has the strongest effect on the relative success of N fixers in plant communities. Rather, aridity is the key driver, at least for native species, in line with empirical results from other biomes and increased understanding of N fixation as a key mechanism to avoid water loss.",
