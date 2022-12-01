@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2022
 
+- 2022/11/23: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13619) led by Flavia was published at Global Ecology and Biogeography!
 - 2022/10/21: Our lab has two new postdoc positions opening: one on [species invasions](https://lsu.wd1.myworkdayjobs.com/LSU/job/0437-Life-Sciences-Building/Postdoctoral-Researcher_R00073358-1) and one on [deep learning and ontology development](https://lsu.wd1.myworkdayjobs.com/LSU/job/1079-Digital-Media-Center/Research-Data-Scientist--IT-Analyst-3-_R00074121-1). Please apply if interested.
 - 2022/10/20: Daijiang was [interviewed by KSLA TV Station](https://www.ksla.com/2022/10/21/lsu-biologist-building-first-worldwide-plant-phenology-database/) regarding the Phenobase project.
 - 2022/10/12: Our proposal to synthesize urban invasion ecology was funded by iDiv (German Centre for Integrative Biodiversity Research)! Lots of exciting projects to be done with a large group of collaborators!
