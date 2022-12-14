@@ -59,16 +59,6 @@
     email = "rjha1@lsu.edu"
     www = "https://www.researchgate.net/profile/Rohit-Jha-3"
 
-[LintaIslam]
-  name = "Linta Islam"
-  mugshot = "mugshots/linta_islam.jpeg"
-  text = [
-    "**PhD student**.Linta is interested in ecology and data science, especially on leveraging deep learning approaches to study ecological questions. She enjoys movies, music, and traveling."
-  ]
-  role = "PhD student"
-  [LintaIslam.social]
-    email = "lislam4@lsu.edu"
-    www = "https://lintacse.wordpress.com/"
     
 [GraceHarden]
   name = "Grace Harden"
