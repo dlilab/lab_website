@@ -8,7 +8,7 @@
           {{ if (and (eq $author.family "Li") (eq $author.given "Daijiang")) }}
              <span class="family"><b>Li D.</b>,</span>
           {{ else }}
-        <span class="family">{{ $author.family }}</span>
+        <span class="family">{{ $author.family | markdownify }}</span>
         <span class="given">{{ range $names := split $author.given " " }}
             {{ substr $names 0 1 }}.{{ end }},</span>
          {{ end }}

@@ -26,13 +26,9 @@ disable_comments: true
 
 <ol>
 
-<li> <b>Global patterns and drivers of raptor phylogenetic and functional diversity</b>. Montaño-Centellas F., Baiser B., McGrew A., Trotta L., and <b>Li D.</b> <i>Global Ecology and Biogeography</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
-
 <li> <b>Co-occurring bunchgrasses are associated with different plant species in dry pine savannas</b>. Baruzzi C., <b>Li D.</b>, Fill J., and Crandall R., <i>Restoration Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
 <li> <b>Phenological research based on natural history collections: practical guidelines and a Lepidopteran case study</b>. Belitz M., Larsen E., Shirey V., <b>Li D.</b>, and Guralnick R. <i>Functional Ecology</i>. In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14173?af=R" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
-
-<li> <b>Effects of non-native species on phylogenetic dispersion of freshwater fish communities in North America</b>. Qian H., ...including <b>Li D.</b>, ... <i>Diversity and Distributions</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13647" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> </li>
 
 <li> <b>Phylogenetic diversity of eastern Asia–eastern North America disjunct plants is mainly associated with divergence time</b>. Han Y., ...including <b>Li D.</b>, ... <i>Plant Diversity</i>. In press. </li>
 
@@ -47,8 +43,8 @@ disable_comments: true
 
 <div style="text-align: center;">
 
-[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016 and before](#2016)
+[2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016 and before](#2016)
 
 </div>
 
-
+<sup>§</sup> denotes postdoc mentee co-author

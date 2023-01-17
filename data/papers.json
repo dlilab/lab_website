@@ -1,4 +1,122 @@
 [
+  	{
+		"id": "http://zotero.org/users/1411594/items/MAXWAH7C",
+		"type": "article-journal",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.13619",
+		"ISSN": "1466-8238",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.13619",
+		"page": "281-294",
+		"source": "Wiley Online Library",
+		"title": "Global patterns and drivers of raptor phylogenetic and functional diversity",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13619",
+		"volume": "32",
+		"author": [
+			{
+				"family": "<sup>§</sup>Montaño-Centellas",
+				"given": "Flavia"
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "McGrew",
+				"given": "Alicia"
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1411594/items/HDN8VQRK",
+		"type": "article-journal",
+		"container-title": "Diversity and Distributions",
+		"DOI": "10.1111/ddi.13647",
+		"ISSN": "1472-4642",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.13647",
+		"page": "143-156",
+		"source": "Wiley Online Library",
+		"title": "Effects of non-native species on phylogenetic dispersion of freshwater fish communities in North America",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ddi.13647",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Hong"
+			},
+			{
+				"family": "Chu",
+				"given": "Cindy"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Cao",
+				"given": "Yong"
+			},
+			{
+				"family": "Sandel",
+				"given": "Brody"
+			},
+			{
+				"family": "Anas",
+				"given": "M. U. Mohamed"
+			},
+			{
+				"family": "Mandrak",
+				"given": "Nicholas E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					5
+				]
+			]
+		}
+	},
   {
 		"id": "http://zotero.org/users/1411594/items/M7XP2IAA",
 		"type": "article-journal",
