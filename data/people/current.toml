@@ -76,6 +76,15 @@
   ]
   role = "Undergraduate student"
 
+
+[SydneMartin]
+  name = "Sydne Martin"
+  mugshot = "mugshots/sydne_martin.jpeg"
+  text = [
+    "**Undergraduate student**. Sydne is interested in animal development in certain environments, sustainability, and population growth. She enjoys traveling, sightseeing and watching sports."
+  ]
+  role = "Undergraduate student"
+  
 [you]
   name = "You?"
   mugshot = "images/logo.png"
