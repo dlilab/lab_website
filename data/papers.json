@@ -1,4 +1,62 @@
 [
+  {
+		"id": "http://zotero.org/users/1411594/items/47Q25JQA",
+		"type": "article-journal",
+		"container-title": "Functional Ecology",
+		"DOI": "10.1111/1365-2435.14173",
+		"ISSN": "1365-2435",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2435.14173",
+		"page": "234-247",
+		"source": "Wiley Online Library",
+		"title": "Phenological research based on natural history collections: Practical guidelines and a lepidopteran case study",
+		"title-short": "Phenological research based on natural history collections",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.14173",
+		"volume": "37",
+		"coverImage": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.14072",
+		"author": [
+			{
+				"family": "Belitz",
+				"given": "Michael W."
+			},
+			{
+				"family": "Larsen",
+				"given": "Elise A."
+			},
+			{
+				"family": "Shirey",
+				"given": "Vaughn"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					3
+				]
+			]
+		}
+	},
+	
   	{
 		"id": "http://zotero.org/users/1411594/items/MAXWAH7C",
 		"type": "article-journal",

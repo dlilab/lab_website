@@ -28,8 +28,6 @@ disable_comments: true
 
 <li> <b>Co-occurring bunchgrasses are associated with different plant species in dry pine savannas</b>. Baruzzi C., <b>Li D.</b>, Fill J., and Crandall R., <i>Restoration Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
-<li> <b>Phenological research based on natural history collections: practical guidelines and a Lepidopteran case study</b>. Belitz M., Larsen E., Shirey V., <b>Li D.</b>, and Guralnick R. <i>Functional Ecology</i>. In press. <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14173?af=R" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
-
 <li> <b>Phylogenetic diversity of eastern Asia–eastern North America disjunct plants is mainly associated with divergence time</b>. Han Y., ...including <b>Li D.</b>, ... <i>Plant Diversity</i>. In press. </li>
 
 </ol>
