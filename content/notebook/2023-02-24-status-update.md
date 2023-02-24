@@ -1,5 +1,5 @@
 ---
-title: Status update September 16
+title: Status update Feburary 24
 author: Daijiang Li
 date: '2023-02-24'
 slug: status-update
@@ -34,6 +34,8 @@ It has been almost half a year since last update here. Sign.
 - [ ] `labmtg`: need to work a little bit more and see how the project goes
 
 - [ ] `project`: need to think about what project to do next, going out of manuscript now...
+    + simulation of phylogenies and pglmm?
+    + var in phenology? Need to find sometime to get this one ready
 
 
 
