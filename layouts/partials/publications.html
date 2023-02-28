@@ -81,6 +81,12 @@
         {{ end }}
         {{ end }}
         
+      <!-- {{ if isset . "DOI" }}
+         <span class="url link badge">
+       <i class="__dimensions_badge_embed__" data-doi="{{ .DOI}}" data-style="small_rectangle"></i>
+        </span>
+        {{ end }} -->
+        
         {{ if isset . "DOI" }}
         <span class="url link badge">
         <i class="altmetric-embed" data-badge-type="4" data-condensed="true" data-hide-no-mentions="true" data-badge-popover="right" data-doi="{{ .DOI}}"></i>
