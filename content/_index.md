@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2023
 
+- 2023/02/28: Paper accepted at Ecography!
 - 2023/02/01: Daijiang attended a workshop organized by the [Urban Eco-Evo Network](https://www.urbanecoevo.net/) at the University of Washington; lots of exciting ideas regarding :cityscape:️ urban eco-evo dynamics :cityscape:️ to think about.
 
 ## 2022
