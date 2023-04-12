@@ -38,7 +38,7 @@ date = "2020/08/08"
     url = "/opportunities/"
     weight = 6
 [[menu.main]]
-    name = "Value"
+    name = "Values"
     url = "/value/"
     weight = 7
 [[menu.main]]
