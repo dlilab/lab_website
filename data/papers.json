@@ -57,6 +57,48 @@
 		}
 	},
 	
+	{
+		"id": "li2023rtrees",
+		"type": "article-journal",
+		"abstract": "Despite the increasingly available phylogenetic hypotheses for multiple taxonomic groups, most of them do not include all species. In phylogenetic ecology, there is still a strong demand to have phylogenies with all species in a study included. The existing software tools to graft species to backbone megatrees, however, are mostly limited to a specific taxonomic group such as plants or fishes. Here, I introduce a new user-friendly R package, ‘rtrees', that can assemble phylogenies from existing or user-provided megatrees. For most common taxonomic groups, users can only provide a vector of species scientific names to get a phylogeny or a set of posterior phylogenies from megatrees. It is my hope that ‘rtrees' can provide an easy, flexible, and reliable way to assemble phylogenies from megatrees, facilitating the progress of phylogenetic ecology.",
+		"container-title": "Ecography",
+		"DOI": "10.1111/ecog.06643",
+		"ISSN": "1600-0587",
+		"issue": "n/a",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.06643",
+		"page": "e06643",
+		"source": "Wiley Online Library",
+		"title": "rtrees: an R package to assemble phylogenetic trees from megatrees",
+		"title-short": "rtrees",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.06643",
+		"volume": "n/a",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
   	{
 		"id": "http://zotero.org/users/1411594/items/MAXWAH7C",
 		"type": "article-journal",
