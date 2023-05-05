@@ -24,6 +24,7 @@ disable_highlight: true
     <img src="/images/lab_group_2023.jpeg">
 </div>
 
+- 2023/05/02: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/2023/choppin-honors23.php) from the College of Science!
 - 2023/02/28: Paper accepted at Ecography!
 - 2023/02/01: Daijiang attended a workshop organized by the [Urban Eco-Evo Network](https://www.urbanecoevo.net/) at the University of Washington; lots of exciting ideas regarding :cityscape:️ urban eco-evo dynamics :cityscape:️ to think about.
 
