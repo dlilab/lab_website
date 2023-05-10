@@ -59,6 +59,11 @@
   }
 }
 
+.condensedlines {              
+    font-size:   11pt;
+    line-height: 12pt;  /* try also a bit smaller line-height */
+}
+
 html {
   font-size: 105%;
 }

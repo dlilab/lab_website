@@ -22,9 +22,12 @@ disable_highlight: true
 
 <div id="widerimg">
     <img src="/images/lab_group_2023.jpeg">
+     <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (2023/05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Meta, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
+
 - 2023/05/02: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/2023/choppin-honors23.php) from the College of Science!
+- 2023/04/24: We had our first in person PI meeting for our #NSFfunded [Phenobase](https://phenobase.org/) project at LSU! We are really excited to work with this great team on a super important project.
 - 2023/02/28: Paper accepted at Ecography!
 - 2023/02/01: Daijiang attended a workshop organized by the [Urban Eco-Evo Network](https://www.urbanecoevo.net/) at the University of Washington; lots of exciting ideas regarding :cityscape:️ urban eco-evo dynamics :cityscape:️ to think about.
 
