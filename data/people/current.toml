@@ -60,11 +60,11 @@
     www = "https://www.researchgate.net/profile/Rohit-Jha-3"
 
     
-[GraceHarden]
-  name = "Grace Harden"
-  mugshot = "mugshots/grace_harden.jpeg"
+[TinaNguyen]
+  name = "Quynh (Tina) Nguyen"
+  mugshot = "mugshots/tina_nguyen.jpeg"
   text = [
-    "**Undergraduate student**. Grace is interested in sustainability and climate issues in animal production systems and ecology. She enjoys reading, gardening, and volunteering at the Baton Rouge Zoo."
+    "**Undergraduate student**. Tina is interested in human-environment interactions, biodiversity conservation, genome changes in response to environmental changes, and plant phenology. In her free time she enjoys cross stitching, reading, baking, and gardening."
   ]
   role = "Undergraduate student"
 
@@ -77,13 +77,7 @@
   role = "Undergraduate student"
 
 
-[SydneMartin]
-  name = "Sydne Martin"
-  mugshot = "mugshots/sydne_martin.jpeg"
-  text = [
-    "**Undergraduate student**. Sydne is interested in animal development in certain environments, sustainability, and population growth. She enjoys traveling, sightseeing and watching sports."
-  ]
-  role = "Undergraduate student"
+
   
 [you]
   name = "You?"
