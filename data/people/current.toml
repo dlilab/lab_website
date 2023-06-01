@@ -76,7 +76,12 @@
   ]
   role = "Undergraduate student"
 
-
+[EmilyRamos]
+  name = "Emily Ramos"
+  mugshot = "mugshots/emily_ramos.jpeg"
+  text = [
+    "**Undergraduate student**. Emily has a broad interest in Mathematics and how it can be applied to other disciplines like Biology. She enjoys going to concerts, reading, baking, and gardening."  ]
+  role = "Undergraduate student"
 
   
 [you]
