@@ -36,6 +36,16 @@
   [PabloMoreno.social]
     email = "pmoreno@lsu.edu"
     twitter = "PabloMorenoGar6"
+    
+[YuLiu]
+  name = "Yu (Grant) Liu"
+  mugshot = "mugshots/Yu_Liu.jpeg"
+  text = [
+    "**Postdoc**. Grant is interested in studying distributional patterns and spatial scales of exotic species through phylogenetic analyses. He enjoys sports like volleyball and basketball."
+  ]
+  role = "Postdoc"
+  [YuLiu.social]
+    email = "yuliu@lsu.edu"
 
 [EvelinReyes]
   name = "Evelin Reyes"
