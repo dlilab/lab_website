@@ -25,6 +25,7 @@ disable_highlight: true
      <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (2023/05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Meta, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
+- 2023/07/01: :wave: Welcome Dr. Yu (Grant) Liu to the lab as a postdoc! Grant will work on species invasions with NEON data and advanced statistical models.  
 - 2023/05/31: :tada: :tada: Huge congratulations to postdoc Flavia, who will start her own lab as an Assistant Professor here at LSU soon!
 - 2023/05/22: We welcome a new member, Emily Ramos, into the lab this summer. Emily is from the Fordham University and will work with us as a REU student this summer!
 - 2023/05/02: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/2023/choppin-honors23.php) from the College of Science!

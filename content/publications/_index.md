@@ -28,7 +28,6 @@ disable_comments: true
 
 <li> <b>Co-occurring bunchgrasses are associated with different plant species in dry pine savannas</b>. Baruzzi C., <b>Li D.</b>, Fill J., and Crandall R., <i>Restoration Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
-<li> <b>Phylogenetic diversity of eastern Asia–eastern North America disjunct plants is mainly associated with divergence time</b>. Han Y., ...including <b>Li D.</b>, ... <i>Plant Diversity</i>. In press. </li>
 
 </ol>
 

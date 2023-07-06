@@ -58,6 +58,78 @@
 	},
 	
 	{
+		"id": "http://zotero.org/users/1411594/items/FRVNVRFC",
+		"type": "article-journal",
+		"container-title": "Plant Diversity",
+		"DOI": "10.1016/j.pld.2022.09.008",
+		"ISSN": "2468-2659",
+		"issue": "1",
+		"journalAbbreviation": "Plant Diversity",
+		"language": "en",
+		"page": "27-35",
+		"source": "ScienceDirect",
+		"title": "Phylogenetic diversity of eastern Asia–eastern North America disjunct plants is mainly associated with divergence time",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2468265922001019",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Lin",
+				"given": "Han-Yang"
+			},
+			{
+				"family": "Sun",
+				"given": "Miao"
+			},
+			{
+				"family": "Hao",
+				"given": "Ya-Jun"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Gitzendanner",
+				"given": "Matthew A."
+			},
+			{
+				"family": "Fu",
+				"given": "Cheng-Xin"
+			},
+			{
+				"family": "Soltis",
+				"given": "Douglas E."
+			},
+			{
+				"family": "Soltis",
+				"given": "Pamela S."
+			},
+			{
+				"family": "Zhao",
+				"given": "Yun-Peng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					5
+				]
+			]
+		}
+	},
+	
+	{
 		"id": "li2023rtrees",
 		"type": "article-journal",
 		"abstract": "Despite the increasingly available phylogenetic hypotheses for multiple taxonomic groups, most of them do not include all species. In phylogenetic ecology, there is still a strong demand to have phylogenies with all species in a study included. The existing software tools to graft species to backbone megatrees, however, are mostly limited to a specific taxonomic group such as plants or fishes. Here, I introduce a new user-friendly R package, ‘rtrees', that can assemble phylogenies from existing or user-provided megatrees. For most common taxonomic groups, users can only provide a vector of species scientific names to get a phylogeny or a set of posterior phylogenies from megatrees. It is my hope that ‘rtrees' can provide an easy, flexible, and reliable way to assemble phylogenies from megatrees, facilitating the progress of phylogenetic ecology.",
