@@ -25,11 +25,11 @@ disable_highlight: true
      <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (2023/05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Mata, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
-- 2023/07/07: :tada: :icecream:  The lab got a NSF award to work on the eco-evo drivers of nitrogen fixing plants :herb: at continental scale! 
+- 2023/07/07: :tada: :icecream:  The lab got [a NSF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2316268&HistoricalAwards=false) to work on the eco-evo drivers of nitrogen fixing plants :herb: and soil microbial symbiosis at continental scales! 
 - 2023/07/01: :wave: Welcome Dr. Yu (Grant) Liu to the lab as a postdoc! Grant will work on species invasions with NEON data and advanced statistical models.  
 - 2023/05/31: :tada: :tada: Huge congratulations to postdoc Flavia, who will start her own lab as an Assistant Professor here at LSU soon!
-- 2023/05/22: We welcome a new member, Emily Ramos, into the lab this summer. Emily is from the Fordham University and will work with us as a REU student this summer!
-- 2023/05/02: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/2023/choppin-honors23.php) from the College of Science!
+- 2023/05/22: :wave: We welcome a new member, Emily Ramos, into the lab this summer. Emily is from the Fordham University and will work with us as a REU student this summer!
+- 2023/05/02: :champagne: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/2023/choppin-honors23.php) from the College of Science!
 - 2023/04/24: We had our first in person PI meeting for our #NSFfunded [Phenobase](https://phenobase.org/) project at LSU! We are really excited to work with this great team on a super important project.
 - 2023/02/28: Paper accepted at Ecography!
 - 2023/02/01: Daijiang attended a workshop organized by the [Urban Eco-Evo Network](https://www.urbanecoevo.net/) at the University of Washington; lots of exciting ideas regarding :cityscape:️ urban eco-evo dynamics :cityscape:️ to think about.
