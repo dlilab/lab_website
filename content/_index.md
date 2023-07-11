@@ -22,7 +22,7 @@ disable_highlight: true
 
 <div id="widerimg">
     <img src="/images/lab_group_2023.jpeg">
-     <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (2023/05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Meta, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
+     <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (2023/05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Mata, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
 - 2023/07/07: :tada: :icecream:  The lab got a NSF award to work on the eco-evo drivers of nitrogen fixing plants :herb: at continental scale! 

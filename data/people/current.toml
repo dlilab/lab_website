@@ -78,8 +78,8 @@
   ]
   role = "Undergraduate student"
 
-[ArielMeta]
-  name = "Ariel Meta"
+[ArielMata]
+  name = "Ariel Mata"
   mugshot = "mugshots/ariel_meta.jpeg"
   text = [
     "**Undergraduate student**. Ariel is interested in environmental conservation, sustainability, and physical processes within ecosystems. She enjoys watching football, baking, and going to the beach."
