@@ -20,7 +20,6 @@ disable_comments: true
 <li> <b>The role of functional strategies in global plant distribution</b>. Liao H., <b>Li D.</b>, et al. <i>Ecography</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05476" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 </ol>
 
--->
 
 # In press
 
@@ -31,6 +30,7 @@ disable_comments: true
 
 </ol>
 
+-->
 
 
 

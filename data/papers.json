@@ -58,6 +58,59 @@
 	},
 	
 	{
+		"id": "http://zotero.org/users/1411594/items/WUBBSSE8",
+		"type": "article-journal",
+		"container-title": "Restoration Ecology",
+		"DOI": "10.1111/rec.13830",
+		"ISSN": "1526-100X",
+		"issue": "5",
+		"language": "en",
+		"license": "© 2022 Society for Ecological Restoration.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.13830",
+		"page": "e13830",
+		"source": "Wiley Online Library",
+		"title": "Co-occurring bunchgrasses are associated with different plant species in dry pine savannas",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13830",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Baruzzi",
+				"given": "Carolina"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Fill",
+				"given": "Jennifer M."
+			},
+			{
+				"family": "Crandall",
+				"given": "Raelene M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					4
+				]
+			]
+		}
+	},
+	
+	{
 		"id": "http://zotero.org/users/1411594/items/FRVNVRFC",
 		"type": "article-journal",
 		"container-title": "Plant Diversity",
