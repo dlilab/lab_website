@@ -57,6 +57,71 @@
 		}
 	},
 	
+		{
+		"id": "http://zotero.org/users/1411594/items/LMRS2LDQ",
+		"type": "article-journal",
+		"container-title": "Science China Life Sciences",
+		"DOI": "10.1007/s11427-022-2338-1",
+		"ISSN": "1869-1889",
+		"journalAbbreviation": "Sci. China Life Sci.",
+		"language": "en",
+		"source": "Springer Link",
+		"title": "Climate change filtered out resource-acquisitive plants in a temperate grassland in Inner Mongolia, China",
+		"URL": "https://doi.org/10.1007/s11427-022-2338-1",
+		"author": [
+			{
+				"family": "Jing",
+				"given": "Heying"
+			},
+			{
+				"family": "Xiong",
+				"given": "Xingshuo"
+			},
+			{
+				"family": "Jiang",
+				"given": "Feng"
+			},
+			{
+				"family": "Pu",
+				"given": "Xucai"
+			},
+			{
+				"family": "Ma",
+				"given": "Wenhong"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Liu",
+				"given": "Zhongling"
+			},
+			{
+				"family": "Wang",
+				"given": "Zhiheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		}
+	},
+	
 	{
 		"id": "http://zotero.org/users/1411594/items/WUBBSSE8",
 		"type": "article-journal",

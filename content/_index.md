@@ -25,6 +25,7 @@ disable_highlight: true
      <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Mata, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
+- 08/20: :tada: :tada: REU student Emily's poster won one of the best posters at CCT. CCT will support her to present it in a national conference next year! Congrats!!
 - 08/14: Two of us (Daijiang and Pablo) went to the annual meeting of the Ecological Society of America in Portland, Oregon and had a great conference there to hear about the new work in the field and to connect with colleagues.
 - 08/03: :tada: :tada: Evelin got an Underground Explorers grant from [SPUN](https://www.spun.earth/) to sample soil fungi communities in Honduras. Congrats!! 
 - 07/23: Daijiang went to the Morton Arboretum and had a great week there working with collaborators on a future grant proposal.
