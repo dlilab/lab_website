@@ -123,6 +123,44 @@
 	},
 	
 	{
+		"type": "article-journal",
+		"container-title": "Teaching Issues and Experiments in Ecology",
+		"language": "en",
+		"page": "1-12",
+		"title": "Playing with open biodiversity datasets: case studies using data from NEON, EDI, and GoMRI",
+		"URL": "https://tiee.esa.org/vol/v19/issues/data_sets/chen/pdf/chen.pdf",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Xuan"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					3
+				]
+			]
+		}
+	},
+	
+	{
 		"id": "http://zotero.org/users/1411594/items/WUBBSSE8",
 		"type": "article-journal",
 		"container-title": "Restoration Ecology",
