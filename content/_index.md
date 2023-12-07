@@ -25,6 +25,7 @@ disable_highlight: true
      <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Mata, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>
 
+- 10/30: Daijiang gave a department seminar at Washington University at St. Louis and met many great scientists there. 
 - 10/12: Daijiang visited University of Dayton to gave a department seminar there and to meet with some excellent people there.
 - 09/25: Daijiang co-led [the first in person meeting](https://twitter.com/rafazenni/status/1708082182126792785) of the [sGUBIK working group](https://www.idiv.de/en/sgubik) at iDiv in Germany. We had a really great week of productive discussion and multiple great projects planned on the horizon.
 - 08/20: :tada: :tada: REU student Emily's poster won one of the best posters at CCT. CCT will support her to present it in a national conference next year! Congrats!!

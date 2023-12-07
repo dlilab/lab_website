@@ -21,17 +21,17 @@ disable_comments: true
 </ol>
 
 
+
+-->
+
 # In press
 
 <ol>
 
-<li> <b>Co-occurring bunchgrasses are associated with different plant species in dry pine savannas</b>. Baruzzi C., <b>Li D.</b>, Fill J., and Crandall R., <i>Restoration Ecology</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
+<li> <b>Evaluating plant lineage losses and gains in temperate forest understories: a phylogenetic perspective on climate change and nitrogen deposition</b>. Josep Padullés Cubino, Jonathan Lenoir, <b>Daijiang Li</b>, Flavia Montaño-Centellas, et al. <i>New Phytologist</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
 
 </ol>
-
--->
-
 
 
 # Published
