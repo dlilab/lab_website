@@ -28,7 +28,7 @@ disable_comments: true
 
 <ol>
 
-<li> <b>Evaluating plant lineage losses and gains in temperate forest understories: a phylogenetic perspective on climate change and nitrogen deposition</b>. Josep Padullés Cubino, Jonathan Lenoir, <b>Daijiang Li</b>, Flavia Montaño-Centellas, et al. <i>New Phytologist</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
+<li> <b>Evaluating plant lineage losses and gains in temperate forest understories: a phylogenetic perspective on climate change and nitrogen deposition</b>. Josep Padullés Cubino, Jonathan Lenoir, <b>Daijiang Li</b>, Flavia Montaño-Centellas, et al. <i>New Phytologist</i>. In press. <a href="https://doi.org/10.1111/nph.19477" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
 
 </ol>
