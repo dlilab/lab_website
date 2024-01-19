@@ -4,6 +4,7 @@
     "**Undergraduate student**. Harroop was a CCT REU in the lab for summer 2021."
   ]
   role = "Undergraduate student"
+  when = "2021-2021"
 
 [mattBlanchard]
   name = "Matthew Blanchard"
@@ -12,6 +13,7 @@
     "**Research Associate**. Matt has broad research interests in ecology, biodiversity, and conservation biology."
   ]
   role = "Research Associate"
+  when = "2020-2021"
   [mattBlanchard.social]
     email = "mblan31@lsu.edu"
     
@@ -22,6 +24,7 @@
     "**Undergraduate student**. Alexis is interested in biodiversity and physiological ecology. She enjoy running, hiking, and traveling."
   ]
   role = "Undergraduate student"
+  when = "2021-2022"
   [AlexisBenoit.social]
     email = "abeno23@lsu.edu"
 
@@ -32,6 +35,7 @@
     "**Undergraduate student**. Sofia worked with Alexis on the lifeplan project."
   ]
   role = "Undergraduate student"
+  when = "2021-2022"
   [KatharineDarst.social]
     email = "kdarst1@lsu.edu"
 
@@ -41,6 +45,7 @@
     "**Undergraduate student**. Sarah worked in the lab in spring 2022."
   ]
   role = "Undergraduate student"
+  when = "2021-2022"
   
 [GraceHarden]
   name = "Grace Harden"
@@ -49,6 +54,7 @@
     "**Undergraduate student**. Grace is interested in sustainability and climate issues in animal production systems and ecology. She enjoys reading, gardening, and volunteering at the Baton Rouge Zoo."
   ]
   role = "Undergraduate student"
+  when = "2022-2023"
   
 [SydneMartin]
   name = "Sydne Martin"
@@ -57,4 +63,42 @@
     "**Undergraduate student**. Sydne is interested in animal development in certain environments, sustainability, and population growth. She enjoys traveling, sightseeing and watching sports."
   ]
   role = "Undergraduate student"
+  when = "2023-2023"
+
+[KarmaSampson]
+  name = "Karma Sampson"
+  role = "Undergraduate student"
+  when = "2023-2023"  
+    
+[FlaviaMontano]
+  name = "Flavia Montaño"
+  mugshot = "mugshots/flavia_montano.png"
+  text = [
+    "**Postdoc**. Flavia is widely interested in the drivers of biological diversity and has focused mostly on how animal and plant communities respond to changing conditions across elevations. She enjoys traveling, hiking, camping, dancing and doing handicrafts."
+  ]
+  role = "Postdoc"
+  when = "2021-2023"
+  currentPosition = "Assistant Professsor, LSU"
+  [FlaviaMontano.social]
+    email = "fcente1@lsu.edu"
+    www = "https://flamontano.wordpress.com/"
+    twitter = "fla_montano"
+    
+[TinaNguyen]
+  name = "Quynh (Tina) Nguyen"
+  mugshot = "mugshots/tina_nguyen.jpeg"
+  text = [
+    "**Undergraduate student**. Tina is interested in human-environment interactions, biodiversity conservation, genome changes in response to environmental changes, and plant phenology. In her free time she enjoys cross stitching, reading, baking, and gardening."
+  ]
+  role = "Undergraduate student"
+  when = "2022-2023"
+
+
+[EmilyRamos]
+  name = "Emily Ramos"
+  mugshot = "mugshots/emily_ramos.jpeg"
+  text = [
+    "**Undergraduate student**. Emily has a broad interest in Mathematics and how it can be applied to other disciplines like Biology. She enjoys going to concerts, reading, baking, and gardening."  ]
+  role = "Undergraduate student"
+  when = "2023-2023"
   

@@ -13,18 +13,7 @@
     www = "/"
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
-    
-[FlaviaMontano]
-  name = "Flavia Montaño"
-  mugshot = "mugshots/flavia_montano.png"
-  text = [
-    "**Postdoc**. Flavia is widely interested in the drivers of biological diversity and has focused mostly on how animal and plant communities respond to changing conditions across elevations. She enjoys traveling, hiking, camping, dancing and doing handicrafts."
-  ]
-  role = "Postdoc"
-  [FlaviaMontano.social]
-    email = "fcente1@lsu.edu"
-    www = "https://flamontano.wordpress.com/"
-    twitter = "fla_montano"
+
 
 [PabloMoreno]
   name = "Pablo Moreno Garcia"
@@ -70,13 +59,7 @@
     www = "https://www.researchgate.net/profile/Rohit-Jha-3"
 
     
-[TinaNguyen]
-  name = "Quynh (Tina) Nguyen"
-  mugshot = "mugshots/tina_nguyen.jpeg"
-  text = [
-    "**Undergraduate student**. Tina is interested in human-environment interactions, biodiversity conservation, genome changes in response to environmental changes, and plant phenology. In her free time she enjoys cross stitching, reading, baking, and gardening."
-  ]
-  role = "Undergraduate student"
+
 
 [ArielMata]
   name = "Ariel Mata"
@@ -86,12 +69,6 @@
   ]
   role = "Undergraduate student"
 
-[EmilyRamos]
-  name = "Emily Ramos"
-  mugshot = "mugshots/emily_ramos.jpeg"
-  text = [
-    "**Undergraduate student**. Emily has a broad interest in Mathematics and how it can be applied to other disciplines like Biology. She enjoys going to concerts, reading, baking, and gardening."  ]
-  role = "Undergraduate student"
 
   
 [you]

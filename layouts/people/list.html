@@ -43,13 +43,38 @@
                 {{ end }}
             {{ end }}
         </div>
-       <h2>Former members</h2>
-        <div class="listing">
-            {{ range $past }}
-                {{ partial "people.html" . }}
-            {{ end }}
-        </div>
     </section>
+        
+       <h2>Alumni</h2>
+       
+       
+        
+       
+        {{ range $past }}
+                {{ if (eq .role "Postdoc")}}
+                    {{ partial "people_past.html" . }}
+                {{ end }}
+                
+        {{ end }}
+        
+        {{ range $past }}
+                {{ if (eq .role "Research Associate")}}
+                    {{ partial "people_past.html" . }}
+                {{ end }}  
+        {{ end }}
+        
+        {{ range $past }}
+                {{ if (eq .role "PhD student")}}
+                    {{ partial "people_past.html" . }}
+                {{ end }}
+        {{ end }}
+        
+        {{ range $past2 := sort $past ".when" "desc" }}
+                {{ if (eq .role "Undergraduate student")}}
+                    {{ partial "people_past.html" . }}
+                {{ end }}
+        {{ end }}
+        
 </main>
 
 {{ partial "footer.html" . }}
