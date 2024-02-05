@@ -22,6 +22,7 @@
     "**Postdoc**. Pablo is interested in ecological interactions, specifically in temporal and spatial changes of plant-pollinator relationships in responses to global change. He enjoys hiking, traveling, painting, and reading."
   ]
   role = "Postdoc"
+  when = "2022-"
   [PabloMoreno.social]
     email = "pmoreno@lsu.edu"
     twitter = "PabloMorenoGar6"
@@ -33,6 +34,7 @@
     "**Postdoc**. Grant is interested in studying distributional patterns and spatial scales of exotic species through phylogenetic analyses. He enjoys sports like volleyball and basketball."
   ]
   role = "Postdoc"
+  when = "2023-"
   [YuLiu.social]
     email = "yuliu@lsu.edu"
 
@@ -43,6 +45,7 @@
     "**PhD student**. Evelin is interested in biodiversity, population ecology, data analysis, and how climate change is affecting and modifying ecosystems. Also, she enjoys hiking, camping, yoga, and chess."
   ]
   role = "PhD student"
+  when = "2021-"
   [EvelinReyes.social]
     email = "ereye11@lsu.edu"
 
@@ -54,11 +57,21 @@
     "**PhD student**. Rohit is broadly interested in biological invasions, altitudinal shift of plant communities, plant-animal interaction, and coupled human and natural systems. He enjoys cooking, hiking, poetry, and reading."
   ]
   role = "PhD student"
+  when = "2022-"
   [RohitJha.social]
     email = "rjha1@lsu.edu"
     www = "https://www.researchgate.net/profile/Rohit-Jha-3"
 
-    
+  [NevynNeal]
+  name = "Nevyn Neal"
+  mugshot = "mugshots/nevyn_neal.jpeg"
+  text = [
+    "**PhD student**. Nevyn's research revolves around applying Deep Learning to Ecology and Evolution data. Nevyn has a passion for music, video games, and spending quality time with his two dogs."
+  ]
+  role = "PhD student"
+  when = "2024-"
+  [NevynNeal.social]
+    email = "nneal4@lsu.edu"
 
 
 [ArielMata]
@@ -68,6 +81,7 @@
     "**Undergraduate student**. Ariel is interested in environmental conservation, sustainability, and physical processes within ecosystems. She enjoys watching football, baking, and going to the beach."
   ]
   role = "Undergraduate student"
+  when = "2022-"
 
 
   

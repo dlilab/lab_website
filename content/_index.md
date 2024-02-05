@@ -18,6 +18,10 @@ disable_highlight: true
 
 # News
 
+## 2024
+
+- 01/19: :wave: We started our new semester by welcoming a new lab member Nevyn Neal. Nevyn joined the lab as a PhD student to work on applying deep learning methods to extract phenological information from images. 
+
 ## 2023
 
 <div id="widerimg">
