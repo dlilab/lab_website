@@ -1,4 +1,177 @@
 [
+  
+  {
+		"id": "http://zotero.org/users/1411594/items/XF7AVFP2",
+		"type": "article-journal",
+		"container-title": "New Phytologist",
+		"DOI": "10.1111/nph.19477",
+		"ISSN": "1469-8137",
+		"issue": "5",
+		"language": "en",
+		"license": "© 2023 The Authors. New Phytologist © 2023 New Phytologist Foundation",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/nph.19477",
+		"page": "2287-2299",
+		"source": "Wiley Online Library",
+		"title": "Evaluating plant lineage losses and gains in temperate forest understories: a phylogenetic perspective on climate change and nitrogen deposition",
+		"title-short": "Evaluating plant lineage losses and gains in temperate forest understories",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.19477",
+		"volume": "241",
+		"author": [
+			{
+				"family": "Padullés Cubino",
+				"given": "Josep"
+			},
+			{
+				"family": "Lenoir",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"given": "Flavia A."
+			},
+			{
+				"family": "Retana",
+				"given": "Javier"
+			},
+			{
+				"family": "Baeten",
+				"given": "Lander"
+			},
+			{
+				"family": "Bernhardt-Römermann",
+				"given": "Markus"
+			},
+			{
+				"family": "Chudomelová",
+				"given": "Markéta"
+			},
+			{
+				"family": "Closset",
+				"given": "Déborah"
+			},
+			{
+				"family": "Decocq",
+				"given": "Guillaume"
+			},
+			{
+				"family": "De Frenne",
+				"given": "Pieter"
+			},
+			{
+				"family": "Diekmann",
+				"given": "Martin"
+			},
+			{
+				"family": "Dirnböck",
+				"given": "Thomas"
+			},
+			{
+				"family": "Durak",
+				"given": "Tomasz"
+			},
+			{
+				"family": "Hédl",
+				"given": "Radim"
+			},
+			{
+				"family": "Heinken",
+				"given": "Thilo"
+			},
+			{
+				"family": "Jaroszewicz",
+				"given": "Bogdan"
+			},
+			{
+				"family": "Kopecký",
+				"given": "Martin"
+			},
+			{
+				"family": "Macek",
+				"given": "Martin"
+			},
+			{
+				"family": "Máliš",
+				"given": "František"
+			},
+			{
+				"family": "Naaf",
+				"given": "Tobias"
+			},
+			{
+				"family": "Orczewska",
+				"given": "Anna"
+			},
+			{
+				"family": "Petřík",
+				"given": "Petr"
+			},
+			{
+				"family": "Pielech",
+				"given": "Remigiusz"
+			},
+			{
+				"family": "Reczyńska",
+				"given": "Kamila"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Standovár",
+				"given": "Tibor"
+			},
+			{
+				"family": "Świerkosz",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Teleki",
+				"given": "Balázs"
+			},
+			{
+				"family": "Verheyen",
+				"given": "Kris"
+			},
+			{
+				"family": "Vild",
+				"given": "Ondřej"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald"
+			},
+			{
+				"family": "Wulf",
+				"given": "Monika"
+			},
+			{
+				"family": "Chytrý",
+				"given": "Milan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	
   {
 		"id": "http://zotero.org/users/1411594/items/47Q25JQA",
 		"type": "article-journal",
@@ -343,7 +516,7 @@
 		"volume": "32",
 		"author": [
 			{
-				"family": "<sup>§</sup>Montaño-Centellas",
+				"family": "**<sup>§</sup>Montaño-Centellas**",
 				"given": "Flavia"
 			},
 			{

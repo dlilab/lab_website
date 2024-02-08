@@ -1,6 +1,5 @@
 ---
 Title: "Publications"
-date: "2022-10-01"
 disable_mathjax: true
 disable_highlight: true
 disable_comments: true
@@ -22,16 +21,11 @@ disable_comments: true
 
 
 
+# In press
 -->
 
-# In press
-
-<ol>
-
-<li> <b>Evaluating plant lineage losses and gains in temperate forest understories: a phylogenetic perspective on climate change and nitrogen deposition</b>. Josep Padullés Cubino, Jonathan Lenoir, <b>Daijiang Li</b>, Flavia Montaño-Centellas, et al. <i>New Phytologist</i>. In press. <a href="https://doi.org/10.1111/nph.19477" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
 
 
-</ol>
 
 
 # Published
@@ -40,8 +34,10 @@ disable_comments: true
 
 <div style="text-align: center;">
 
-[2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016 and before](#2016)
+[2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016 and before](#2016)
 
 </div>
 
-<sup>§</sup> denotes postdoc mentee co-author
+**Bold** names denote lab members  
+<sup>§</sup> denotes postdoc mentee co-author  
+<i class="ai ai-doi"></i>: journal page link &nbsp; <i class="ai ai-google-scholar"></i>: Google Scholar link &nbsp;  <i class="fab fa-github"></i>: Related GitHub repository  

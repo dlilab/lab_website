@@ -45,28 +45,31 @@
         </div>
     </section>
         
-       <h2>Alumni</h2>
+       <h2>Lab Alumni</h2>
        
        
+        <h3>Postdoctoral fellows:</h3>
         
-       
         {{ range $past }}
                 {{ if (eq .role "Postdoc")}}
                     {{ partial "people_past.html" . }}
                 {{ end }}
                 
         {{ end }}
-        
-        {{ range $past }}
-                {{ if (eq .role "Research Associate")}}
-                    {{ partial "people_past.html" . }}
-                {{ end }}  
-        {{ end }}
+      
         
         {{ range $past }}
                 {{ if (eq .role "PhD student")}}
                     {{ partial "people_past.html" . }}
                 {{ end }}
+        {{ end }}
+        
+         <h3>Undergraduate students and Research Associate:</h3>
+         
+        {{ range $past }}
+                {{ if (eq .role "Research Associate")}}
+                    {{ partial "people_past.html" . }}
+                {{ end }}  
         {{ end }}
         
         {{ range $past2 := sort $past ".when" "desc" }}
@@ -76,7 +79,7 @@
         {{ end }}
         
         
-      <h2>Pictures</h2>
+      <h2>Lab Pictures</h2>
       
          <div id="widerimg">
     <img src="/images/2023_12.jpeg">
