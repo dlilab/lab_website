@@ -21,10 +21,14 @@ disable_comments: true
 
 
 
-# In press
 -->
 
+# In press
 
+<ol>
+<li> <b>Unraveling microbial community structure-function relationships in the horizontal and vertical spatial dimensions in extreme environments</b>. Jing X., Classen A., <b>Li D.</b>, et al. <i>Ecography</i>. In press. 
+</li>
+</ol>
 
 
 
