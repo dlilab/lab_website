@@ -172,6 +172,65 @@
 		}
 	},
 	
+		{
+		"id": "http://zotero.org/users/1411594/items/RUWL5QV9",
+		"type": "article-journal",
+		"container-title": "Ecography",
+		"DOI": "10.1111/ecog.07118",
+		"ISSN": "1600-0587",
+		"issue": "n/a",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.07118",
+		"page": "e07118",
+		"source": "Wiley Online Library",
+		"title": "Unraveling microbial community structure–function relationships in the horizontal and vertical spatial dimensions in extreme environments",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.07118",
+		"volume": "n/a",
+		"author": [
+			{
+				"family": "Jing",
+				"given": "Xin"
+			},
+			{
+				"family": "Classen",
+				"given": "Aimée T."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Lin",
+				"given": "Litao"
+			},
+			{
+				"family": "Lu",
+				"given": "Mingzhen"
+			},
+			{
+				"family": "Sanders",
+				"given": "Nathan J."
+			},
+			{
+				"family": "Wang",
+				"given": "Yugang"
+			},
+			{
+				"family": "Feng",
+				"given": "Wenting"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					4,
+					9
+				]
+			]
+		}
+	},
+	
   {
 		"id": "http://zotero.org/users/1411594/items/47Q25JQA",
 		"type": "article-journal",
