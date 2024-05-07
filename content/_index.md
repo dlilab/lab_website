@@ -18,8 +18,12 @@ disable_highlight: true
 
 # News
 
+
+
 ## 2024
 
+- 05/05: :loudspeaker: **the lab is moving to the [EEB department at the University of Arizona](https://eeb.arizona.edu/) this fall**. We are grateful for all the support received at LSU and it is hard to say goodbye to so many great colleague and friends! We will look for graduate students and postdocs. Keep in touch if you are interested in joining us!!
+- 04/30: :champagne: :tada: Daijiang was named as an [Early Career Fellow of the Ecological Society of America](https://www.esa.org/blog/2024/04/30/ecological-society-of-america-announces-2024-fellows/).
 - 01/19: :wave: We started our new semester by welcoming a new lab member Nevyn Neal. Nevyn joined the lab as a PhD student to work on applying deep learning methods to extract phenological information from images. 
 
 ## 2023
