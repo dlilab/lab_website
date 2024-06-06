@@ -10,18 +10,13 @@ disable_comments: true
 <a target="_blank" href="https://publons.com/a/719613/"><i class="ai ai-publons ai-2x"></i></a>
 </center>
 
-<!---
 
 # In press
 
 <ol>
 
-<li> <b>The role of functional strategies in global plant distribution</b>. Liao H., <b>Li D.</b>, et al. <i>Ecography</i>. In press. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05476" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
+<li> <b>Cities Shape the Diversity and Spread of Non-native Species</b>. Luke Potgieter*, <b>Daijiang Li*</b>, Benjamin Baiser, ..., Marc Cadotte. <i>Annual Review of Ecology, Evolution, and Systematics</i>. In press. * Co-first author <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 </ol>
-
-
-
--->
 
 
 
