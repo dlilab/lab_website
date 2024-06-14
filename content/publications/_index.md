@@ -17,7 +17,7 @@ disable_comments: true
 
 <li> <b>Cities Shape the Diversity and Spread of Non-native Species</b>. Luke Potgieter*, <b>Daijiang Li*</b>, Benjamin Baiser, ..., Marc Cadotte. <i>Annual Review of Ecology, Evolution, and Systematics</i>. In press. * Co-first author <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
-<li> <b>Online toolkits for collaborative and inclusive global research in urban evolutionary ecology</b>. Amy Savage, Meredith Willmott, Pablo Moreno-García,  Zuzanna Jagiello, <b>Daijiang Li</b>, ..., Kiyoko Gotanda. <i>Annual Ecology and Evolution</i>. In press. * Co-first author <a href="https://www.authorea.com/users/765260/articles/773945-online-toolkits-for-collaborative-and-inclusive-global-research-in-urban-evolutionary-ecology" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
+<li> <b>Online toolkits for collaborative and inclusive global research in urban evolutionary ecology</b>. Amy Savage, Meredith Willmott, Pablo Moreno-García^§^,  Zuzanna Jagiello, <b>Daijiang Li</b>, ..., Kiyoko Gotanda. <i>Ecology and Evolution</i>. In press. * Co-first author <a href="https://www.authorea.com/users/765260/articles/773945-online-toolkits-for-collaborative-and-inclusive-global-research-in-urban-evolutionary-ecology" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 </ol>
 
