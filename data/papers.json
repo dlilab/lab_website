@@ -1,4 +1,138 @@
 [
+  	{
+		"id": "http://zotero.org/users/1411594/items/75282SQC",
+		"type": "article-journal",
+		"container-title": "Ecology and Evolution",
+		"DOI": "10.1002/ece3.11633",
+		"ISSN": "2045-7758",
+		"issue": "6",
+		"language": "en",
+		"license": "© 2024 The Author(s). Ecology and Evolution published by John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.11633",
+		"page": "e11633",
+		"source": "Wiley Online Library",
+		"title": "Online toolkits for collaborative and inclusive global research in urban evolutionary ecology",
+		"URL": "https://onlinelibrary-wiley-com.libezp.lib.lsu.edu/doi/abs/10.1002/ece3.11633",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Savage",
+				"given": "Amy M."
+			},
+			{
+				"family": "Willmott",
+				"given": "Meredith J."
+			},
+			{
+				"family": "**<sup>§</sup>Moreno-García**",
+				"given": "Pablo"
+			},
+			{
+				"family": "Jagiello",
+				"given": "Zuzanna"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Malesis",
+				"given": "Anna"
+			},
+			{
+				"family": "Miles",
+				"given": "Lindsay S."
+			},
+			{
+				"family": "Román-Palacios",
+				"given": "Cristian"
+			},
+			{
+				"family": "Salazar-Valenzuela",
+				"given": "David"
+			},
+			{
+				"family": "Verrelli",
+				"given": "Brian C."
+			},
+			{
+				"family": "Winchell",
+				"given": "Kristin M."
+			},
+			{
+				"family": "Alberti",
+				"given": "Marina"
+			},
+			{
+				"family": "Bonilla-Bedoya",
+				"given": "Santiago"
+			},
+			{
+				"family": "Carlen",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Falvey",
+				"given": "Cleo"
+			},
+			{
+				"family": "Johnson",
+				"given": "Lauren"
+			},
+			{
+				"family": "Martin",
+				"given": "Ella"
+			},
+			{
+				"family": "Kuzyo",
+				"given": "Hanna"
+			},
+			{
+				"family": "Marzluff",
+				"given": "John"
+			},
+			{
+				"family": "Munshi-South",
+				"given": "Jason"
+			},
+			{
+				"family": "Phifer-Rixey",
+				"given": "Megan"
+			},
+			{
+				"family": "Stadnicki",
+				"given": "Ignacy"
+			},
+			{
+				"family": "Szulkin",
+				"given": "Marta"
+			},
+			{
+				"family": "Zhou",
+				"given": "Yuyu"
+			},
+			{
+				"family": "Gotanda",
+				"given": "Kiyoko M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
   
   {
 		"id": "http://zotero.org/users/1411594/items/XF7AVFP2",

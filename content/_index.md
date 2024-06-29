@@ -22,6 +22,8 @@ disable_highlight: true
 
 ## 2024
 
+- 06/16: Daijiang attended Botany 2024 and co-hosted a workshop on [Biodiversity Data Wrangling: Linking large phylogenies with species traits and ecologies](https://github.com/ryanafolk/Botany2024/) with Ryan Folk and Rob Guralnick.
+- 06/09: Daijiang attended [a workshop hosted by iDigBio](https://www.idigbio.org/wiki/index.php/Advances_in_Digital_Media_Workshop_Series:_Yale) at the Peabody museum of the Yale University.
 - 05/05: :loudspeaker: **the lab is moving to the [EEB department at the University of Arizona](https://eeb.arizona.edu/) this fall**. We are grateful for all the support received at LSU and it is hard to say goodbye to so many great colleague and friends! We will look for graduate students and postdocs. Keep in touch if you are interested in joining us!!
 - 04/30: :champagne: :tada: Daijiang was named as an [Early Career Fellow of the Ecological Society of America](https://www.esa.org/blog/2024/04/30/ecological-society-of-america-announces-2024-fellows/).
 - 01/19: :wave: We started our new semester by welcoming a new lab member Nevyn Neal. Nevyn joined the lab as a PhD student to work on applying deep learning methods to extract phenological information from images. 
