@@ -18,10 +18,11 @@ disable_highlight: true
 
 # News
 
-
+**[We are looking for 2 PhD students (fall 2025) and 1-2 postdocs (start date flexible) to join us](/pdf/positions_2025.pdf).**
 
 ## 2024
 
+- 08/05: Daijiang and Grant attended ESA2024 in Long Beach. Daijiang co-hosted a special session on the effects of extreme weather events on ecosystems; Grant presented a poster on patterns and drivers of non-native plant species across the US.
 - 06/16: Daijiang attended Botany 2024 and co-hosted a workshop on [Biodiversity Data Wrangling: Linking large phylogenies with species traits and ecologies](https://github.com/ryanafolk/Botany2024/) with Ryan Folk and Rob Guralnick.
 - 06/09: Daijiang attended [a workshop hosted by iDigBio](https://www.idigbio.org/wiki/index.php/Advances_in_Digital_Media_Workshop_Series:_Yale) at the Peabody museum of the Yale University.
 - 05/05: :loudspeaker: **the lab is moving to the [EEB department at the University of Arizona](https://eeb.arizona.edu/) this fall**. We are grateful for all the support received at LSU and it is hard to say goodbye to so many great colleague and friends! We will look for graduate students and postdocs. Keep in touch if you are interested in joining us!!
