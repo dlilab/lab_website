@@ -15,8 +15,6 @@ disable_comments: true
 
 <ol>
 
-<li> <b>Long-term nitrogen deposition reduces the diversity of nitrogen-fixing plants</b>. Pablo Moreno-García, Flavia Montaño-Centellas, Yu Liu, ..., <b>Daijiang Li</b>. <i>Science Advances</i>. In press. <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li>
-
 <li> <b>Cities Shape the Diversity and Spread of Non-native Species</b>. Luke Potgieter*, <b>Daijiang Li*</b>, Benjamin Baiser, ..., Marc Cadotte. <i>Annual Review of Ecology, Evolution, and Systematics</i>. In press. * Co-first author <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 </ol>
@@ -37,4 +35,5 @@ disable_comments: true
 
 **Bold** names denote lab members  
 <sup>§</sup> denotes postdoc mentee co-author  
+<sup>§§</sup> denotes graduate student mentee co-author  
 <i class="ai ai-doi"></i>: journal page link &nbsp; <i class="ai ai-google-scholar"></i>: Google Scholar link &nbsp;  <i class="fab fa-github"></i>: Related GitHub repository  

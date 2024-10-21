@@ -1,4 +1,198 @@
 [
+  
+  {
+		"id": "http://zotero.org/users/1411594/items/LGMV3EI2",
+		"type": "article-journal",
+		"abstract": "Biological nitrogen fixation is a fundamental part of ecosystem functioning. Anthropogenic nitrogen deposition and climate change may, however, limit the competitive advantage of nitrogen-fixing plants, leading to reduced relative diversity of nitrogen-fixing plants. Yet, assessments of changes of nitrogen-fixing plant long-term community diversity are rare. Here, we examine temporal trends in the diversity of nitrogen-fixing plants and their relationships with anthropogenic nitrogen deposition while accounting for changes in temperature and aridity. We used forest-floor vegetation resurveys of temperate forests in Europe and the United States spanning multiple decades. Nitrogen-fixer richness declined as nitrogen deposition increased over time but did not respond to changes in climate. Phylogenetic diversity also declined, as distinct lineages of N-fixers were lost between surveys, but the “winners” and “losers” among nitrogen-fixing lineages varied among study sites, suggesting that losses are context dependent. Anthropogenic nitrogen deposition reduces nitrogen-fixing plant diversity in ways that may strongly affect natural nitrogen fixation.",
+		"container-title": "Science Advances",
+		"DOI": "10.1126/sciadv.adp7953",
+		"issue": "42",
+		"note": "publisher: American Association for the Advancement of Science",
+		"page": "eadp7953",
+		"source": "science.org (Atypon)",
+		"title": "Long-term nitrogen deposition reduces the diversity of nitrogen-fixing plants",
+		"URL": "https://www.science.org/doi/10.1126/sciadv.adp7953",
+		"volume": "10",
+		"author": [
+			{
+				"family": "**<sup>§</sup>Moreno-García**",
+				"given": "Pablo"
+			},
+			{
+				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"given": "Flavia"
+			},
+			{
+				"family": "**<sup>§</sup>Liu**",
+				"given": "Yu"
+			},
+			{
+				"family": "**<sup>§§</sup>Reyes-Mendez**",
+				"given": "Evelin Y."
+			},
+			{
+				"family": "**<sup>§§</sup>Jha**",
+				"given": "Rohit Raj"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert P."
+			},
+			{
+				"family": "Folk",
+				"given": "Ryan"
+			},
+			{
+				"family": "Waller",
+				"given": "Donald M."
+			},
+			{
+				"family": "Verheyen",
+				"given": "Kris"
+			},
+			{
+				"family": "Baeten",
+				"given": "Lander"
+			},
+			{
+				"family": "Becker-Scarpitta",
+				"given": "Antoine"
+			},
+			{
+				"family": "Berki",
+				"given": "Imre"
+			},
+			{
+				"family": "Bernhardt-Römermann",
+				"given": "Markus"
+			},
+			{
+				"family": "Brunet",
+				"given": "Jörg"
+			},
+			{
+				"family": "Van Calster",
+				"given": "Hans"
+			},
+			{
+				"family": "Chudomelová",
+				"given": "Markéta"
+			},
+			{
+				"family": "Closset",
+				"given": "Deborah"
+			},
+			{
+				"family": "De Frenne",
+				"given": "Pieter"
+			},
+			{
+				"family": "Decocq",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Gilliam",
+				"given": "Frank S."
+			},
+			{
+				"family": "Grytnes",
+				"given": "John-Arvid"
+			},
+			{
+				"family": "Hédl",
+				"given": "Radim"
+			},
+			{
+				"family": "Heinken",
+				"given": "Thilo"
+			},
+			{
+				"family": "Jaroszewicz",
+				"given": "Bogdan"
+			},
+			{
+				"family": "Kopecký",
+				"given": "Martin"
+			},
+			{
+				"family": "Lenoir",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Macek",
+				"given": "Martin"
+			},
+			{
+				"family": "Máliš",
+				"given": "František"
+			},
+			{
+				"family": "Naaf",
+				"given": "Tobias"
+			},
+			{
+				"family": "Orczewska",
+				"given": "Anna"
+			},
+			{
+				"family": "Petřík",
+				"given": "Petr"
+			},
+			{
+				"family": "Reczyńska",
+				"given": "Kamila"
+			},
+			{
+				"family": "Schei",
+				"given": "Fride Høistad"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Stachurska-Swakoń",
+				"given": "Alina"
+			},
+			{
+				"family": "Standovár",
+				"given": "Tibor"
+			},
+			{
+				"family": "Świerkosz",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Teleki",
+				"given": "Balázs"
+			},
+			{
+				"family": "Vild",
+				"given": "Ondřej"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	
   	{
 		"id": "http://zotero.org/users/1411594/items/75282SQC",
 		"type": "article-journal",
@@ -128,7 +322,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2024"
+					"2024",
+					1,
+					10
 				]
 			]
 		}

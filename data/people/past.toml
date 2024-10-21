@@ -101,4 +101,37 @@
     "**Undergraduate student**. Emily has a broad interest in Mathematics and how it can be applied to other disciplines like Biology. She enjoys going to concerts, reading, baking, and gardening."  ]
   role = "Undergraduate student"
   when = "2023-2023"
+
+[EvelinReyes]
+  name = "Evelin Reyes"
+  mugshot = "mugshots/Evelin_Reyes.jpeg"
+  text = [
+    "**PhD student**. Evelin is interested in biodiversity, population ecology, data analysis, and how climate change is affecting and modifying ecosystems. Also, she enjoys hiking, camping, yoga, and chess."
+  ]
+  role = "PhD student"
+  when = "2021-2024"
+  currentPosition = "Graduate student, LSU"
+
+[RohitJha]
+  name = "Rohit Jha"
+  mugshot = "mugshots/rohit_jha.jpeg"
+  text = [
+    "**PhD student**. Rohit is broadly interested in biological invasions, altitudinal shift of plant communities, plant-animal interaction, and coupled human and natural systems. He enjoys cooking, hiking, poetry, and reading."
+  ]
+  role = "PhD student"
+  when = "2022-"
+  currentPosition = "Co-advised graduate student, LSU"
+  [RohitJha.social]
+    email = "rjha1@lsu.edu"
+    www = "https://www.researchgate.net/profile/Rohit-Jha-3"  
+    
+
+[ArielMata]
+  name = "Ariel Mata"
+  mugshot = "mugshots/ariel_meta.jpeg"
+  text = [
+    "**Undergraduate student**. Ariel is interested in environmental conservation, sustainability, and physical processes within ecosystems. She enjoys watching football, baking, and going to the beach."
+  ]
+  role = "Undergraduate student"
+  when = "2022-2024" 
   
