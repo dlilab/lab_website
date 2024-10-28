@@ -22,7 +22,10 @@ disable_highlight: true
 
 ## 2024
 
+- 10/19: Latest [lab paper on long-term dynamics of N-fixing plant diversity](https://www.science.org/doi/10.1126/sciadv.adp7953) led by Pablo was published at _Science Advances_!
 - 10/14-10/19: Daijiang co-led a working group at iDiv in Germany to work on species invasions in urban areas across the world.
+- 10/10: Daijiang gave a talk about [phenoBase](https://phenobase.org/) in the WeDigBio 2024 online symposium "How is AI being used in Biodiversity Efforts?" 
+- 10/09: Pablo gave a talk about plant-pollinator interactions in a symposium organized at PSU.
 - 10/02-10/05: Daijiang attended the Urban Eco-Evol and Nature-based solution workshop in the University of Washington.
 - 08/05: Daijiang and Grant attended ESA2024 in Long Beach. Daijiang co-hosted a special session on the effects of extreme weather events on ecosystems; Grant presented a poster on patterns and drivers of non-native plant species across the US.
 - 06/16: Daijiang attended Botany 2024 and co-hosted a workshop on [Biodiversity Data Wrangling: Linking large phylogenies with species traits and ecologies](https://github.com/ryanafolk/Botany2024/) with Ryan Folk and Rob Guralnick.
