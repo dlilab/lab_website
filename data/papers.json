@@ -1,5 +1,99 @@
 [
-  
+  {
+		"id": "http://zotero.org/users/1411594/items/6VGHAWPH",
+		"type": "article-journal",
+		"container-title": "Annual Review of Ecology, Evolution, and Systematics",
+		"DOI": "10.1146/annurev-ecolsys-102722-012749",
+		"ISSN": "1543-592X, 1545-2069",
+		"issue": "Volume 55, 2024",
+		"language": "en",
+		"note": "publisher: Annual Reviews",
+		"page": "157-180",
+		"source": "www.annualreviews.org",
+		"title": "Cities Shape the Diversity and Spread of Nonnative Species",
+		"URL": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-012749",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Potgieter",
+				"given": "Luke J."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Kühn",
+				"given": "Ingolf"
+			},
+			{
+				"family": "Aronson",
+				"given": "Myla F. J."
+			},
+			{
+				"family": "Carboni",
+				"given": "Marta"
+			},
+			{
+				"family": "Celesti-Grapow",
+				"given": "Laura"
+			},
+			{
+				"family": "Matos",
+				"given": "Ana Carolina L.",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Lososová",
+				"given": "Zdeňka"
+			},
+			{
+				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"given": "Flavia A."
+			},
+			{
+				"family": "Pyšek",
+				"given": "Petr"
+			},
+			{
+				"family": "Richardson",
+				"given": "David M."
+			},
+			{
+				"family": "Tsang",
+				"given": "Toby P. N."
+			},
+			{
+				"family": "Zenni",
+				"given": "Rafael D."
+			},
+			{
+				"family": "Cadotte",
+				"given": "Marc W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	
   {
 		"id": "http://zotero.org/users/1411594/items/LGMV3EI2",
 		"type": "article-journal",

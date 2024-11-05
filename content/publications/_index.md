@@ -11,11 +11,13 @@ disable_comments: true
 </center>
 
 
-# In press
+# In press and Preprints
 
 <ol>
 
-<li> <b>Cities Shape the Diversity and Spread of Non-native Species</b>. Luke Potgieter*, <b>Daijiang Li*</b>, Benjamin Baiser, ..., Marc Cadotte. <i>Annual Review of Ecology, Evolution, and Systematics</i>. In press. * Co-first author <a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
+<li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title="">PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</a>. Russell Dinnage, Erin Grady, Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>bioRxiv</i></li>
+
+<li> <b>Extreme weather events have strong but different impacts on plant and insect phenology</b>. Daijiang Li, Michael Belitz, Lindsay Campbell, and Robert Guralnick. <i>Nature Climate Change</i>. Accepted.<a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 </ol>
 
