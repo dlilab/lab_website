@@ -15,9 +15,11 @@ disable_comments: true
 
 <ol>
 
-<li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title="">PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</a>. Russell Dinnage, Erin Grady, Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>bioRxiv</i></li>
+<li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title="">PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</a>. Russell Dinnage, Erin Grady, <sup>§§</sup>Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>bioRxiv</i></li>
 
 <li> <b>Extreme weather events have strong but different impacts on plant and insect phenology</b>. Daijiang Li, Michael Belitz, Lindsay Campbell, and Robert Guralnick. <i>Nature Climate Change</i>. Accepted.<a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
+
+<li> <b>Quantifying the Effects of Water Hyacinth (<i>Pontederia crassipes</i>) on Freshwater Ecosystems: A Meta-analysis</b>. <sup>§§</sup>Rohit Jha and Daijiang Li. <i>Biological Invasions</i>. Accepted.<a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
 </ol>
 

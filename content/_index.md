@@ -22,6 +22,7 @@ disable_highlight: true
 
 ## 2024
 
+- 11/26: Graduate student Rohit's paper on the impacts of Water Hyacinth was accepted by _Biological Invasions_! Congrats!
 - 10/19: Latest [lab paper on long-term dynamics of N-fixing plant diversity](https://www.science.org/doi/10.1126/sciadv.adp7953) led by Pablo was published at _Science Advances_!
 - 10/14-10/19: Daijiang co-led a working group at iDiv in Germany to work on species invasions in urban areas across the world.
 - 10/10: Daijiang gave a talk about [phenoBase](https://phenobase.org/) in the WeDigBio 2024 online symposium "How is AI being used in Biodiversity Efforts?" 
