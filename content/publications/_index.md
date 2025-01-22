@@ -23,6 +23,8 @@ disable_comments: true
 
 <li> <a href="https://link.springer.com/article/10.1007/s10530-024-03499-9" target="_blank" title=""><b>Quantifying the Effects of Water Hyacinth (<i>Pontederia crassipes</i>) on Freshwater Ecosystems: A Meta-analysis</b></a>. <sup>§§</sup>Rohit Jha and Daijiang Li. <i>Biological Invasions</i>. Accepted.<a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
 
+<li> <a href="https://www.sciencedirect.com/science/article/pii/S1439179125000040" target="_blank" title=""><b>Resource availability and competition shape pollinator trophic specialization in longleaf pine savannas</b></a>. Pablo Moreno-García, Johanna Freeman, Ben Baiser, Joshua Campbell, Daijiang Li. <i>Basic and Applied Ecology</i></li>
+
 </ol>
 
 
