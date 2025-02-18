@@ -1,4 +1,162 @@
 [
+  	{
+		"id": "http://zotero.org/users/1411594/items/M9HHZTQC",
+		"type": "article-journal",
+		"container-title": "Biological Invasions",
+		"DOI": "10.1007/s10530-024-03499-9",
+		"ISSN": "1573-1464",
+		"issue": "1",
+		"journalAbbreviation": "Biol Invasions",
+		"language": "en",
+		"page": "27",
+		"source": "Springer Link",
+		"title": "Quantifying the effects of water hyacinth (_Pontederia crassipes_) on freshwater ecosystems: a meta-analysis",
+		"title-short": "Quantifying the effects of water hyacinth (Pontederia crassipes) on freshwater ecosystems",
+		"URL": "https://doi.org/10.1007/s10530-024-03499-9",
+		"volume": "27",
+		"author": [
+			{
+				"family": "**<sup>§§</sup>Jha**",
+				"given": "Rohit Raj"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					1
+				]
+			]
+		}
+	}, 
+	
+  	{
+		"id": "http://zotero.org/users/1411594/items/CWKNUK3L",
+		"type": "article-journal",
+		"container-title": "Basic and Applied Ecology",
+		"DOI": "10.1016/j.baae.2025.01.004",
+		"ISSN": "1439-1791",
+		"journalAbbreviation": "Basic and Applied Ecology",
+		"page": "118-127",
+		"source": "ScienceDirect",
+		"title": "Resource availability and competition shape pollinator trophic specialization in longleaf pine savannas",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1439179125000040",
+		"volume": "83",
+		"author": [
+			{
+				"family": "**<sup>§</sup>Moreno-García**",
+				"given": "Pablo"
+			},
+			{
+				"family": "Freeman",
+				"given": "Johanna E."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Campbell",
+				"given": "Joshua W."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
+	{
+		"id": "http://zotero.org/users/1411594/items/YDQ976ZB",
+		"type": "article-journal",
+		"abstract": "Classical weed biological control is a major management tool deployed worldwide for the control of invasive plants. Classical weed biological control has a long-standing history of safe and effective weed management that has resulted in the protection of many ecosystems. Despite this history of safe and effective control, significant public opposition can occur. Plans to release biological control agents developed for the invasive tree Chinese tallow, Triadica sebifera (L.) Small received widespread and enthusiastic support from land managers and the environmental community. However, agent release was opposed by beekeeping organizations. Chinese tallow is purported to be an important nectar plant for beekeeping operations in the southeastern U.S.A. In this article, we discuss the primary concerns raised by commercial beekeepers opposed to Chinese tallow management with biological control and present data on the flowering phenology of tallow. Review of the scientific literature identified multiple studies reporting the importance of native plants to honey production, highlighting the need to protect important pollen and nectar sources from displacement by Chinese tallow. Additionally, results indicate shorter bloom periods for tallow than previously reported. These results highlight the importance of reducing the tallow invasion and protecting native ecosystems to enhance floral diversity. The implementation of a biological control program for Chinese tallow may be the best option for land managers and beekeepers at conserving native ecosystems of the southeastern U.S.A. while maintaining the services they provide",
+		"container-title": "Biological Control",
+		"DOI": "10.1016/j.biocontrol.2025.105720",
+		"ISSN": "1049-9644",
+		"journalAbbreviation": "Biological Control",
+		"page": "105720",
+		"source": "ScienceDirect",
+		"title": "Tallow tree biological control and beekeeping: Assessing the misconceptions and possible resolutions to protect native ecosystems",
+		"title-short": "Tallow tree biological control and beekeeping",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1049964425000301",
+		"author": [
+			{
+				"family": "Gaffke",
+				"given": "Alexander M."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Manrique",
+				"given": "Veronica"
+			},
+			{
+				"family": "Abbate",
+				"given": "Anthony P."
+			},
+			{
+				"family": "Wheeler",
+				"given": "Gregory S."
+			},
+			{
+				"family": "Diaz",
+				"given": "Rodrigo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					30
+				]
+			]
+		}
+	},
+  
   {
 		"id": "http://zotero.org/users/1411594/items/6VGHAWPH",
 		"type": "article-journal",

@@ -1,7 +1,7 @@
 <div class="paper">
     {{ $year := index .issued "date-parts" 0 0 | string }}
     <div class="title">
-        {{ title .title }}
+        {{ title .title | markdownify }}
     </div>
     <div class="authors">
         {{ range $author := .author }}
