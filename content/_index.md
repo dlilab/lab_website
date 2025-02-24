@@ -20,6 +20,11 @@ disable_highlight: true
 
 **[We are looking for 2 PhD students (fall 2025) and 1-2 postdocs (start date flexible) to join us](/pdf/positions_2025.pdf).**
 
+## 2025
+
+- 2/21: How would extreme weather events (EWEs) affect phenology? Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
+- 2/10: Pablo just published a [paper on specialization of pollinators](https://www.sciencedirect.com/science/article/pii/S1439179125000040?via%3Dihub)! Congrats!
+
 ## 2024
 
 - 11/26: Graduate student Rohit's paper on the impacts of Water Hyacinth was accepted by _Biological Invasions_! Congrats!

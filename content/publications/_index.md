@@ -17,10 +17,6 @@ disable_comments: true
 
 <li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title=""><b>PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</b></a>. Russell Dinnage, Erin Grady, <sup>§§</sup>Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>bioRxiv</i></li>
 
-<li> <a href="https://doi.org/10.32942/X20P8J" target="_blank" title=""><b>GUBIC: the global urban biological invasions compendium for plants</b></a>. Daijiang Li, Luke Potgieter, et al. <i>Ecological Solutions and Evidence</i>. Accepted.</li>
-
-<li> <b>Extreme weather events have strong but different impacts on plant and insect phenology</b>. Daijiang Li, Michael Belitz, Lindsay Campbell, and Robert Guralnick. <i>Nature Climate Change</i>. Accepted.<a href="" target="_blank" title="Text through DOI"><i class="ai ai-doi"></i></a> </li> 
-
 
 </ol>
 

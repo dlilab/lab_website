@@ -1,5 +1,305 @@
 [
   	{
+		"id": "http://zotero.org/users/1411594/items/AV4VAMC4",
+		"type": "article-journal",
+		"abstract": "Urban areas are foci for the introduction of non-native plant species, and they often act as launching sites for invasions into the wider environment. Although interest in biological invasions in urban areas is growing rapidly, and the extent and complexity of problems associated with invasions in these systems have increased, data on the composition and numbers of non-native plants in urbanized areas remain scattered and idiosyncratic. We assembled data from multiple sources to create the Global Urban Biological Invasions Compendium (GUBIC) for vascular plants representing 553 urban centres from 61 countries across every continent except Antarctica. The GUBIC repository includes 8140 non-native plant species from 253 families. The number of urban centres in which these non-native species occurred had a log-normal distribution, with 65.2% of non-native species occurring in fewer than 10 urban centres. Practical implications: The dataset has wider applications for urban ecology, invasion biology, macroecology, conservation, urban planning and sustainability. We hope this dataset will stimulate future research in invasion ecology related to the diversity and distributional patterns of non-native flora across urban centres worldwide. Further, this information should aid the early detection and risk assessment of potential invasive species, inform policy development and assist in setting management priorities.",
+		"container-title": "Ecological Solutions and Evidence",
+		"DOI": "10.1002/2688-8319.70020",
+		"ISSN": "2688-8319",
+		"issue": "1",
+		"language": "en",
+		"license": "© 2025 The Author(s). Ecological Solutions and Evidence published by John Wiley & Sons Ltd on behalf of British Ecological Society.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/2688-8319.70020",
+		"page": "e70020",
+		"source": "Wiley Online Library",
+		"title": "GUBIC: The global urban biological invasions compendium for plants",
+		"title-short": "GUBIC",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2688-8319.70020",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Potgieter",
+				"given": "Luke J."
+			},
+			{
+				"family": "Aronson",
+				"given": "Myla F. J."
+			},
+			{
+				"family": "Axmanová",
+				"given": "Irena"
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Carboni",
+				"given": "Marta"
+			},
+			{
+				"family": "Celesti-Grapow",
+				"given": "Laura"
+			},
+			{
+				"family": "Knapp",
+				"given": "Sonja"
+			},
+			{
+				"family": "Kühn",
+				"given": "Ingolf"
+			},
+			{
+				"family": "Lacerda de Matos",
+				"given": "Ana Carolina"
+			},
+			{
+				"family": "Lososová",
+				"given": "Zdeňka"
+			},
+			{
+				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"given": "Flavia A."
+			},
+			{
+				"family": "Pyšek",
+				"given": "Petr"
+			},
+			{
+				"family": "Richardson",
+				"given": "David M."
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren B."
+			},
+			{
+				"family": "Zenni",
+				"given": "Rafael D."
+			},
+			{
+				"family": "Cilliers",
+				"given": "Sarel S."
+			},
+			{
+				"family": "Clarkson",
+				"given": "Bruce D."
+			},
+			{
+				"family": "Davis",
+				"given": "Amy J. S."
+			},
+			{
+				"family": "Dolan",
+				"given": "Rebecca W."
+			},
+			{
+				"family": "Dyderski",
+				"given": "Marcin K."
+			},
+			{
+				"family": "Essl",
+				"given": "Franz"
+			},
+			{
+				"family": "Gaoue",
+				"given": "Orou G."
+			},
+			{
+				"family": "Gui",
+				"given": "Joanne"
+			},
+			{
+				"family": "Géron",
+				"given": "Charly"
+			},
+			{
+				"family": "Heringer",
+				"given": "Gustavo"
+			},
+			{
+				"family": "Hui",
+				"given": "Cang"
+			},
+			{
+				"family": "Khuroo",
+				"given": "Anzar A."
+			},
+			{
+				"family": "Klotz",
+				"given": "Stefan"
+			},
+			{
+				"family": "Kotanen",
+				"given": "Peter M."
+			},
+			{
+				"family": "Kreft",
+				"given": "Holger"
+			},
+			{
+				"family": "La Sorte",
+				"given": "Frank A."
+			},
+			{
+				"family": "Lembrechts",
+				"given": "Jonas J."
+			},
+			{
+				"family": "Lenzner",
+				"given": "Bernd"
+			},
+			{
+				"family": "Lepczyk",
+				"given": "Christopher A."
+			},
+			{
+				"family": "MacIvor",
+				"given": "Scott"
+			},
+			{
+				"family": "Martínez-Garza",
+				"given": "Cristina"
+			},
+			{
+				"family": "Mori",
+				"given": "Akira S."
+			},
+			{
+				"family": "Nilon",
+				"given": "Charles"
+			},
+			{
+				"family": "Pergl",
+				"given": "Jan"
+			},
+			{
+				"family": "Siebert",
+				"given": "Stefan J."
+			},
+			{
+				"family": "Tretyakova",
+				"given": "Alyona S."
+			},
+			{
+				"family": "Tsang",
+				"given": "Toby P. N."
+			},
+			{
+				"family": "Uchida",
+				"given": "Kei"
+			},
+			{
+				"family": "Kleunen",
+				"given": "Mark",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Vilà",
+				"given": "Montserrat"
+			},
+			{
+				"family": "Wang",
+				"given": "Hua-Feng"
+			},
+			{
+				"family": "Weigelt",
+				"given": "Patrick"
+			},
+			{
+				"family": "Werner",
+				"given": "Peter"
+			},
+			{
+				"family": "Williams",
+				"given": "Nicholas S. G."
+			},
+			{
+				"family": "Winter",
+				"given": "Marten"
+			},
+			{
+				"family": "Cadotte",
+				"given": "Marc W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1411594/items/6VVGBEZZ",
+		"type": "article-journal",
+		"abstract": "The ability to explain and predict phenology across space, time and taxa has largely relied on annual average and seasonal climatic variables, ignoring the potential role of extreme weather events (EWEs) in regulating phenology. Yet, EWEs, which are predicted to increase in their severity and frequency with climate change, are also probably strong proximal phenology cues. Here we leveraged expansive community science resources to determine how EWEs affect plant flowering and insect flight beginning, termination and duration for 581 angiosperm species and 172 Lepidoptera across the contiguous United States. Our results provide evidence that plant and insect phenology is highly responsive to EWEs after accounting for seasonal and annual average climatic variables. The impact of EWEs on phenology varies depending on climatic context, and plant and insect responsiveness, while often similar, can be in the opposite directions. This suggests that EWEs may be key drivers of multitrophic phenological mismatches.",
+		"container-title": "Nature Climate Change",
+		"DOI": "10.1038/s41558-025-02248-7",
+		"ISSN": "1758-6798",
+		"journalAbbreviation": "Nat. Clim. Chang.",
+		"language": "en",
+		"license": "2025 The Author(s), under exclusive licence to Springer Nature Limited",
+		"note": "publisher: Nature Publishing Group",
+		"page": "1-8",
+		"source": "www.nature.com",
+		"title": "Extreme weather events have strong but different impacts on plant and insect phenology",
+		"URL": "https://www.nature.com/articles/s41558-025-02248-7",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Belitz",
+				"given": "Michael"
+			},
+			{
+				"family": "Campbell",
+				"given": "Lindsay"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
+  	{
 		"id": "http://zotero.org/users/1411594/items/M9HHZTQC",
 		"type": "article-journal",
 		"container-title": "Biological Invasions",
@@ -38,7 +338,7 @@
 				[
 					"2025",
 					1,
-					1
+					3
 				]
 			]
 		}
