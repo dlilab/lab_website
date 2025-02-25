@@ -4,6 +4,13 @@ disable_mathjax: true
 disable_highlight: true
 disable_comments: true
 ---
+
+<div id="widerimg">
+    <img src="/images/journal_covers.jpeg">
+</div>
+
+<br>
+
 <center>
 <a target="_blank" href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x"></i></a> 
 <a target="_blank" href="https://www.researchgate.net/profile/Daijiang_Li"><i class="ai ai-researchgate ai-2x"></i></a> 

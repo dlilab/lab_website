@@ -36,13 +36,13 @@
   }
 
   #widerimg {
-    width: 700px;
+    width: 800px;
     margin: 0;
   	padding: 0;
     text-align: center;
+  	margin-left: -50px;
     /* background-image:url('/images/yellow_trout_lily.jpg');
   	align-content: center;
-  	margin-left: -120px;
     margin-right: 100px; */
   }
 
