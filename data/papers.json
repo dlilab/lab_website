@@ -279,6 +279,10 @@
 				"given": "Robert"
 			}
 		],
+		"pressrelease": [
+		  {"presslink": "https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events"},
+		  {"presslink": "https://www.earth.com/news/natures-timing-is-drastically-changing-due-to-extreme-weather/"}
+		],
 		"accessed": {
 			"date-parts": [
 				[
