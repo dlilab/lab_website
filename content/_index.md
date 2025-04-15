@@ -23,6 +23,7 @@ disable_highlight: true
 ## 2025
 
 - 04/05-04/11: Daijiang went to iDiv in Germany to attend a [workshop in relating long-term resurvey data and biodiversity experiments](https://www.idiv.de/research/sdiv/working-groups/srealbiofun/).
+- 03/18: [Our working group on urban species invasions](https://esiil.org/working-group/integrating-urban-biodiversity-data-non-native-plant-species-environmental-and) was selected for funding by ESIIL, a NSF supported Environmental Data Science Innovation & Inclusion Lab.
 - 02/21: How would extreme weather events (EWEs) affect phenology? Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
     + [Press release](https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events) at University of Arizona
 - 02/10: Pablo just published a [paper on specialization of pollinators](https://www.sciencedirect.com/science/article/pii/S1439179125000040?via%3Dihub)! Congrats!
