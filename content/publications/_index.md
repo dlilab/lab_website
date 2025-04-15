@@ -22,6 +22,8 @@ disable_comments: true
 
 <ol>
 
+<li> <a href="" target="_blank" title=""><b>Legacy effects of religion, politics, and war on urban evolutionary biology</b></a>. Elizabeth Carlen, ..., Daijiang Li, ..., Marta Szulkin. <i>Nature Cities</i></li>
+
 <li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title=""><b>PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</b></a>. Russell Dinnage, Erin Grady, <sup>§§</sup>Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>bioRxiv</i></li>
 
 
