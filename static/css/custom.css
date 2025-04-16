@@ -146,6 +146,7 @@ body {
 
 .item img.mugshot:hover {
     filter: grayscale(0%);
+    border: 4px solid #FDD023;
   }
 
 .item .summary {
