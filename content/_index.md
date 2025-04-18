@@ -18,21 +18,20 @@ disable_highlight: true
 
 # News
 
-**[We are looking for 2 PhD students (fall 2025) and 1-2 postdocs (start date flexible) to join us](/pdf/positions_2025.pdf).**
 
 ## 2025
 
 - 04/05-04/11: Daijiang went to iDiv in Germany to attend a [workshop in relating long-term resurvey data and biodiversity experiments](https://www.idiv.de/research/sdiv/working-groups/srealbiofun/).
-- 03/18: [Our working group on urban species invasions](https://esiil.org/working-group/integrating-urban-biodiversity-data-non-native-plant-species-environmental-and) was selected for funding by ESIIL, a NSF supported Environmental Data Science Innovation & Inclusion Lab.
-- 02/21: How would extreme weather events (EWEs) affect phenology? Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
+- 03/18: :champagne: [Our working group on urban species invasions](https://esiil.org/working-group/integrating-urban-biodiversity-data-non-native-plant-species-environmental-and) :city_sunrise: :four_leaf_clover: was selected for funding by ESIIL, a NSF supported Environmental Data Science Innovation & Inclusion Lab.
+- 02/21: :books: How would extreme weather events (EWEs) affect phenology? :hibiscus: Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
     + [Press release](https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events) at University of Arizona
-- 02/10: Pablo just published a [paper on specialization of pollinators](https://www.sciencedirect.com/science/article/pii/S1439179125000040?via%3Dihub)! Congrats!
+- 02/10: :books: Pablo just published a [paper on specialization of pollinators](https://www.sciencedirect.com/science/article/pii/S1439179125000040?via%3Dihub)! Congrats!
 - 01/22: iNaturalist hosted a webinar on plant phenology annotations, partly supported by the Phenobase project. [Watch the record at YouTube here](https://www.youtube.com/watch?v=57teTK5V5t0&t=681s). And check out the comments there!
 
 ## 2024
 
-- 11/26: Graduate student Rohit's paper on the impacts of Water Hyacinth was accepted by _Biological Invasions_! Congrats!
-- 10/19: Latest [lab paper on long-term dynamics of N-fixing plant diversity](https://www.science.org/doi/10.1126/sciadv.adp7953) led by Pablo was published at _Science Advances_!
+- 11/26: :books: Graduate student Rohit's paper on [the impacts of Water Hyacinth](https://link.springer.com/article/10.1007/s10530-024-03499-9) was accepted by _Biological Invasions_! Congrats!
+- 10/19: :books: Latest [lab paper on long-term dynamics of N-fixing plant diversity](https://www.science.org/doi/10.1126/sciadv.adp7953) led by Pablo was published at _Science Advances_!
 - 10/14-10/19: Daijiang co-led a working group at iDiv in Germany to work on species invasions in urban areas across the world.
 - 10/10: Daijiang gave a talk about [phenoBase](https://phenobase.org/) in the WeDigBio 2024 online symposium "How is AI being used in Biodiversity Efforts?" 
 - 10/09: Pablo gave a talk about plant-pollinator interactions in a symposium organized at PSU.
@@ -64,12 +63,12 @@ disable_highlight: true
 - 05/22: :wave: We welcome a new member, Emily Ramos, into the lab this summer. Emily is from the Fordham University and will work with us as a REU student this summer!
 - 05/02: :champagne: [Daijiang received the non-tenured faculty research award](https://www.lsu.edu/science/biosci/news/choppin-honors23.php) from the College of Science!
 - 04/24: We had our first in person PI meeting for our #NSFfunded [Phenobase](https://phenobase.org/) project at LSU! We are really excited to work with this great team on a super important project.
-- 02/28: [Paper accepted at Ecography](https://onlinelibrary.wiley.com/doi/10.1111/ecog.06643)!
+- 02/28: :books: [Paper accepted at Ecography](https://onlinelibrary.wiley.com/doi/10.1111/ecog.06643)!
 - 02/01: Daijiang attended a workshop organized by the [Urban Eco-Evo Network](https://www.urbanecoevo.net/) at the University of Washington; lots of exciting ideas regarding :cityscape:️ urban eco-evo dynamics :cityscape:️ to think about.
 
 ## 2022
 
-- 11/23: :champagne: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13619) led by Flavia was published at Global Ecology and Biogeography!
+- 11/23: :books: [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13619) led by Flavia was published at Global Ecology and Biogeography!
 - 10/21: :loudspeaker: Our lab has two new postdoc positions opening: one on [species invasions](https://lsu.wd1.myworkdayjobs.com/LSU/job/0437-Life-Sciences-Building/Postdoctoral-Researcher_R00073358-1) and one on [deep learning and ontology development](https://lsu.wd1.myworkdayjobs.com/LSU/job/1079-Digital-Media-Center/Research-Data-Scientist--IT-Analyst-3-_R00074121-1). Please apply if interested.
 - 10/20: Daijiang was [interviewed by KSLA TV Station](https://www.ksla.com/10/21/lsu-biologist-building-first-worldwide-plant-phenology-database/) regarding the Phenobase project.
 - 10/12: :champagne: Our proposal to synthesize urban invasion ecology was **funded** by iDiv (German Centre for Integrative Biodiversity Research)! Lots of exciting projects to be done with a large group of collaborators!
