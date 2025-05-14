@@ -21,6 +21,8 @@ disable_highlight: true
 
 ## 2025
 
+- 05/05-05/06: Daijiang hosted the annual PI meeting for the PhenoBase meeting at Tucson, AZ. We recorded [this fun YouTube short video](https://www.youtube.com/watch?v=HnwBh3d0r3g&t=102s) during that time. 
+    {{< youtube HnwBh3d0r3g >}}
 - 04/05-04/11: Daijiang went to iDiv in Germany to attend a [workshop in relating long-term resurvey data and biodiversity experiments](https://www.idiv.de/research/sdiv/working-groups/srealbiofun/).
 - 03/18: :champagne: [Our working group on urban species invasions](https://esiil.org/working-groups/urban-species-invasions) :city_sunrise: :four_leaf_clover: was selected for funding by ESIIL, a NSF supported Environmental Data Science Innovation & Inclusion Lab.
 - 02/21: :books: How would extreme weather events (EWEs) affect phenology? :hibiscus: Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
