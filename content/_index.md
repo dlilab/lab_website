@@ -27,6 +27,7 @@ disable_highlight: true
 - 03/18: :champagne: [Our working group on urban species invasions](https://esiil.org/working-groups/urban-species-invasions) :city_sunrise: :four_leaf_clover: was selected for funding by ESIIL, a NSF supported Environmental Data Science Innovation & Inclusion Lab.
 - 02/21: :books: How would extreme weather events (EWEs) affect phenology? :hibiscus: Check out [our paper just published at _Nature Climate Change_](https://www.nature.com/articles/s41558-025-02248-7).
     + [Press release](https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events) at University of Arizona
+    + 04/03: Daijiang [talked with Arizona Science NPR](https://originals.azpm.org/p/radio-azscience/2025/4/3/224317-why-do-certain-plants-respond-better-to-extreme-weather-events/) about this study
 - 02/10: :books: Pablo just published a [paper on specialization of pollinators](https://www.sciencedirect.com/science/article/pii/S1439179125000040?via%3Dihub)! Congrats!
 - 01/22: iNaturalist hosted a webinar on plant phenology annotations, partly supported by the Phenobase project. [Watch the record at YouTube here](https://www.youtube.com/watch?v=57teTK5V5t0&t=681s). And check out the comments there!
 
