@@ -24,6 +24,8 @@ disable_comments: true
 
 <li> <a href="" target="_blank" title=""><b>The effects of urbanization on species interactions</b></a>. <sup>§</sup>Pablo Moreno-García, ..., Daijiang Li. <i>Nature Cities</i>. In press.</li>
 
+<li> <a href="" target="_blank" title=""><b>Less predictable global rhythms in human than wildlife contributions to soundscapes</b></a>. Panu Somervuo, Tomas Roslin, many many co-authors, including lab members Evelin Reyes, Rohit Jha, Daijiang Li, ..., Otso Ovaskainen. <i>Nature Ecology and Evolution</i>. In press.</li>
+
 <li> <a href="" target="_blank" title=""><b>Legacy effects of religion, politics, and war on urban evolutionary biology</b></a>. Elizabeth Carlen, ..., Daijiang Li, ..., Marta Szulkin. <i>Nature Cities</i>. In press.</li>
 
 <li> <a href="https://www.biorxiv.org/content/10.1101/2024.10.10.617505v1.abstract" target="_blank" title=""><b>PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</b></a>. Russell Dinnage, Erin Grady, <sup>§§</sup>Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>Methods in Ecology and Evolution</i>. In press.</li>
