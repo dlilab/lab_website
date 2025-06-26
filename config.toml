@@ -8,7 +8,6 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
-date = "2020/08/08"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"

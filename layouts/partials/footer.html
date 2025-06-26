@@ -5,7 +5,7 @@
   {{ if .Site.Params.footer }}
    <hr>
    <div class="copyright">
-   {{ .Site.Params.footer | markdownify }} {{ .Site.LastChange.Format "2006" }}</div>
+   {{ .Site.Params.footer | markdownify }} {{ .Site.Lastmod.Format "2006" }}</div>
   {{ end }}
 
   </footer>
