@@ -1,34 +1,40 @@
+:root {
+  --color-accent: #FDD023;
+  --color-main: #461D7C;
+}
+
 /* navigation menu */
 @media screen and (min-width: 961px) {
   .masthead {
     position: sticky;
     top: 0;
     min-height: 100vh;
-    border-right: 15px solid #AB0520;
+    border-right: 20px solid #AB0520;
     background: #0C234B;
-    width: 200px;
+    width: 255px;
     padding: 2em 1em;
     float: left;
   }
   .main {
-    margin-left: calc(50% - 250px);
+    margin-left: calc(50% - 255px);
   }
+
   nav.menu {
-    color: #FDD023;
+    color: var(--color-accent);
     margin-top: 88px;
   }
 
   .masthead h1 a {
-    color: #FDD023;
+    color: var(--color-accent);
   }
 
   .masthead p {
-    color: #FDD023;
-    font-weight: 500;
+    color: var(--color-accent);
+    font-weight: 520;
   }
 
   nav.menu a {
-    color: #FDD023;
+    color: var(--color-accent);
   }
 
   .menu a:hover {
@@ -65,7 +71,7 @@
 }
 
 html {
-  font-size: 105%;
+  font-size: 108%;
 }
 
 /* body of main content */
@@ -81,12 +87,12 @@ body {
 }
 
 .main a {
-    color: #461D7C;
+    color: var(--color-main);
     border-bottom: 1px dashed;
 }
 
 .main a:hover {
-    color: #FDD023;
+    color: var(--color-accent);
     border-bottom: none;
 }
 
@@ -114,11 +120,11 @@ body {
 }
 
 .item a {
-  color: #461D7C;
+  color: var(--color-main);
 }
 
 .item a:hover {
-  color: #FDD023;
+  color: var(--color-accent);
   border-bottom: none;
 }
 
@@ -132,21 +138,23 @@ body {
     text-align: center;
 }
 
-.item img.mugshot {
+.item img.mugshot,
+.itemResearch img.headImage {
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    border: 2px solid #461D7C;
-    /* box-shadow: 0 0 0 2pt #FDD023; */
+    border: 2px solid var(--color-main);
+    /* box-shadow: 0 0 0 2pt var(--color-accent); */
     text-align: center;
     margin: 0px auto;
     display: block;
     filter: grayscale(25%);
   }
 
-.item img.mugshot:hover {
+.item img.mugshot:hover,
+.itemResearch img.headImage:hover {
     filter: grayscale(0%);
-    border: 4px solid #FDD023;
+    border: 4px solid var(--color-accent);
   }
 
 .item .summary {
@@ -165,8 +173,8 @@ body {
 }
 
 .itemResearch a {
-  color: #FDD023;
-  background-color: #461D7C;
+  color: var(--color-accent);
+  background-color: var(--color-main);
   font-weight: 600;
   vertical-align: bottom;
   padding: 0.6em;
@@ -174,8 +182,8 @@ body {
 }
 
 .itemResearch a:hover {
-  color: #461D7C;
-  background-color: #FDD023;
+  color: var(--color-main);
+  background-color: var(--color-accent);
   border-bottom: none;
 }
 
@@ -189,17 +197,6 @@ body {
     text-align: center;
 }
 
-.itemResearch img.headImage {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    border: 2px solid #461D7C;
-    /* box-shadow: 0 0 0 2pt #FDD023; */
-    text-align: center;
-    margin: 0px auto;
-    display: block;
-  }
-
 .itemResearch .summary {
     color: #555;
     font-weight: 400;
@@ -210,12 +207,12 @@ body {
 /* icons */
 
 .ai-2x:hover {
-  color: #FDD023;
+  color: var(--color-accent);
 }
 
 .ai-2x {
   padding-top: 3px;
-  color: #461D7C;
+  color: var(--color-main);
 }
 
 /* publication style */
@@ -241,11 +238,11 @@ body {
 }
 
 .paper .badge a {
-  color: #461D7C;
+  color: var(--color-main);
 }
 
 .paper .badge a:hover {
-  color: #FDD023;
+  color: var(--color-accent);
 }
 
 .fullwidth-img {
@@ -259,7 +256,7 @@ body {
     margin: 2em auto 1.5em auto;
   }
   #menu-label {
-    color: #461D7C;
+    color: var(--color-main);
   }
   .title h2, .title h3 {
     margin: 1.5em auto;
@@ -280,10 +277,10 @@ body {
     margin-bottom: 10px;
   }
   .masthead h1 a {
-    color: #461D7C;
+    color: var(--color-main);
   }
   .masthead p {
-    color: #461D7C;
+    color: var(--color-main);
   }
   .masthead .menu ul {
     text-align: center;
@@ -291,14 +288,14 @@ body {
   .masthead .menu a {
     display: inline-block;
     padding: 5px 10px;
-    background: #461D7C;
-    color: #FDD023;
+    background: var(--color-main);
+    color: var(--color-accent);
     border-radius: 5px;
   }
   .masthead .menu .active a {
-    background: #FDD023;
+    background: var(--color-accent);
     border: 1px solid #444;
-    color: #461D7C;
+    color: var(--color-main);
   }
   .masthead .menu li, .masthead .menu li:first-child {
     border: none;
