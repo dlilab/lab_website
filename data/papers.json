@@ -1,4 +1,185 @@
 [
+	{
+		"id": "http://zotero.org/users/1411594/items/89BFEGLA",
+		"type": "article-journal",
+		"abstract": "Urbanization has been a defining feature of the past four centuries, with most of the global population now living in highly modified environments shared with wildlife. Traditionally, biological urban evolutionary research has focused on physical factors such as habitat fragmentation, pollution and resource availability, often overlooking the social and political forces shaping urban environments. This Review explores how religion, politics and war drive urban wildlife evolution by shaping environmental conditions and selective pressures. We synthesize existing knowledge on these influences and propose testable hypotheses to advance the field. Understanding these dynamics is essential for explaining the variability in urban evolutionary processes and predicting the future development of urban systems. By integrating social and political dimensions, we can gain deeper insights into how cities shape the evolution of organisms that inhabit them.",
+		"container-title": "Nature Cities",
+		"DOI": "10.1038/s44284-025-00249-3",
+		"ISSN": "2731-9997",
+		"journalAbbreviation": "Nat Cities",
+		"language": "en",
+		"license": "2025 Springer Nature America, Inc.",
+		"note": "publisher: Nature Publishing Group",
+		"page": "1-10",
+		"source": "www.nature.com",
+		"title": "Legacy effects of religion, politics and war on urban evolutionary biology",
+		"URL": "https://www.nature.com/articles/s44284-025-00249-3",
+		"author": [
+			{
+				"family": "Carlen",
+				"given": "Elizabeth J."
+			},
+			{
+				"family": "Caizergues",
+				"given": "Aude E."
+			},
+			{
+				"family": "Jagiello",
+				"given": "Zuzanna"
+			},
+			{
+				"family": "Kuzyo",
+				"given": "Hanna"
+			},
+			{
+				"family": "Munshi-South",
+				"given": "Jason"
+			},
+			{
+				"family": "Alberti",
+				"given": "Marina"
+			},
+			{
+				"family": "Angeoletto",
+				"given": "Fabio"
+			},
+			{
+				"family": "Bonilla-Bedoya",
+				"given": "Santiago"
+			},
+			{
+				"family": "Booth",
+				"given": "Warren"
+			},
+			{
+				"family": "Charmantier",
+				"given": "Anne"
+			},
+			{
+				"family": "Cocciardi",
+				"given": "Jennifer M."
+			},
+			{
+				"family": "Cook",
+				"given": "Elizabeth M."
+			},
+			{
+				"family": "Gotanda",
+				"given": "Kiyoko M."
+			},
+			{
+				"family": "Govaert",
+				"given": "Lynn"
+			},
+			{
+				"family": "Johnson",
+				"given": "Lauren E."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Malesis",
+				"given": "Anna N."
+			},
+			{
+				"family": "Martin",
+				"given": "Ella"
+			},
+			{
+				"family": "Marzluff",
+				"given": "John M."
+			},
+			{
+				"family": "Mazurek",
+				"given": "Małgorzata"
+			},
+			{
+				"family": "Miles",
+				"given": "Lindsay S."
+			},
+			{
+				"family": "Phifer-Rixey",
+				"given": "Megan"
+			},
+			{
+				"family": "Salazar-Valenzuela",
+				"given": "David"
+			},
+			{
+				"family": "Savage",
+				"given": "Amy"
+			},
+			{
+				"family": "Snyder",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Stadnicki",
+				"given": "Ignacy"
+			},
+			{
+				"family": "Vergeles",
+				"given": "Yuriy"
+			},
+			{
+				"family": "Verrelli",
+				"given": "Brian C."
+			},
+			{
+				"family": "Villar",
+				"given": "Daniel A."
+			},
+			{
+				"family": "Wilhelm-Solomon",
+				"given": "Matthew"
+			},
+			{
+				"family": "Willmott",
+				"given": "Meredith"
+			},
+			{
+				"family": "Winchell",
+				"given": "Kristin M."
+			},
+			{
+				"family": "Yates",
+				"given": "Shannan S."
+			},
+			{
+				"family": "Zhou",
+				"given": "Yuyu"
+			},
+			{
+				"family": "Garroway",
+				"given": "Colin J."
+			},
+			{
+				"family": "Szulkin",
+				"given": "Marta"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					7,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					4
+				]
+			]
+		}
+	},
+
   	{
 		"id": "http://zotero.org/users/1411594/items/AV4VAMC4",
 		"type": "article-journal",
