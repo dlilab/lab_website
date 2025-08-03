@@ -1,4 +1,197 @@
 [
+    	{
+		"id": "http://zotero.org/users/1411594/items/KHAKLV2P",
+		"type": "article-journal",
+		"abstract": "Cities are renowned for catalyzing human interactions, but their distinctive environments also affect the interactions of other species. We discuss how urbanization affects species interactions and identify key knowledge gaps. With this context and using an eco-evolutionary lens, we frame urban environments as providing three consecutive filters: the presence of species, their co-occurrence and their relationships. Our framework offers a structured model for studying and managing urban species and environments to facilitate conservation and ecosystem services, benefiting urbanites of all stripes.",
+		"container-title": "Nature Cities",
+		"DOI": "10.1038/s44284-025-00288-w",
+		"ISSN": "2731-9997",
+		"journalAbbreviation": "Nat Cities",
+		"language": "en",
+		"license": "2025 Springer Nature America, Inc.",
+		"note": "publisher: Nature Publishing Group",
+		"page": "1-10",
+		"source": "www-nature-com.ezproxy1.library.arizona.edu",
+		"title": "The effects of urbanization on species interactions",
+		"URL": "https://www.nature.com/articles/s44284-025-00288-w",
+		"author": [
+			{
+				"family": "**<sup>§</sup>Moreno-García**",
+				"given": "Pablo"
+			},
+			{
+				"family": "Savage",
+				"given": "Amy"
+			},
+			{
+				"family": "Salgado",
+				"given": "Ana L."
+			},
+			{
+				"family": "Tartaglia",
+				"given": "Elena S."
+			},
+			{
+				"family": "Cocciardi",
+				"given": "Jennifer M."
+			},
+			{
+				"family": "Aronson",
+				"given": "Myla F. J."
+			},
+			{
+				"family": "Jarzyna",
+				"given": "Marta A."
+			},
+			{
+				"family": "Alberti",
+				"given": "Marina"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1411594/items/BPQX4MR3",
+		"type": "article-journal",
+		"abstract": "Across the world, human (anthropophonic) sounds add to sounds of biological (biophonic) and geophysical (geophonic) origin, with human contributions including both speech and technophony (sounds of technological devices). To characterize society’s contribution to the global soundscapes, we used passive acoustic recorders at 139 sites across 6 continents, sampling both urban green spaces and nearby pristine sites continuously for 3 years in a paired design. Recordings were characterized by bird species richness and by 14 complementary acoustic indices. By relating each index to seasonal, diurnal, climatic and anthropogenic factors, we show here that latitude, time of day and day of year each predict a substantial proportion of variation in key metrics of biophony—whereas anthropophony (speech and traffic) show less predictable patterns. Compared to pristine sites, the soundscape of urban green spaces is more dominated by technophony and less diverse in terms of acoustic energy across frequencies and time steps, with less instances of quiet. We conclude that the global soundscape is formed from a highly predictable rhythm in biophony, with added noise from geophony and anthropophony. At urban sites, animals experience an increasingly noisy background of sound, which poses challenges to efficient communication.",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-025-02786-5",
+		"ISSN": "2397-334X",
+		"journalAbbreviation": "Nat Ecol Evol",
+		"language": "en",
+		"license": "2025 The Author(s)",
+		"note": "publisher: Nature Publishing Group",
+		"page": "1-14",
+		"source": "www-nature-com.ezproxy1.library.arizona.edu",
+		"title": "Human contributions to global soundscapes are less predictable than the acoustic rhythms of wildlife",
+		"URL": "https://www.nature.com/articles/s41559-025-02786-5",
+		"author": [
+			{
+				"family": "Somervuo",
+				"given": "Panu"
+			},
+			{
+				"family": "Roslin",
+				"given": "Tomas"
+			},
+			{
+				"family": "Fisher",
+				"given": "Brian L."
+			},
+			{
+				"family": "Hardwick",
+				"given": "Bess"
+			},
+			{
+				"family": "Kerdraon",
+				"given": "Deirdre"
+			},
+			{
+				"family": "Raharinjanahary",
+				"given": "Dimby"
+			},
+			{
+				"family": "Rajoelison",
+				"given": "Eric Tsiriniaina"
+			},
+			{
+				"family": "Lauha",
+				"given": "Patrik"
+			},
+			{
+				"family": "Griem",
+				"given": "Lukas"
+			},
+			{
+				"family": "Lehikoinen",
+				"given": "Petteri"
+			},
+			{
+				"family": "Niittynen",
+				"given": "Pekka"
+			},
+			{
+				"family": "Piirainen",
+				"given": "Esko"
+			},
+			{
+				"family": "Lumme",
+				"given": "Markus"
+			},
+			{
+				"family": "Riihikoski",
+				"given": "Ville-Matti"
+			},
+			{
+				"family": "..."
+			},
+			{
+				"family": "**<sup>§§</sup>Jha**",
+				"given": "Rohit"
+			},
+			{
+				"family": "..."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "..."
+			},
+			{
+				"family": "**<sup>§§</sup>Reyes**",
+				"given": "Evelin"
+			},
+			{
+				"family": "..."
+			},
+			{
+				"family": "Ovaskainen",
+				"given": "Otso"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					5
+				]
+			]
+		}
+	}, 
+	
 	{
 		"id": "http://zotero.org/users/1411594/items/89BFEGLA",
 		"type": "article-journal",
@@ -578,7 +771,7 @@
 				[
 					"2025",
 					1,
-					1
+					5
 				]
 			]
 		}

@@ -8,6 +8,9 @@ date: "2021-08-01"
 
 **Currently, we have no funding to support postdoc. Happy to pursue funding opportunities together.**
 
+**We are seeking 1-2 PhD students to start in the fall of 2026 (application due December 1st, 2025) through the [Botany Department at UW-Madison](https://botany.wisc.edu/graduate-program/).** 
+
+
 I am seeking curious and motivated postdocs and graduate students to join the group. Our lab will study how global environmental changes have and will affect ecological communities, including species composition, biodiversity, plant phenology, etc. Our work combines experimental, observatory, statistical, and computational approaches to develop a mechanistic and predictive understanding of ecology. As a mentor, I am committed to building a [diverse and inclusive research lab](/value/) to make quantitative ecology more accessible and to fulfill group members' professional goals (whatever it is).
 
 [Spencer Hall's compilation of postdoc and graduate student advice.](https://halllab2.sitehost.iu.edu/grad-student-resources.html)
