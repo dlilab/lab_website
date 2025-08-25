@@ -1,27 +1,25 @@
 ---
 title: "Join us!"
 disable_comments: true
-date: "2021-08-01"
+date: "2025-08-25"
 ---
 
-**PhD student positions in Quantitative Ecology available in the lab**
-
-**Currently, we have no funding to support postdoc. Happy to pursue funding opportunities together.**
-
-**We are seeking 1-2 PhD students to start in the fall of 2026 (application due December 1st, 2025) through the [Botany Department at UW-Madison](https://botany.wisc.edu/graduate-program/).** 
+**We are seeking 1-2 PhD students to start in the fall of 2026 ([Ad here](/pdf/positions_2026.pdf); application due December 1st, 2025) through the [Botany Department at UW-Madison](https://botany.wisc.edu/graduate-program/).** 
 
 
 I am seeking curious and motivated postdocs and graduate students to join the group. Our lab will study how global environmental changes have and will affect ecological communities, including species composition, biodiversity, plant phenology, etc. Our work combines experimental, observatory, statistical, and computational approaches to develop a mechanistic and predictive understanding of ecology. As a mentor, I am committed to building a [diverse and inclusive research lab](/value/) to make quantitative ecology more accessible and to fulfill group members' professional goals (whatever it is).
 
 [Spencer Hall's compilation of postdoc and graduate student advice.](https://halllab2.sitehost.iu.edu/grad-student-resources.html)
 
-**Postdoctoral position**: I am looking for 1-2 postdocs to join the lab. Potential projects for postdocs include (but not limited to): 1) investigating the eco-evo drivers of symbiosis between nitrogen-fixing plants and soil microbes; 2) integrating different types of phenological data to study patterns and drivers of plant phenology across large spatial, temporal, and taxonomic scales; 3) studying biodiversity patterns within major urban areas across the world; 4) develop and/or apply advanced methods (statistical models or machine learning methods) to study biodiversity change. 
+**Currently, we have no funding to support postdoc. Happy to pursue funding opportunities together.**
 
-Candidates with an interest in developing research proposals together are strongly encouraged. I always welcome prospective postdocs to discuss about ideas to pursue funding together (postdoc fellowships or grants). Feel free to contact me anytime (djli at arizona.edu). I encourage all postdocs in the lab to apply for external funding whether or not they receive support from me.
+**Postdoctoral position**: ~~I am looking for 1-2 postdocs to join the lab. Potential projects for postdocs include (but not limited to): 1) investigating the eco-evo drivers of symbiosis between nitrogen-fixing plants and soil microbes; 2) integrating different types of phenological data to study patterns and drivers of plant phenology across large spatial, temporal, and taxonomic scales; 3) studying biodiversity patterns within major urban areas across the world; 4) develop and/or apply advanced methods (statistical models or machine learning methods) to study biodiversity change.~~ 
 
-**Graduate students [(_**Job ad**_)](/pdf/positions_2025.pdf)**: We have multiple funded openings for graduate students through the [EEB department](https://eeb.arizona.edu/graduate/prospective-students/apply-program). Prospective graduate students are expected to be highly motivated and self-driving, with research experiences and interests that are largely overlap with the broad theme of the lab. Please see the [Publications](/publications/) and [Research](/research/) to determine if your interests match well with those of the lab. Both empiricists and theorists are welcome to join the lab given the integrative nature of my research. Since our research is interdisciplinary, students from other departments (e.g., Statistics, Computer Science, Geoscience) are welcome to join the lab! Applications from individuals from diverse and underrepresented backgrounds are especially encouraged.
+~~Candidates with an interest in developing research proposals together are strongly encouraged. I always welcome prospective postdocs to discuss about ideas to pursue funding together (postdoc fellowships or grants). Feel free to contact me anytime (djli at arizona.edu). I encourage all postdocs in the lab to apply for external funding whether or not they receive support from me.~~
 
-Selecting a lab and adviser that suits your interests and needs is critical for your success. Prospective students thus should contact me via email to discuss about possibilities. In the email, please include a 1-2 pages cover letter with past and future research interests, what questions you want to pursue as a graduate student, whether you are interested in pursing a Master's or Ph.D degree, and why do you want to work in the lab. As an adviser, I will provide support to students whenever possible. I also expect students to apply for outside funding. I strongly encourage entering graduate students to apply for the [NSF Graduate Research Fellowship Program](http://www.nsfgrfp.org/) ([Here is the FAQ for 2021 FYI](https://www.nsf.gov/pubs/2020/nsf20114/nsf20114.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click)).  
+**Graduate students [(_**Job ad**_)](/pdf/positions_2026.pdf)**: We have multiple funded openings for graduate students through the [Botany department](https://botany.wisc.edu/graduate-program/). Prospective graduate students are expected to be highly motivated and self-driving, with research experiences and interests that are largely overlap with the broad theme of the lab. Please see the [Publications](/publications/) and [Research](/research/) to determine if your interests match well with those of the lab. Both empiricists and theorists are welcome to join the lab given the integrative nature of my research. Since our research is interdisciplinary, students from other departments (e.g., Statistics, Computer Science, Geoscience) are welcome to join the lab! Applications from individuals from diverse and underrepresented backgrounds are especially encouraged.
+
+Selecting a lab and adviser that suits your interests and needs is critical for your success. Prospective students thus should contact me via email to discuss about possibilities. In the email, please include a 1-2 pages cover letter with past and future research interests, what questions you want to pursue as a graduate student, three hypotheses you would like to test during your graduate school, whether you are interested in pursing a Master's or Ph.D degree, and why do you want to work in the lab. As an adviser, I will provide support to students whenever possible. I also expect students to apply for outside funding. I strongly encourage entering graduate students to apply for the [NSF Graduate Research Fellowship Program](http://www.nsfgrfp.org/) ([Here is the FAQ for 2021 FYI](https://www.nsf.gov/pubs/2020/nsf20114/nsf20114.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click)).  
 
 __Note that given the large number of emails I received, I won't be able to respond to emails that are not relevant to our group's research interests.__
 

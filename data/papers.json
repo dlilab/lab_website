@@ -1,4 +1,79 @@
 [
+  {
+		"id": "http://zotero.org/users/1411594/items/MLJ9ZNEC",
+		"type": "article-journal",
+		"abstract": "Plant phenology plays a fundamental role in shaping ecosystems, and global change-induced shifts in phenology have cascading impacts on species interactions and ecosystem structure and function. Detailed, high-quality observations of when plants undergo seasonal transitions such as leaf-out, flowering and fruiting are critical for tracking causes and consequences of phenology shifts, but these data are often sparse and biased globally. These data gaps limit broader generalizations and forecasting improvements in the face of continuing disturbance. One solution to closing such gaps is to document phenology on field images taken by public participants. iNaturalist, in particular, provides global-scale research-grade data and is expanding rapidly. Here we utilize over 53 million field images of plants and millions of human annotations from iNaturalist—data spanning all angiosperms and drawn from across the globe—to train a computer vision model (PhenoVision) to detect the presence of fruits and flowers. PhenoVision utilizes a vision transformer architecture pretrained with a masked autoencoder to improve classification success, and it achieves high accuracy on held-out test images for flower (98.5%) and fruit presence (95%), as well as a high level of agreement with an expert annotator (98.6% for flowers and 90.4% for fruits). Key to producing research-ready phenology data is post-calibration tuning and validation focused on reducing noise inherent in field photographs, and maximizing the true positive rate. We also develop a standardized set of quality metrics and metadata so that results can be used effectively by the community. Finally, we showcase how this effort vastly increases phenology data coverage, including regions of the globe where data have been limited before. Our end products are tuned models, new data resources and an application streamlining discovery and use of those data for the broader research and management community. We close by discussing next steps, including automating phenology annotations, adding new phenology targets, for example leaf phenology, and further integration with other resources to form a global central database integrating all in situ plant phenology resources.",
+		"container-title": "Methods in Ecology and Evolution",
+		"DOI": "10.1111/2041-210X.70081",
+		"ISSN": "2041-210X",
+		"issue": "8",
+		"language": "en",
+		"license": "© 2025 The Author(s). Methods in Ecology and Evolution published by John Wiley & Sons Ltd on behalf of British Ecological Society.",
+		"note": "_eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.70081",
+		"page": "1763-1780",
+		"source": "Wiley Online Library",
+		"title": "PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images",
+		"title-short": "PhenoVision",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.70081",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Dinnage",
+				"given": "Russell"
+			},
+			{
+				"family": "Grady",
+				"given": "Erin"
+			},
+			{
+				"family": "**<sup>§§</sup>Neal**",
+				"given": "Nevyn"
+			},
+			{
+				"family": "Deck",
+				"given": "Jonn"
+			},
+			{
+				"family": "Denny",
+				"given": "Ellen"
+			},
+			{
+				"family": "Walls",
+				"given": "Ramona"
+			},
+			{
+				"family": "Seltzer",
+				"given": "Carrie"
+			},
+			{
+				"family": "Guralnick",
+				"given": "Robert"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					2
+				]
+			]
+		}
+	},
+	
     	{
 		"id": "http://zotero.org/users/1411594/items/KHAKLV2P",
 		"type": "article-journal",
