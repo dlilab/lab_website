@@ -3,11 +3,11 @@
   mugshot = "mugshots/daijiangli.jpg"
   text = [
     "**PI**. Quantitative Ecologist. Interested in how global changes have and will affect ecological communities.",
-    "Assistant professor at the [Department of Ecology and Evolutionary Biology](https://eeb.arizona.edu/), University of Arizona"
+    "Assistant professor at the [Department of Botany](https://botany.wisc.edu/), University of Wisconsin-Madison"
   ]
   role = "Assistant professor"
   [daijiangli.social]
-    email = "dli30@lsu.edu"
+    email = "dli55ATwisc.edu" 
     twitter = "_djli"
     github = "daijiang"
     www = "/"
