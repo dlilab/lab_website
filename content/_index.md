@@ -21,6 +21,13 @@ disable_highlight: true
 
 ## 2025
 
+- 08/20: :wave: Dr. Ming Ni and Dr. Cleber Ten Caten joined the lab as postdocs! Super excited to work together on many important projects!
+- 08/18: :loudspeaker: the lab has moved back to the [Botany department at the University of Wisconsin-Madison](https://botany.wisc.edu/), where Daijiang got his PhD degree from. It was incredibly difficult to say goodbye to so many great colleagues and friends at the University of Arizona! I will miss Tucson!
+- 08/10-08/15: Daijiang attended ESA2025 in Baltimore and gave a talk about the Urban Biological Invasion work. Daijiang also co-led a [workshop on annotating plant phenology for iNaturalist images](https://docs.google.com/presentation/d/1qcH7iVI0bCEjmMA5fuTSbFbKgwbd0tQam50HccZUu10/edit?usp=sharing).  
+- 07/29: :books: Pablo and Daijiang published a perspective paper about [the effects of urbanization on species interactions in Nature Cities](https://www.nature.com/articles/s44284-025-00288-w)! Check it out!
+- 06/30: Grant left the lab and will start his position at Purdue University soon. We are sad to see you go, Grant. But we are also excited about your next journey. Best wishes!
+- 06/02: :wave: Dr. Pu Yan joined the lab as a postdoc. We are so excited to work with you, Pu! 
+- 05/20: Pablo left the lab and returned to Europe to start his next postdoc position in France. We are sad to see you go, Pablo. But we are also excited about your next journey. Best wishes!
 - 05/05-05/06: Daijiang hosted the annual PI meeting for the PhenoBase meeting at Tucson, AZ. We recorded [this fun YouTube short video](https://www.youtube.com/watch?v=HnwBh3d0r3g&t=102s) during that time. 
     {{< youtube HnwBh3d0r3g >}}
 - 04/05-04/11: Daijiang went to iDiv in Germany to attend a [workshop in relating long-term resurvey data and biodiversity experiments](https://www.idiv.de/research/sdiv/working-groups/srealbiofun/).
