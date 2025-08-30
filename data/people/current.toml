@@ -67,6 +67,6 @@
 [you]
   name = "You?"
   mugshot = "images/logo.png"
-  text = ["I am looking for a Technician (start as soon as possible), a postdoc, and 1-2 PhD students. See the [join us](/opportunities/) page for more information",
+  text = ["We are always looking for motivated and talented people to join our team. See the [join us](/opportunities/) page for more information.",
   "Feel free to contact me through :email: to discuss ideas."]
   role = "?"
