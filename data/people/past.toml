@@ -135,3 +135,29 @@
   role = "Undergraduate student"
   when = "2022-2024" 
   
+  
+[PabloMoreno]
+  name = "Pablo Moreno Garcia"
+  mugshot = "mugshots/pablo_moreno.png"
+  text = [
+    "**Postdoc**. Pablo is interested in ecological interactions, specifically in temporal and spatial changes of plant-pollinator relationships in responses to global change. He enjoys hiking, traveling, painting, and reading."
+  ]
+  role = "Postdoc"
+  when = "2022-2025"
+  currentPosition = "Postdoc, Université de Caen Normandie"
+  [PabloMoreno.social]
+    email = "pmoreno@lsu.edu"
+    twitter = "PabloMorenoGar6"
+    
+[YuLiu]
+  name = "Yu (Grant) Liu"
+  mugshot = "mugshots/Yu_Liu.jpeg"
+  text = [
+    "**Postdoc**. Grant is interested in studying distributional patterns and spatial scales of exotic species through phylogenetic analyses. He enjoys sports like volleyball and basketball."
+  ]
+  role = "Postdoc"
+  when = "2023-2025"
+  currentPosition = "Postdoc, Purdue University"
+  [YuLiu.social]
+    email = "yuliu@lsu.edu"
+  

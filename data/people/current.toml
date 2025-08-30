@@ -14,29 +14,43 @@
     orcid = "https://orcid.org/0000-0002-0925-3421"
     cv = "/pdf/Li_cv.pdf"
 
+[PuYan]
+  name = "Pu Yan"
+  mugshot = "mugshots/pu_yan.jpeg"
+  text = [
+    "**Postdoc**. Pu focuses on the impacts of environmental change on ecological communities and the consequences for ecosystem functioning. He enjoys basketball, swimming, hiking, and reading."
+  ]
+  role = "Postdoc"
+  when = "2025-"
+  [PuYan.social]
+    email = "pyan26@wisc.edu"
+    www = "https://scholar.google.com/citations?user=zpX-qCYAAAAJ&hl=en"
 
-[PabloMoreno]
-  name = "Pablo Moreno Garcia"
-  mugshot = "mugshots/pablo_moreno.png"
+
+[MingNi]
+  name = "Ming Ni"
+  mugshot = "mugshots/ming_ni.jpeg"
   text = [
-    "**Postdoc**. Pablo is interested in ecological interactions, specifically in temporal and spatial changes of plant-pollinator relationships in responses to global change. He enjoys hiking, traveling, painting, and reading."
+    "**Postdoc**. Ming studies on biological invasions, plant spatial distributions and migration, and rewilding. He enjoys reading, hiking and many things."
   ]
   role = "Postdoc"
-  when = "2022-"
-  [PabloMoreno.social]
-    email = "pmoreno@lsu.edu"
-    twitter = "PabloMorenoGar6"
+  when = "2025-"
+  [MingNi.social]
+    email = "mni26@wisc.edu"
+    www = "https://niminganhui9.wixsite.com/ecology"
     
-[YuLiu]
-  name = "Yu (Grant) Liu"
-  mugshot = "mugshots/Yu_Liu.jpeg"
+[CleberCaten]
+  name = "Cleber Ten Caten"
+  mugshot = "mugshots/cleber_caten.jpeg"
   text = [
-    "**Postdoc**. Grant is interested in studying distributional patterns and spatial scales of exotic species through phylogenetic analyses. He enjoys sports like volleyball and basketball."
+    "**Postdoc**. Cleber is interested in the distribution of biodiversity patterns across geographic and environmental space."
   ]
   role = "Postdoc"
-  when = "2023-"
-  [YuLiu.social]
-    email = "yuliu@lsu.edu"
+  when = "2025-"
+  [CleberCaten.social]
+    email = ""
+    www = "https://scholar.google.com/citations?user=4tkqzzwAAAAJ&hl=en"
+    
 
   [NevynNeal]
   name = "Nevyn Neal"
@@ -48,7 +62,6 @@
   when = "2024-"
   [NevynNeal.social]
     email = "nneal4@lsu.edu"
-
 
   
 [you]
