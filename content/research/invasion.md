@@ -8,6 +8,9 @@ papers:
   - Baiser2018Comparingspeciesarea
   - Li2018Speciesrichnessphylogenetic
   - Li2018TaxonomicPhylogeneticHomogenization
+  - gubicDataPaper
+  - gubicAnnualReview
+  
 Summary: Non-native species invasions are causing worldwide ecosystem degradation and economic loss. Why some exotic species are invasive? Why some sites are more vulnerable than others?
 ---
 

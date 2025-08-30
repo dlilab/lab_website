@@ -10,6 +10,7 @@ papers:
   - Verheyen2017CombiningBiodiversityResurveys
   - Li2019Climatedrivesloss
   - Guralnick2020Bodysizetrends
+  - nitrogenFixDiversityForestReplot
 Summary: We are interested in how global changes and species interactions shape plant communities and how plant communities have responded to global changes. To achieve this goal, a long-term perspective is needed since many ecological responses take decades to unfold.
 ---
 

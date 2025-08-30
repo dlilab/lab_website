@@ -6,6 +6,8 @@ papers:
  - Li2018hillRtaxonomicfunctional
  - Ives2018rr2packagecalculate
  - Albuquerque2019BayesianLDAmixedmembership
+ - Li2020phyrpackagephylogenetic
+ - phenoVisionDataPaper
 Summary: Understanding and predicting complex ecological dynamics requires data collection (small or large), data cleaning, and appropriate data analysis. We are developing data and software tools to facilitate reproducible and reliable research workflows.
 ---
 

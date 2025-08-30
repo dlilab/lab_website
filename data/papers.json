@@ -1,6 +1,6 @@
 [
   {
-		"id": "http://zotero.org/users/1411594/items/MLJ9ZNEC",
+		"id": "phenoVisionDataPaper",
 		"type": "article-journal",
 		"abstract": "Plant phenology plays a fundamental role in shaping ecosystems, and global change-induced shifts in phenology have cascading impacts on species interactions and ecosystem structure and function. Detailed, high-quality observations of when plants undergo seasonal transitions such as leaf-out, flowering and fruiting are critical for tracking causes and consequences of phenology shifts, but these data are often sparse and biased globally. These data gaps limit broader generalizations and forecasting improvements in the face of continuing disturbance. One solution to closing such gaps is to document phenology on field images taken by public participants. iNaturalist, in particular, provides global-scale research-grade data and is expanding rapidly. Here we utilize over 53 million field images of plants and millions of human annotations from iNaturalist—data spanning all angiosperms and drawn from across the globe—to train a computer vision model (PhenoVision) to detect the presence of fruits and flowers. PhenoVision utilizes a vision transformer architecture pretrained with a masked autoencoder to improve classification success, and it achieves high accuracy on held-out test images for flower (98.5%) and fruit presence (95%), as well as a high level of agreement with an expert annotator (98.6% for flowers and 90.4% for fruits). Key to producing research-ready phenology data is post-calibration tuning and validation focused on reducing noise inherent in field photographs, and maximizing the true positive rate. We also develop a standardized set of quality metrics and metadata so that results can be used effectively by the community. Finally, we showcase how this effort vastly increases phenology data coverage, including regions of the globe where data have been limited before. Our end products are tuned models, new data resources and an application streamlining discovery and use of those data for the broader research and management community. We close by discussing next steps, including automating phenology annotations, adding new phenology targets, for example leaf phenology, and further integration with other resources to form a global central database integrating all in situ plant phenology resources.",
 		"container-title": "Methods in Ecology and Evolution",
@@ -449,7 +449,7 @@
 	},
 
   	{
-		"id": "http://zotero.org/users/1411594/items/AV4VAMC4",
+		"id": "gubicDataPaper",
 		"type": "article-journal",
 		"abstract": "Urban areas are foci for the introduction of non-native plant species, and they often act as launching sites for invasions into the wider environment. Although interest in biological invasions in urban areas is growing rapidly, and the extent and complexity of problems associated with invasions in these systems have increased, data on the composition and numbers of non-native plants in urbanized areas remain scattered and idiosyncratic. We assembled data from multiple sources to create the Global Urban Biological Invasions Compendium (GUBIC) for vascular plants representing 553 urban centres from 61 countries across every continent except Antarctica. The GUBIC repository includes 8140 non-native plant species from 253 families. The number of urban centres in which these non-native species occurred had a log-normal distribution, with 65.2% of non-native species occurring in fewer than 10 urban centres. Practical implications: The dataset has wider applications for urban ecology, invasion biology, macroecology, conservation, urban planning and sustainability. We hope this dataset will stimulate future research in invasion ecology related to the diversity and distributional patterns of non-native flora across urban centres worldwide. Further, this information should aid the early detection and risk assessment of potential invasive species, inform policy development and assist in setting management priorities.",
 		"container-title": "Ecological Solutions and Evidence",
@@ -696,7 +696,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/1411594/items/6VVGBEZZ",
+		"id": "EWEsPhenologyNCC",
 		"type": "article-journal",
 		"abstract": "The ability to explain and predict phenology across space, time and taxa has largely relied on annual average and seasonal climatic variables, ignoring the potential role of extreme weather events (EWEs) in regulating phenology. Yet, EWEs, which are predicted to increase in their severity and frequency with climate change, are also probably strong proximal phenology cues. Here we leveraged expansive community science resources to determine how EWEs affect plant flowering and insect flight beginning, termination and duration for 581 angiosperm species and 172 Lepidoptera across the contiguous United States. Our results provide evidence that plant and insect phenology is highly responsive to EWEs after accounting for seasonal and annual average climatic variables. The impact of EWEs on phenology varies depending on climatic context, and plant and insect responsiveness, while often similar, can be in the opposite directions. This suggests that EWEs may be key drivers of multitrophic phenological mismatches.",
 		"container-title": "Nature Climate Change",
@@ -912,7 +912,7 @@
 	},
   
   {
-		"id": "http://zotero.org/users/1411594/items/6VGHAWPH",
+		"id": "gubicAnnualReview",
 		"type": "article-journal",
 		"container-title": "Annual Review of Ecology, Evolution, and Systematics",
 		"DOI": "10.1146/annurev-ecolsys-102722-012749",
@@ -1007,7 +1007,7 @@
 	},
 	
   {
-		"id": "http://zotero.org/users/1411594/items/LGMV3EI2",
+		"id": "nitrogenFixDiversityForestReplot",
 		"type": "article-journal",
 		"abstract": "Biological nitrogen fixation is a fundamental part of ecosystem functioning. Anthropogenic nitrogen deposition and climate change may, however, limit the competitive advantage of nitrogen-fixing plants, leading to reduced relative diversity of nitrogen-fixing plants. Yet, assessments of changes of nitrogen-fixing plant long-term community diversity are rare. Here, we examine temporal trends in the diversity of nitrogen-fixing plants and their relationships with anthropogenic nitrogen deposition while accounting for changes in temperature and aridity. We used forest-floor vegetation resurveys of temperate forests in Europe and the United States spanning multiple decades. Nitrogen-fixer richness declined as nitrogen deposition increased over time but did not respond to changes in climate. Phylogenetic diversity also declined, as distinct lineages of N-fixers were lost between surveys, but the “winners” and “losers” among nitrogen-fixing lineages varied among study sites, suggesting that losses are context dependent. Anthropogenic nitrogen deposition reduces nitrogen-fixing plant diversity in ways that may strongly affect natural nitrogen fixation.",
 		"container-title": "Science Advances",
