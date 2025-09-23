@@ -21,6 +21,7 @@ disable_highlight: true
 
 ## 2025
 
+- 09/07-09/13: Daijiang and Rohit attended the ESIIL Macrophenology working group at Boulder, CO.
 - 08/20: :wave: Dr. Ming Ni and Dr. Cleber Ten Caten joined the lab as postdocs! Super excited to work together on many important projects!
 - 08/18: :loudspeaker: the lab has moved back to the [Botany department at the University of Wisconsin-Madison](https://botany.wisc.edu/), where Daijiang got his PhD degree from. It was incredibly difficult to say goodbye to so many great colleagues and friends at the University of Arizona! I will miss Tucson!
 - 08/10-08/15: Daijiang attended ESA2025 in Baltimore and gave a talk about the Urban Biological Invasion work. Daijiang also co-led a [workshop on annotating plant phenology for iNaturalist images](https://docs.google.com/presentation/d/1qcH7iVI0bCEjmMA5fuTSbFbKgwbd0tQam50HccZUu10/edit?usp=sharing).  
