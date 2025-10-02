@@ -20,9 +20,9 @@ disable_comments: true
 
 # In press and Preprints
 
+<li> <a href="" target="_blank" title=""><b>Environmental change shpaes understory plant diversity and dominance in boreal forests</b></a>. Xinli Chen, Peter Reich, Xin Chen, Masumi Hisano, Anthony Taylor, Daijiang Li, Scott Chang. <i>Nature Communications</i>. In press.</li>
 
 <!-- <ol>
-<li> <a href="" target="_blank" title=""><b>Environmental change shpaes understory plant diversity and dominance in boreal forests</b></a>. Xinli Chen, Peter Reich, Xin Chen, Masumi Hisano, Anthony Taylor, Daijiang Li, Scott Chang. <i>Nature Communications</i>. In press.</li>
 
 <li> <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.70081" target="_blank" title=""><b>PhenoVision: A framework for automating and delivering research-ready plant phenology data from field images</b></a>. Russell Dinnage, Erin Grady, <sup>§§</sup>Nevyn Neal, Jonn Deck, Ellen Denny, Ramona Walls, Carrie Seltzer, Robert Guralnick, Daijiang Li. <i>Methods in Ecology and Evolution</i>. In press.</li>
 
