@@ -20,7 +20,6 @@ disable_comments: true
 
 # In press and Preprints
 
-<li> <a href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70159" target="_blank" title=""><b>Here, There and Everywhere: Widespread Non-Native Plants in the World's Urban Ecosystems</b></a>. David M. Richardson, Lauren B. Trotta, Myla F. J. Aronson, Benjamin Baiser, Marc W. Cadotte, Marta Carboni, Laura Celesti-Grapow, Sonja Knapp, Ingolf Kühn, Ana Carolina Lacerda de Matos, Zdeňka Lososová, Daijiang Li, Flavia A. Montaño-Centellas, Luke J. Potgieter, Rafael D. Zenni, Petr Pyšek. <i>Global Ecology and Biogeography</i>. In press.</li>
 
 
 <!-- <ol>

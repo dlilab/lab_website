@@ -1,4 +1,108 @@
 [
+  {
+		"id": "http://zotero.org/users/1411594/items/S26JE5Z6",
+		"type": "article-journal",
+		"abstract": "Aim To (a) produce a list of the most widespread naturalised non-native plant species across cities of the world; (b) explore whether cities on different continents are invaded by the same group of widespread naturalised species; and (c) elucidate the origins of the most widespread naturalised urban species. Location Global. Time Period No specific period. Major Taxa Studied Vascular plants. Method Using the most comprehensive and up-to-date dataset of non-native urban floras yet assembled (GUBIC; Global Urban Biological Invasions Compendium), we identified the most widespread naturalised plant species (the global urban florome) by filtering for taxa present across all continents (except Antarctica) and their frequency in urban areas. To assess global patterns of urban plant naturalisation, we conducted ordination analyses and visualised species co-occurrence. We also examined species origins and their environmental impact. Results Among the 7792 naturalised plant species recorded in 553 urban centres, 302 species (4%) were found on all six continents. Of these, 96 species, considered the most widespread species, were present in more than half of urban centres in Oceania, North America and South America; this proportion was higher than in Africa, Asia and Europe. Cities outside Europe and Asia are more homogeneous in terms of the species composition of the most widespread invaders. An analysis of species origins showed that temperate Asia contributed the most species globally, while intercontinental exchange patterns varied, with a notable one-directional flow from North to South America. Main Conclusions Our results suggest that urban ecosystems outside Europe and Asia are more susceptible to recent invasions than those within these two continents. Understanding the composition and origins of these widespread species is crucial for developing coordinated management strategies and improving the resilience of urban biodiversity.",
+		"container-title": "Global Ecology and Biogeography",
+		"DOI": "10.1111/geb.70159",
+		"ISSN": "1466-8238",
+		"issue": "11",
+		"language": "en",
+		"license": "© 2025 The Author(s). Global Ecology and Biogeography published by John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/geb.70159",
+		"page": "e70159",
+		"source": "Wiley Online Library",
+		"title": "Here, There and Everywhere: Widespread Non-Native Plants in the World's Urban Ecosystems",
+		"title-short": "Here, There and Everywhere",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.70159",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Richardson",
+				"given": "David M."
+			},
+			{
+				"family": "Trotta",
+				"given": "Lauren B."
+			},
+			{
+				"family": "Aronson",
+				"given": "Myla F. J."
+			},
+			{
+				"family": "Baiser",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Cadotte",
+				"given": "Marc W."
+			},
+			{
+				"family": "Carboni",
+				"given": "Marta"
+			},
+			{
+				"family": "Celesti-Grapow",
+				"given": "Laura"
+			},
+			{
+				"family": "Knapp",
+				"given": "Sonja"
+			},
+			{
+				"family": "Kühn",
+				"given": "Ingolf"
+			},
+			{
+				"family": "Matos",
+				"given": "Ana Carolina Lacerda",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Lososová",
+				"given": "Zdeňka"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Montaño-Centellas",
+				"given": "Flavia A."
+			},
+			{
+				"family": "Potgieter",
+				"given": "Luke J."
+			},
+			{
+				"family": "Zenni",
+				"given": "Rafael D."
+			},
+			{
+				"family": "Pyšek",
+				"given": "Petr"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					5
+				]
+			]
+		}
+	},
+	
   	{
 		"id": "http://zotero.org/users/1411594/items/SX2YFTG5",
 		"type": "article-journal",
