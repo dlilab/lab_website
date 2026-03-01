@@ -18,6 +18,10 @@ disable_highlight: true
 
 # News
 
+## 2026
+
+- 01/09-01/11: Daijiang attended the breakout meeting of the Society of Systematic Biology in Baton Rouge, LA. This meeting's theme is "The Importance of Natural History Collections".
+
 
 ## 2025
 

@@ -1,4 +1,88 @@
 [
+  	{
+		"id": "http://zotero.org/users/1411594/items/YZNWQXXU",
+		"type": "article-journal",
+		"abstract": "Elton's diversity–invasibility hypothesis, which proposes that diverse communities should be more resistant to biological invasions, has been the focus of much attention. However, little is known about how soil microbes recruited by native plants influence the vulnerability of forest ecosystems to invasion by exotic plants. Here, we present a two-part plant–soil feedback experiment (Part A, diversity effect; Part B, soil inoculation) to examine the effects of soil microorganisms associated with native plant species at different diversity levels on community invasibility of temperate forests, using two invasive plants, Rhus typhina and Phytolacca americana, as test species. Aboveground plant growth and biomass allocation differed significantly between the two invasive plants under simulated diversity, with negative effects on P. americana and positive effects on R. typhina. Both the diversity effects and soil inoculation experiments showed that the growth of P. americana was inhibited, while that of R. typhina was promoted by soil microorganisms. In contrast to the non-mycorrhizal P. americana, the arbuscular mycorrhizal plant R. typhina enhanced its stress tolerance through close associations with soil fungi. Our study suggests that the role of soil microbes in the “diversity–invasibility” relationship might be related to the species identities (e.g., mycorrhizal type) of both invasive and native species. These results shed new light on Elton's diversity–invasibility hypothesis by highlighting the role of plant–soil feedback mechanisms.",
+		"container-title": "Ecological Applications",
+		"DOI": "10.1002/eap.70186",
+		"ISSN": "1939-5582",
+		"issue": "1",
+		"language": "en",
+		"license": "© 2026 The Ecological Society of America.",
+		"note": "_eprint: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/eap.70186",
+		"page": "e70186",
+		"source": "Wiley Online Library",
+		"title": "Soil fungal influence on the diversity–invasibility relationship depends on interacting species identities",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.70186",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Zhuge",
+				"given": "Yanhui"
+			},
+			{
+				"family": "Li",
+				"given": "Haokun"
+			},
+			{
+				"family": "Meng",
+				"given": "Yunhao"
+			},
+			{
+				"family": "Ni",
+				"given": "Guangyan"
+			},
+			{
+				"family": "Bai",
+				"given": "Xinfu"
+			},
+			{
+				"family": "Zhu",
+				"given": "Ping"
+			},
+			{
+				"family": "Song",
+				"given": "Jianqiang"
+			},
+			{
+				"family": "Huang",
+				"given": "Qiaoqiao"
+			},
+			{
+				"family": "Miao",
+				"given": "Wei"
+			},
+			{
+				"family": "Feng",
+				"given": "Ruiyi"
+			},
+			{
+				"family": "Hou",
+				"given": "Yuping"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	
   {
 		"id": "http://zotero.org/users/1411594/items/S26JE5Z6",
 		"type": "article-journal",
