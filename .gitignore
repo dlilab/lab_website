@@ -7,3 +7,5 @@
 public/
 blogdown/
 .hugo_build.lock
+.positai
+.claude
