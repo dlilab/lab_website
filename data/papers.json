@@ -1,4 +1,135 @@
 [
+  {
+		"id": "http://zotero.org/users/1411594/items/J3UYE9ZV",
+		"type": "article-journal",
+		"abstract": "Despite growing investments in nature-based solutions for urban resilience, their design often overlooks a fundamental biological process: evolution. Populations of organisms that sustain nature-based solutions are dynamic and can evolve over time. Rapid evolutionary changes, driven by urban environmental stressors, such as pollution, climate extremes, and habitat fragmentation, can reshape species’ traits, alter interactions, and shift ecosystem functions. We synthesize evidence of evolutionary change across systems that serve as nature-based solutions in urban contexts and show how evolutionary processes can enhance or undermine their performance. We propose four testable hypotheses linking evolutionary dynamics to nature-based solutions and outline design strategies to maintain adaptive potential. Integrating evolution into nature-based solutions is essential to ensure long-term and efficient functionality under accelerating environmental change.",
+		"container-title": "Science",
+		"DOI": "10.1126/science.aea9563",
+		"issue": "6799",
+		"page": "701-708",
+		"publisher": "American Association for the Advancement of Science",
+		"source": "science.org (Atypon)",
+		"title": "Evolving nature-based solutions for urban resilience",
+		"URL": "https://www.science.org/doi/10.1126/science.aea9563",
+		"volume": "392",
+		"author": [
+			{
+				"family": "Alberti",
+				"given": "Marina"
+			},
+			{
+				"family": "Grimm",
+				"given": "Nancy B."
+			},
+			{
+				"family": "Palkovacs",
+				"given": "Eric P."
+			},
+			{
+				"family": "Urban",
+				"given": "Mark C."
+			},
+			{
+				"family": "Verrelli",
+				"given": "Brian C."
+			},
+			{
+				"family": "Anderson",
+				"given": "Pippin"
+			},
+			{
+				"family": "Carlen",
+				"given": "Elizabeth J."
+			},
+			{
+				"family": "Cocciardi",
+				"given": "Jennifer M."
+			},
+			{
+				"family": "Cook",
+				"given": "Elizabeth M."
+			},
+			{
+				"family": "Fortin",
+				"given": "Marie-Josée"
+			},
+			{
+				"family": "Gotanda",
+				"given": "Kiyoko M."
+			},
+			{
+				"family": "Hobbie",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Johnson",
+				"given": "Marc T.J."
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Malesis-Dahm",
+				"given": "Anna N."
+			},
+			{
+				"family": "Miles",
+				"given": "Lindsay S."
+			},
+			{
+				"family": "Munshi-South",
+				"given": "Jason"
+			},
+			{
+				"family": "Román-Palacios",
+				"given": "Cristian"
+			},
+			{
+				"family": "Phifer-Rixey",
+				"given": "Megan"
+			},
+			{
+				"family": "Salazar-Valenzuela",
+				"given": "David"
+			},
+			{
+				"family": "Savage",
+				"given": "Amy M."
+			},
+			{
+				"family": "Snyder",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Winchell",
+				"given": "Kristin M."
+			},
+			{
+				"family": "Zhou",
+				"given": "Yuyu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					5,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
   	{
 		"id": "http://zotero.org/users/1411594/items/YZNWQXXU",
 		"type": "article-journal",
@@ -77,7 +208,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2026"
+					"2026",
+					1,
+					2
 				]
 			]
 		}

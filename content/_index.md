@@ -20,6 +20,13 @@ disable_highlight: true
 
 ## 2026
 
+- 05/15: :books: A paper Daijiang co-authored about Nature-based solutions in cities was published at [_Science_](http://dx.doi.org/10.1126/science.aea9563)!
+- 04/17: Nevyn did a good job during his first meeting with his PhD committee! Congrats, Nevyn!
+- 03/30-04/03: Daijiang and Cleber participated a Reshaping Nature Symposium at the University of Florida (theme: invasive species and biodiversity on a changing planet). We also spend two days working on a project, super productive and fun to catch up with old friends and meet new ones!
+- 03/23-03/28: Daijiang led a working group at ESIIL in Boulder, CO to work on urban species invasions. We had a really productive, fun week and we are excited about the projects we have planned for the future!
+  + Daijiang also [gave a talk](https://earthlab.colorado.edu/blog/global-urban-biological-invasion-compendium) with Dr. Ben Baiser for the Earth Lab seminar series about our work on urban species invasions.
+  + Daijiang, Ming, and Marc biked around Boulder for ~60 km after the working group!
+- 03/06: :books: Previous postdoc Grant's paper on species invasions using NEON data was accepted by _Diversity and distributions_! Congrats, Grant!
 - 01/09-01/11: Daijiang attended the breakout meeting of the Society of Systematic Biology in Baton Rouge, LA. This meeting's theme is "The Importance of Natural History Collections".
 
 
