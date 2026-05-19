@@ -1,4 +1,50 @@
 [
+    {
+		"id": "http://zotero.org/users/1411594/items/BBKJEE5Y",
+		"type": "article-journal",
+		"abstract": "Aim Global climate change and increasing human disturbance are reshaping plant invasion patterns, yet it remains unclear how climate and disturbance interact to influence non-native plant diversity and how these effects are mediated by functional trait differences between native and non-native species. We aimed to quantify the joint and interactive effects of climate, human disturbance and trait differences on non-native plant diversity. Location Continental United States. Methods Using vegetation data from 47 terrestrial sites of the U.S. National Ecological Observatory Network (NEON), we analysed plot-level non-native plant diversity in relation to climatic gradients, human footprint index (HFP) and functional trait differences between co-occurring native and non-native species. Trait differences were quantified as plot-level contrasts in mean values of specific leaf area, plant height, leaf nitrogen content and seed mass, and were treated as explanatory variables rather than measures of diversity. Linear mixed-effects models were used to account for the hierarchical sampling design. Results Non-native plant diversity peaked at intermediate temperatures. Human disturbance altered moisture constraints on non-native plant diversity, reducing sensitivity to aridity gradients under high disturbance. Functional trait differences significantly mediated these patterns. In humid environments, disturbance favoured non-native species with relatively conservative traits (e.g., shorter height and lower specific leaf area), whereas in arid environments, non-native species with more acquisitive traits were more likely to establish. Main Conclusions Our results demonstrate that non-native plant diversity is shaped by context-dependent interactions among climate, human disturbance and functional trait differences between native and non-native species. By linking environmental gradients to trait-mediated invasion outcomes, this study provides trait-based insights into Darwin's naturalisation conundrum and improves predictions of plant invasions under ongoing global change.",
+		"container-title": "Diversity and Distributions",
+		"DOI": "10.1111/ddi.70180",
+		"ISSN": "1472-4642",
+		"issue": "5",
+		"language": "en",
+		"license": "© 2026 The Author(s). Diversity and Distributions published by John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.70180",
+		"page": "e70180",
+		"source": "Wiley Online Library",
+		"title": "Functional Traits Mediate the Interactive Effects of Climate and Human Disturbance on Non-Native Plant Diversity",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ddi.70180",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Yu"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					5,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					1
+				]
+			]
+		}
+	},
+	
   {
 		"id": "http://zotero.org/users/1411594/items/J3UYE9ZV",
 		"type": "article-journal",

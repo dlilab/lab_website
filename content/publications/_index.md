@@ -20,7 +20,6 @@ disable_comments: true
 
 # In press and Preprints
 
-<li> <b>Functional traits mediate the interactive effects of climate and human disturbance on non-native plant diversity</b>. <sup>§</sup>Yu Liu, Daijiang Li. <i>Diversity and distributions</i>. In press.</li>
 
 <li> <b>Turning a new leaf: PhenoVision provides leaf phenology data at the global scale</b>. Erin Grady, Ellen Denny, Carrie Seltzer, John Deck, Daijiang Li, Russell Dinnage, Rob Guralnick <i>Applications in Plant Sciences</i>. In press.</li>
 
