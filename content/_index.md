@@ -5,7 +5,7 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-<div id="widerimg">
+<div class="widerimg">
     <img src="/images/yellow_trout_lily.jpg">
 </div>
 
@@ -68,7 +68,7 @@ disable_highlight: true
 
 ## 2023
 
-<div id="widerimg">
+<div class="widerimg">
     <img src="/images/lab_group_2023.jpeg">
      <p class="condensedlines">Three years in, and we finally had a chance to take an in-person lab group picture (05/05)! It has been a really challenging journey so far but I am glad that we have a great team now. Left to right: Ariel Mata, Sydne Martin, Tina Nguyen, Daijiang Li, Rohit Jha, Pablo Moreno, Evelin Reyes, Flavia Montaño.</p>
 </div>

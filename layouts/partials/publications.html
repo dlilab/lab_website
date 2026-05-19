@@ -36,41 +36,12 @@
             </a>
         </span>
 
-        {{ if isset . "github" }}
-        <span class="url link badge">
-        <a href="{{ .github}}" target="_blank" title="Code on Github"><i class="fab fa-github"></i></a>
-        </span>
-        {{ end }}
-
-        {{ if isset . "dryad" }}
-        <span class="url link badge">
-        <a href="{{ .dryad}}" target="_blank" title="Data repository at Dryad"><i class="ai ai-dryad"></i></a>
-        </span>
-        {{ end }}
-
-        {{ if isset . "figshare" }}
-        <span class="url link badge">
-        <a href="{{ .figshare}}" target="_blank" title="Data repository at Figshare"><i class="ai ai-figshare"></i></a>
-        </span>
-        {{ end }}
-
-        {{ if isset . "biorxiv" }}
-        <span class="url link badge">
-        <a href="{{ .biorxiv}}" target="_blank" title="Preprint version"><i class="ai ai-biorxiv-square"></i></a>
-        </span>
-        {{ end }}
-
-        {{ if isset . "coverImage" }}
-        <span class="url link badge">
-        <a href="{{ .coverImage}}" target="_blank" title="Cover paper of the issue"><i class="fas fa-file-image"></i></a>
-        </span>
-        {{ end }}
-
-        {{ if isset . "EditorChoice" }}
-        <span class="url link badge">
-        <a href="{{ .EditorChoice}}" target="_blank" title="Editor's Choice"><i class="fas fa-marker"></i></a>
-        </span>
-        {{ end }}
+        {{ partial "badge.html" (dict "url" .github      "title" "Code on Github"                "icon" "fab fa-github") }}
+        {{ partial "badge.html" (dict "url" .dryad       "title" "Data repository at Dryad"       "icon" "ai ai-dryad") }}
+        {{ partial "badge.html" (dict "url" .figshare    "title" "Data repository at Figshare"    "icon" "ai ai-figshare") }}
+        {{ partial "badge.html" (dict "url" .biorxiv     "title" "Preprint version"               "icon" "ai ai-biorxiv-square") }}
+        {{ partial "badge.html" (dict "url" .coverImage  "title" "Cover paper of the issue"       "icon" "fas fa-file-image") }}
+        {{ partial "badge.html" (dict "url" .EditorChoice "title" "Editor's Choice"               "icon" "fas fa-marker") }}
 
 
         {{ if isset . "pressrelease" }}

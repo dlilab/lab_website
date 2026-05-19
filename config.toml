@@ -52,6 +52,7 @@ enableEmoji = true
     footer = "&copy; [the Li lab](/) at [the UW-Madison](https://www.wisc.edu/) 2020 -"
     dateFormat = "2006/01/02"
     githubContentURL = "https://github.com/dlilab/lab_website/edit/master/content/"
+    googleAnalyticsID = "UA-175316934-1"
     customJS = ["js/external-link.js", "js/alt-title.js", "js/header-link.js"]
 
   highlightjsVersion = "9.12.0"

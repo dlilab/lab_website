@@ -2,8 +2,6 @@
 
 <main class="content" role="main">
     <section class="container">
-        {{ .Content }}
-
 
         {{ $publications := .Site.Data.papers }}
 
@@ -22,8 +20,24 @@
             {{ $allyear.Add "pyear" (slice $year2) }}
         {{ end }}
 
+        {{ $uniqueYears := $allyear.Get "pyear" | uniq }}
+
+        {{ .Content }}
+
+        <h2>Jump to year</h2>
+        <div style="text-align: center;">
+        {{ range $i, $year := $uniqueYears }}{{ if $i }}, {{ end }}<a href="#{{ $year }}">{{ $year }}</a>{{ end }}
+        </div>
+
+        <p>
+        <strong>Bold</strong> names denote lab members<br>
+        <sup>§</sup> denotes postdoc mentee co-author<br>
+        <sup>§§</sup> denotes graduate student mentee co-author<br>
+        <i class="ai ai-doi"></i>: journal page link &nbsp; <i class="ai ai-google-scholar"></i>: Google Scholar link &nbsp; <i class="fab fa-github"></i>: Related GitHub repository
+        </p>
+
         <ol reversed>
-        {{ range $ayear := ($allyear.Get "pyear" | uniq) }}
+        {{ range $ayear := $uniqueYears }}
           <H2 id={{ $ayear }}> {{ $ayear }} </H2>
             {{ range $id := ($idyear.Get "date") }}
                 {{ range $pub := $publications }}

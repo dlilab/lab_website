@@ -5,7 +5,7 @@ disable_highlight: true
 disable_comments: true
 ---
 
-<div id="widerimg">
+<div class="widerimg">
     <img src="/images/journal_covers.jpeg">
 </div>
 
@@ -35,15 +35,3 @@ disable_comments: true
 
 # Published
 
-## Jump to year
-
-<div style="text-align: center;">
-
-[2026](#2026), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016 and before](#2016)
-
-</div>
-
-**Bold** names denote lab members  
-<sup>§</sup> denotes postdoc mentee co-author  
-<sup>§§</sup> denotes graduate student mentee co-author  
-<i class="ai ai-doi"></i>: journal page link &nbsp; <i class="ai ai-google-scholar"></i>: Google Scholar link &nbsp;  <i class="fab fa-github"></i>: Related GitHub repository  
