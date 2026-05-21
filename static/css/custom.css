@@ -235,17 +235,43 @@ body {
 
 .paper .badge a {
   color: var(--color-main);
+  border-bottom: none;
 }
 
 .paper .badge a:hover {
   color: var(--color-accent);
+  border-bottom: none;
 }
 
 .altmetric-embed,
 .altmetric-embed img {
   display: inline-block !important;
-  vertical-align: 1px !important;
+  vertical-align: middle !important;
+  vertical-align: -1.5px !important;
   margin-left: 1px !important;
+  transition: filter 0.2s !important;
+}
+
+.altmetric-embed a:hover img {
+  filter: brightness(1.2) saturate(1.4) !important;
+}
+
+.__dimensions_badge_embed__,
+.__dimensions_badge_embed__ img {
+  display: inline-block !important;
+  vertical-align: 2.8px !important;
+  margin-left: 1px !important;
+  transition: filter 0.2s !important;
+}
+
+.__dimensions_badge_embed__ a {
+  border-bottom: none !important;
+}
+
+.__dimensions_badge_embed__ a:hover,
+.__dimensions_badge_embed__ a:hover img,
+.__dimensions_badge_embed__ a:hover svg {
+  filter: brightness(1.2) saturate(1.4) !important;
 }
 
 .fullwidth-img {
