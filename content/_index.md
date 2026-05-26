@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2026
 
+- 05/22: :champagne: Our proposal to study the impacts of extreme weather events on insects was [funded by NSF](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2544884)! We are super excited to work on this project with a great team of collaborators!
 - 05/15: :books: A paper Daijiang co-authored about Nature-based solutions in cities was published at [_Science_](http://dx.doi.org/10.1126/science.aea9563)!
 - 04/17: Nevyn did a good job during his first meeting with his PhD committee! Congrats, Nevyn!
 - 03/30-04/03: Daijiang and Cleber participated a Reshaping Nature Symposium at the University of Florida (theme: invasive species and biodiversity on a changing planet). We also spend two days working on a project, super productive and fun to catch up with old friends and meet new ones!
