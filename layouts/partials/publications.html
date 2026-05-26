@@ -1,18 +1,35 @@
+{{- $labLookup := .labLookup -}}
+{{- with .pub -}}
 <div class="paper">
     {{ $year := index .issued "date-parts" 0 0 | string }}
     <div class="title">
         {{ title .title | markdownify }}
     </div>
     <div class="authors">
-        {{ range $author := .author }}
-          {{ if (and (eq $author.family "Li") (eq $author.given "Daijiang")) }}
-             <span class="family"><b>Li D.</b>,</span>
-          {{ else }}
-        <span class="family">{{ $author.family | markdownify }}</span>
-        <span class="given">{{ range $names := split $author.given " " }}
-            {{ substr $names 0 1 }}.{{ end }},</span>
-         {{ end }}
-        {{ end }}
+        {{- range $author := .author -}}
+          {{- $given  := $author.given -}}
+          {{- $family := $author.family -}}
+          {{- if eq $family "..." -}}
+            <span>...,</span>
+          {{- else if and (eq $family "Li") (hasPrefix $given "Daijiang") -}}
+            <span class="family"><b>Li D.</b>,</span>
+          {{- else -}}
+            {{- $givenFirst := "" -}}
+            {{- with $given -}}{{- $givenFirst = lower (index (split . " ") 0) -}}{{- end -}}
+            {{- $key  := printf "%s|%s" $givenFirst (lower $family) -}}
+            {{- $role := index $labLookup $key -}}
+            {{- $symbol := "" -}}
+            {{- if strings.Contains $role "PhD"    -}}{{- $symbol = "§§" -}}{{- end -}}
+            {{- if strings.Contains $role "Postdoc" -}}{{- $symbol = "§"  -}}{{- end -}}
+            {{- if $role -}}
+              <span class="family">{{ if $symbol }}<sup>{{ $symbol }}</sup>{{ end }}<b>{{ $family }}</b></span>
+              <span class="given">{{ range $n := split $given " " }}{{ substr $n 0 1 }}.{{ end }},</span>
+            {{- else -}}
+              <span class="family">{{ $family }}</span>
+              <span class="given">{{ range $n := split $given " " }}{{ substr $n 0 1 }}.{{ end }},</span>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
     </div>
     <div class="metadata">
         {{- /* <!–– <span class="year"> {{ $year }} </span> ––> */ -}}
@@ -70,3 +87,4 @@
 
     </div>
 </div>
+{{- end -}}

@@ -1,5 +1,5 @@
 [
-    {
+	{
 		"id": "http://zotero.org/users/1411594/items/BBKJEE5Y",
 		"type": "article-journal",
 		"abstract": "Aim Global climate change and increasing human disturbance are reshaping plant invasion patterns, yet it remains unclear how climate and disturbance interact to influence non-native plant diversity and how these effects are mediated by functional trait differences between native and non-native species. We aimed to quantify the joint and interactive effects of climate, human disturbance and trait differences on non-native plant diversity. Location Continental United States. Methods Using vegetation data from 47 terrestrial sites of the U.S. National Ecological Observatory Network (NEON), we analysed plot-level non-native plant diversity in relation to climatic gradients, human footprint index (HFP) and functional trait differences between co-occurring native and non-native species. Trait differences were quantified as plot-level contrasts in mean values of specific leaf area, plant height, leaf nitrogen content and seed mass, and were treated as explanatory variables rather than measures of diversity. Linear mixed-effects models were used to account for the hierarchical sampling design. Results Non-native plant diversity peaked at intermediate temperatures. Human disturbance altered moisture constraints on non-native plant diversity, reducing sensitivity to aridity gradients under high disturbance. Functional trait differences significantly mediated these patterns. In humid environments, disturbance favoured non-native species with relatively conservative traits (e.g., shorter height and lower specific leaf area), whereas in arid environments, non-native species with more acquisitive traits were more likely to establish. Main Conclusions Our results demonstrate that non-native plant diversity is shaped by context-dependent interactions among climate, human disturbance and functional trait differences between native and non-native species. By linking environmental gradients to trait-mediated invasion outcomes, this study provides trait-based insights into Darwin's naturalisation conundrum and improves predictions of plant invasions under ongoing global change.",
@@ -44,8 +44,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "http://zotero.org/users/1411594/items/J3UYE9ZV",
 		"type": "article-journal",
 		"abstract": "Despite growing investments in nature-based solutions for urban resilience, their design often overlooks a fundamental biological process: evolution. Populations of organisms that sustain nature-based solutions are dynamic and can evolve over time. Rapid evolutionary changes, driven by urban environmental stressors, such as pollution, climate extremes, and habitat fragmentation, can reshape species’ traits, alter interactions, and shift ecosystem functions. We synthesize evidence of evolutionary change across systems that serve as nature-based solutions in urban contexts and show how evolutionary processes can enhance or undermine their performance. We propose four testable hypotheses linking evolutionary dynamics to nature-based solutions and outline design strategies to maintain adaptive potential. Integrating evolution into nature-based solutions is essential to ensure long-term and efficient functionality under accelerating environmental change.",
@@ -175,8 +174,7 @@
 			]
 		}
 	},
-	
-  	{
+	{
 		"id": "http://zotero.org/users/1411594/items/YZNWQXXU",
 		"type": "article-journal",
 		"abstract": "Elton's diversity–invasibility hypothesis, which proposes that diverse communities should be more resistant to biological invasions, has been the focus of much attention. However, little is known about how soil microbes recruited by native plants influence the vulnerability of forest ecosystems to invasion by exotic plants. Here, we present a two-part plant–soil feedback experiment (Part A, diversity effect; Part B, soil inoculation) to examine the effects of soil microorganisms associated with native plant species at different diversity levels on community invasibility of temperate forests, using two invasive plants, Rhus typhina and Phytolacca americana, as test species. Aboveground plant growth and biomass allocation differed significantly between the two invasive plants under simulated diversity, with negative effects on P. americana and positive effects on R. typhina. Both the diversity effects and soil inoculation experiments showed that the growth of P. americana was inhibited, while that of R. typhina was promoted by soil microorganisms. In contrast to the non-mycorrhizal P. americana, the arbuscular mycorrhizal plant R. typhina enhanced its stress tolerance through close associations with soil fungi. Our study suggests that the role of soil microbes in the “diversity–invasibility” relationship might be related to the species identities (e.g., mycorrhizal type) of both invasive and native species. These results shed new light on Elton's diversity–invasibility hypothesis by highlighting the role of plant–soil feedback mechanisms.",
@@ -261,8 +259,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "http://zotero.org/users/1411594/items/S26JE5Z6",
 		"type": "article-journal",
 		"abstract": "Aim To (a) produce a list of the most widespread naturalised non-native plant species across cities of the world; (b) explore whether cities on different continents are invaded by the same group of widespread naturalised species; and (c) elucidate the origins of the most widespread naturalised urban species. Location Global. Time Period No specific period. Major Taxa Studied Vascular plants. Method Using the most comprehensive and up-to-date dataset of non-native urban floras yet assembled (GUBIC; Global Urban Biological Invasions Compendium), we identified the most widespread naturalised plant species (the global urban florome) by filtering for taxa present across all continents (except Antarctica) and their frequency in urban areas. To assess global patterns of urban plant naturalisation, we conducted ordination analyses and visualised species co-occurrence. We also examined species origins and their environmental impact. Results Among the 7792 naturalised plant species recorded in 553 urban centres, 302 species (4%) were found on all six continents. Of these, 96 species, considered the most widespread species, were present in more than half of urban centres in Oceania, North America and South America; this proportion was higher than in Africa, Asia and Europe. Cities outside Europe and Asia are more homogeneous in terms of the species composition of the most widespread invaders. An analysis of species origins showed that temperate Asia contributed the most species globally, while intercontinental exchange patterns varied, with a notable one-directional flow from North to South America. Main Conclusions Our results suggest that urban ecosystems outside Europe and Asia are more susceptible to recent invasions than those within these two continents. Understanding the composition and origins of these widespread species is crucial for developing coordinated management strategies and improving the resilience of urban biodiversity.",
@@ -365,8 +362,7 @@
 			]
 		}
 	},
-	
-  	{
+	{
 		"id": "http://zotero.org/users/1411594/items/SX2YFTG5",
 		"type": "article-journal",
 		"abstract": "Ongoing environmental change threatens ecosystems worldwide, yet little is known about its effect on understory plant diversity, which underpins ecosystem functioning and sustainability. Here, we use Canada’s National Forest Inventory database to evaluate decade-long changes in local plant diversity within understory communities. Species richness of shrubs and bryophytes increases by 8 and 11% per decade, while species evenness of herbs and bryophytes declines by 14 and 8%, respectively. Temporal increases in species richness and declines in species evenness are both associated with rising temperature, nitrogen deposition, water availability, and increased temperature seasonality. Additionally, the proportion of bryophyte biomass increases, whereas that of shrub biomass decreases over time, with the effects of temperature seasonality and water availability on these temporal shifts strongly dependent on overstory basal area. Species richness is positively associated with biomass across shrubs, herbs, and bryophytes, suggesting that changes in diversity alter understory biomass distribution under environmental changes. Contrary to the common view that climate warming uniformly reduces biodiversity, our findings show that understory communities undergo complex and dynamic shifts in plant diversity and composition. We suggest that environmental change-driven shifts in resource availability and heterogeneity may shape understory composition and species dominance, ultimately influencing forest ecosystem function.",
@@ -432,8 +428,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "phenoVisionDataPaper",
 		"type": "article-journal",
 		"abstract": "Plant phenology plays a fundamental role in shaping ecosystems, and global change-induced shifts in phenology have cascading impacts on species interactions and ecosystem structure and function. Detailed, high-quality observations of when plants undergo seasonal transitions such as leaf-out, flowering and fruiting are critical for tracking causes and consequences of phenology shifts, but these data are often sparse and biased globally. These data gaps limit broader generalizations and forecasting improvements in the face of continuing disturbance. One solution to closing such gaps is to document phenology on field images taken by public participants. iNaturalist, in particular, provides global-scale research-grade data and is expanding rapidly. Here we utilize over 53 million field images of plants and millions of human annotations from iNaturalist—data spanning all angiosperms and drawn from across the globe—to train a computer vision model (PhenoVision) to detect the presence of fruits and flowers. PhenoVision utilizes a vision transformer architecture pretrained with a masked autoencoder to improve classification success, and it achieves high accuracy on held-out test images for flower (98.5%) and fruit presence (95%), as well as a high level of agreement with an expert annotator (98.6% for flowers and 90.4% for fruits). Key to producing research-ready phenology data is post-calibration tuning and validation focused on reducing noise inherent in field photographs, and maximizing the true positive rate. We also develop a standardized set of quality metrics and metadata so that results can be used effectively by the community. Finally, we showcase how this effort vastly increases phenology data coverage, including regions of the globe where data have been limited before. Our end products are tuned models, new data resources and an application streamlining discovery and use of those data for the broader research and management community. We close by discussing next steps, including automating phenology annotations, adding new phenology targets, for example leaf phenology, and further integration with other resources to form a global central database integrating all in situ plant phenology resources.",
@@ -460,7 +455,7 @@
 				"given": "Erin"
 			},
 			{
-				"family": "**<sup>§§</sup>Neal**",
+				"family": "Neal",
 				"given": "Nevyn"
 			},
 			{
@@ -507,8 +502,7 @@
 			]
 		}
 	},
-	
-    	{
+	{
 		"id": "http://zotero.org/users/1411594/items/KHAKLV2P",
 		"type": "article-journal",
 		"abstract": "Cities are renowned for catalyzing human interactions, but their distinctive environments also affect the interactions of other species. We discuss how urbanization affects species interactions and identify key knowledge gaps. With this context and using an eco-evolutionary lens, we frame urban environments as providing three consecutive filters: the presence of species, their co-occurrence and their relationships. Our framework offers a structured model for studying and managing urban species and environments to facilitate conservation and ecosystem services, benefiting urbanites of all stripes.",
@@ -525,7 +519,7 @@
 		"URL": "https://www.nature.com/articles/s44284-025-00288-w",
 		"author": [
 			{
-				"family": "**<sup>§</sup>Moreno-García**",
+				"family": "Moreno-García",
 				"given": "Pablo"
 			},
 			{
@@ -656,7 +650,7 @@
 				"family": "..."
 			},
 			{
-				"family": "**<sup>§§</sup>Jha**",
+				"family": "Jha",
 				"given": "Rohit"
 			},
 			{
@@ -670,7 +664,7 @@
 				"family": "..."
 			},
 			{
-				"family": "**<sup>§§</sup>Reyes**",
+				"family": "Reyes",
 				"given": "Evelin"
 			},
 			{
@@ -699,8 +693,7 @@
 				]
 			]
 		}
-	}, 
-	
+	},
 	{
 		"id": "http://zotero.org/users/1411594/items/89BFEGLA",
 		"type": "article-journal",
@@ -881,8 +874,7 @@
 			]
 		}
 	},
-
-  	{
+	{
 		"id": "gubicDataPaper",
 		"type": "article-journal",
 		"abstract": "Urban areas are foci for the introduction of non-native plant species, and they often act as launching sites for invasions into the wider environment. Although interest in biological invasions in urban areas is growing rapidly, and the extent and complexity of problems associated with invasions in these systems have increased, data on the composition and numbers of non-native plants in urbanized areas remain scattered and idiosyncratic. We assembled data from multiple sources to create the Global Urban Biological Invasions Compendium (GUBIC) for vascular plants representing 553 urban centres from 61 countries across every continent except Antarctica. The GUBIC repository includes 8140 non-native plant species from 253 families. The number of urban centres in which these non-native species occurred had a log-normal distribution, with 65.2% of non-native species occurring in fewer than 10 urban centres. Practical implications: The dataset has wider applications for urban ecology, invasion biology, macroecology, conservation, urban planning and sustainability. We hope this dataset will stimulate future research in invasion ecology related to the diversity and distributional patterns of non-native flora across urban centres worldwide. Further, this information should aid the early detection and risk assessment of potential invasive species, inform policy development and assist in setting management priorities.",
@@ -945,7 +937,7 @@
 				"given": "Zdeňka"
 			},
 			{
-				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"family": "Montaño-Centellas",
 				"given": "Flavia A."
 			},
 			{
@@ -1163,9 +1155,15 @@
 			}
 		],
 		"pressrelease": [
-		  {"presslink": "https://www.nature.com/articles/s41559-025-02679-7"},
-		  {"presslink": "https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events"},
-		  {"presslink": "https://www.earth.com/news/natures-timing-is-drastically-changing-due-to-extreme-weather/"}
+			{
+				"presslink": "https://www.nature.com/articles/s41559-025-02679-7"
+			},
+			{
+				"presslink": "https://news.arizona.edu/news/yucca-and-moth-how-extreme-weather-impacts-timing-biological-events"
+			},
+			{
+				"presslink": "https://www.earth.com/news/natures-timing-is-drastically-changing-due-to-extreme-weather/"
+			}
 		],
 		"accessed": {
 			"date-parts": [
@@ -1186,8 +1184,7 @@
 			]
 		}
 	},
-	
-  	{
+	{
 		"id": "http://zotero.org/users/1411594/items/M9HHZTQC",
 		"type": "article-journal",
 		"container-title": "Biological Invasions",
@@ -1204,7 +1201,7 @@
 		"volume": "27",
 		"author": [
 			{
-				"family": "**<sup>§§</sup>Jha**",
+				"family": "Jha",
 				"given": "Rohit Raj"
 			},
 			{
@@ -1230,9 +1227,8 @@
 				]
 			]
 		}
-	}, 
-	
-  	{
+	},
+	{
 		"id": "http://zotero.org/users/1411594/items/CWKNUK3L",
 		"type": "article-journal",
 		"container-title": "Basic and Applied Ecology",
@@ -1246,7 +1242,7 @@
 		"volume": "83",
 		"author": [
 			{
-				"family": "**<sup>§</sup>Moreno-García**",
+				"family": "Moreno-García",
 				"given": "Pablo"
 			},
 			{
@@ -1285,7 +1281,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/YDQ976ZB",
 		"type": "article-journal",
@@ -1344,8 +1339,7 @@
 			]
 		}
 	},
-  
-  {
+	{
 		"id": "gubicAnnualReview",
 		"type": "article-journal",
 		"container-title": "Annual Review of Ecology, Evolution, and Systematics",
@@ -1398,7 +1392,7 @@
 				"given": "Zdeňka"
 			},
 			{
-				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"family": "Montaño-Centellas",
 				"given": "Flavia A."
 			},
 			{
@@ -1439,8 +1433,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "nitrogenFixDiversityForestReplot",
 		"type": "article-journal",
 		"abstract": "Biological nitrogen fixation is a fundamental part of ecosystem functioning. Anthropogenic nitrogen deposition and climate change may, however, limit the competitive advantage of nitrogen-fixing plants, leading to reduced relative diversity of nitrogen-fixing plants. Yet, assessments of changes of nitrogen-fixing plant long-term community diversity are rare. Here, we examine temporal trends in the diversity of nitrogen-fixing plants and their relationships with anthropogenic nitrogen deposition while accounting for changes in temperature and aridity. We used forest-floor vegetation resurveys of temperate forests in Europe and the United States spanning multiple decades. Nitrogen-fixer richness declined as nitrogen deposition increased over time but did not respond to changes in climate. Phylogenetic diversity also declined, as distinct lineages of N-fixers were lost between surveys, but the “winners” and “losers” among nitrogen-fixing lineages varied among study sites, suggesting that losses are context dependent. Anthropogenic nitrogen deposition reduces nitrogen-fixing plant diversity in ways that may strongly affect natural nitrogen fixation.",
@@ -1455,23 +1448,23 @@
 		"volume": "10",
 		"author": [
 			{
-				"family": "**<sup>§</sup>Moreno-García**",
+				"family": "Moreno-García",
 				"given": "Pablo"
 			},
 			{
-				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"family": "Montaño-Centellas",
 				"given": "Flavia"
 			},
 			{
-				"family": "**<sup>§</sup>Liu**",
+				"family": "Liu",
 				"given": "Yu"
 			},
 			{
-				"family": "**<sup>§§</sup>Reyes-Mendez**",
+				"family": "Reyes-Mendez",
 				"given": "Evelin Y."
 			},
 			{
-				"family": "**<sup>§§</sup>Jha**",
+				"family": "Jha",
 				"given": "Rohit Raj"
 			},
 			{
@@ -1632,8 +1625,7 @@
 			]
 		}
 	},
-	
-  	{
+	{
 		"id": "http://zotero.org/users/1411594/items/75282SQC",
 		"type": "article-journal",
 		"container-title": "Ecology and Evolution",
@@ -1658,7 +1650,7 @@
 				"given": "Meredith J."
 			},
 			{
-				"family": "**<sup>§</sup>Moreno-García**",
+				"family": "Moreno-García",
 				"given": "Pablo"
 			},
 			{
@@ -1769,8 +1761,7 @@
 			]
 		}
 	},
-  
-  {
+	{
 		"id": "http://zotero.org/users/1411594/items/XF7AVFP2",
 		"type": "article-journal",
 		"container-title": "New Phytologist",
@@ -1800,7 +1791,7 @@
 				"given": "Daijiang"
 			},
 			{
-				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"family": "Montaño-Centellas",
 				"given": "Flavia A."
 			},
 			{
@@ -1941,8 +1932,7 @@
 			]
 		}
 	},
-	
-		{
+	{
 		"id": "http://zotero.org/users/1411594/items/RUWL5QV9",
 		"type": "article-journal",
 		"container-title": "Ecography",
@@ -2007,8 +1997,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "http://zotero.org/users/1411594/items/47Q25JQA",
 		"type": "article-journal",
 		"container-title": "Functional Ecology",
@@ -2065,8 +2054,7 @@
 			]
 		}
 	},
-	
-		{
+	{
 		"id": "http://zotero.org/users/1411594/items/LMRS2LDQ",
 		"type": "article-journal",
 		"container-title": "Science China Life Sciences",
@@ -2130,7 +2118,6 @@
 			]
 		}
 	},
-	
 	{
 		"type": "article-journal",
 		"container-title": "Teaching Issues and Experiments in Ecology",
@@ -2168,7 +2155,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/WUBBSSE8",
 		"type": "article-journal",
@@ -2221,7 +2207,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/FRVNVRFC",
 		"type": "article-journal",
@@ -2293,7 +2278,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "li2023rtrees",
 		"type": "article-journal",
@@ -2335,8 +2319,7 @@
 			]
 		}
 	},
-	
-  	{
+	{
 		"id": "http://zotero.org/users/1411594/items/MAXWAH7C",
 		"type": "article-journal",
 		"container-title": "Global Ecology and Biogeography",
@@ -2352,7 +2335,7 @@
 		"volume": "32",
 		"author": [
 			{
-				"family": "**<sup>§</sup>Montaño-Centellas**",
+				"family": "Montaño-Centellas",
 				"given": "Flavia"
 			},
 			{
@@ -2454,7 +2437,7 @@
 			]
 		}
 	},
-  {
+	{
 		"id": "http://zotero.org/users/1411594/items/M7XP2IAA",
 		"type": "article-journal",
 		"abstract": "Aim Urbanization is becoming one of the most important drivers of global environmental change as human population and economic development rapidly increase. However, the effects of urbanization on plant phenology are still poorly understood, especially for leaf senescence and growing season length across large spatial scales. We aimed to fill this knowledge gap by combining in situ observations and remote sensing phenological data. Location The United States and Europe. Time period 2009–2018. Major taxa studied Vascular plants. Methods We divided the United States and Europe into 10 km by 10 km grid cells. We estimated leaf senescence dates for 93 species, and growing season length for a subset of 54 of these species, for grid cells with enough data using a database with >22 million in situ phenology observations. We also estimated growing season lengths at the community level for the Eastern Temperate Forest ecoregion in the US using remote sensing data. We then investigated effects of urbanization (using human population density as a proxy), temperature, and their interactions on leaf senescence and growing season lengths using linear mixed models. Results Urbanization and warmer regional temperature both delayed plant leaf senescence. In addition, the effects of urbanization on leaf senescence and growing season lengths depended on climate context: urbanization delayed leaf senescence and extended growing season length in cold regions; however, urbanization advanced leaf senescence and shortened growing season length in warm regions, implying the positive effects of urbanization on growing season length in cold regions may be weaker in a warmer future. Main conclusions Our study provides strong empirical evidence that the influence of urbanization on plant phenology and growing season length varies with regional temperature. Our results have important implications for predicting plant phenology and growing season length in a warmer and more urbanized future.",
@@ -2506,8 +2489,7 @@
 			]
 		}
 	},
-	
-		{
+	{
 		"id": "http://zotero.org/users/1411594/items/MD2QEMGQ",
 		"type": "article-journal",
 		"abstract": "Premise Numerous processes influence plant distributions and co-occurrence patterns, including ecological sorting, limiting similarity, and stochastic effects. To discriminate among these processes and determine the spatial scales at which they operate, we investigated how functional traits and phylogenetic relatedness influence the distribution of temperate forest herbs. Methods We surveyed understory plant communities across 257 forest stands in Wisconsin and Michigan (USA) and applied Bayesian phylogenetic linear mixed-effects models (PGLMMs) to quantify how functional traits and phylogenetic relatedness influence the environmental distribution of 139 herbaceous plant species along broad edaphic, climatic, and light gradients. These models also allowed us to test how functional and phylogenetic similarity affect species co-occurrence within microsites. Results Leaf height, specific leaf area, and seed mass all influenced individualistic plant distributions along landscape-scale gradients in soil texture, soil fertility, light availability, and climate. In contrast, phylogenetic relationships did not consistently predict species-environment relationships. Neither functionally similar nor phylogenetically related herbs segregated among microsites within forest stands. Conclusions Trait-mediated ecological sorting appears to drive temperate-forest community assembly, generating individualistic plant distributions along regional environmental gradients. This finding links classic studies in plant ecology and prior research in plant physiological ecology to current trait-based approaches in community ecology. However, our results fail to support the common assumption that limiting similarity governs local plant co-occurrences. Strong ecological sorting among forest stands coupled with stochastic fine-scale interactions among species appear to weaken deterministic, niche-based assembly processes at local scales.",
@@ -2575,8 +2557,7 @@
 			]
 		}
 	},
-	
-		{
+	{
 		"id": "http://zotero.org/users/1411594/items/4KD8BT6T",
 		"type": "article-journal",
 		"abstract": "Aim Nitrogen (N)-fixing plants are an important component of global plant communities, but the drivers of N-fixing plant diversity, especially in temperate regions, remain underexplored. Here, we examined broad-scale patterns of N-fixing and non-fixing plant phylogenetic diversity (PD) and species richness (SR) across a wide portion of temperate North America, focusing on relationships with soil N and aridity. We also tested whether exotic species, with and without N-fixing symbiosis, have fewer abiotic limitations compared with native species. Location USA and Puerto Rico. Time period Current. Major taxa studied Vascular plants, focusing on N-fixing groups (orders Fabales, Fagales, Rosales and Cucurbitales). Methods We subset National Ecological Observatory Network (NEON) plant plot data from all sites along two axes (N fixing–non-N fixing and native–exotic), calculating plot-level SR, PD and mean pairwise phylogenetic distance (MPD). We then used linear mixed models to investigate relationships between diversity values and key soil measurements, along with aridity, temperature and fire frequency. Results Aridity was the sole predictor of proportional phylogenetic diversity of N fixers. The SR of N fixers still decreased marginally in arid regions, whereas native N-fixer MPD increased with aridity, indicative of unique lineages of N fixers in the driest conditions, in contrast to native non-N fixers. The SR of both native N fixers and non-N fixers increased in low-N soils. Aridity did not affect SR of exotic non-N fixers, unlike other groups, whereas exotic N fixers showed lower MPD in increasingly high-N soils, suggesting filtering, contrary what was found for native N fixers. Main conclusions Our results suggest that it is not nitrogen, or any soil nutrient, that has the strongest effect on the relative success of N fixers in plant communities. Rather, aridity is the key driver, at least for native species, in line with empirical results from other biomes and increased understanding of N fixation as a key mechanism to avoid water loss.",
@@ -2761,7 +2742,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/EUBEV3HX",
 		"type": "article-journal",
@@ -2842,8 +2822,7 @@
 			]
 		}
 	},
-	
-		{
+	{
 		"id": "http://zotero.org/users/1411594/items/8M9WCQZK",
 		"type": "article-journal",
 		"abstract": "Structural diversity is an emerging dimension of biodiversity that accounts for size variations in organs among individuals in a community. Previous studies show significant effects of structural diversity on forest growth, but its effects on forest mortality are not known, particularly at a large scale. To address this knowledge gap, we quantified structural diversity using stem structural diversity (SSD) based on both tree diameter and height. We obtained U.S. Forest Service Forest Inventory and Analysis (FIA) data from over 2400 plots across southcentral U.S. forests that have suffered a recent drought. Using data from multiple sampling times, we calculated SSD and compared the relative importance of SSD, species diversity, functional diversity and other stand attributes in determining tree mortalities caused by fire, insects and diseases. We also used FIRETEC, a physics-based fire model, to test the effect of SSD on canopy consumption by fire. Our results showed that (1) SSD was positively associated with tree mortalities caused by all three disturbances; (2) species richness was negatively associated with insect- and disease-caused mortalities; (3) functional diversity was negatively associated with fire- and disease-caused mortalities and (4) more phylogenetically related species had more similar mortality rates by insect and disease but not fire. Moreover, the FIRETEC model showed increasing canopy consumption by fire in stands with greater SSD. Together, the different tree mortalities during drought associated with SSD more consistently than the other biodiversity metrics were evaluated. Synthesis. Our results suggest that SSD could be considered in modelling forest dynamics and planning management to sustain forest health under disturbances.",
@@ -2890,12 +2869,11 @@
 				[
 					"2022",
 					1,
-				  2	
+					2
 				]
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/IABVEL62",
 		"type": "article-journal",
@@ -2996,7 +2974,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/Y7PUIAYI",
 		"type": "article-journal",
@@ -3073,8 +3050,7 @@
 			]
 		}
 	},
-	
-  {
+	{
 		"id": "belitz2021ecollett",
 		"type": "article-journal",
 		"abstract": "Insect phenological lability is key for determining which species will adapt under environmental change. However, little is known about when adult insect activity terminates and overall activity duration. We used community-science and museum specimen data to investigate the effects of climate and urbanisation on timing of adult insect activity for 101 species varying in life history traits. We found detritivores and species with aquatic larval stages extend activity periods most rapidly in response to increasing regional temperature. Conversely, species with subterranean larval stages have relatively constant durations regardless of regional temperature. Species extended their period of adult activity similarly in warmer conditions regardless of voltinism classification. Longer adult durations may represent a general response to warming, but voltinism data in subtropical environments are likely underreported. This effort provides a framework to address the drivers of adult insect phenology at continental scales and a basis for predicting species response to environmental change.",
@@ -3160,13 +3136,12 @@
 			"date-parts": [
 				[
 					"2021",
-					1, 
+					1,
 					2
 				]
 			]
 		}
 	},
-	
 	{
 		"id": "Nagy2021HarnessingNEONdata",
 		"type": "article-journal",
@@ -3677,13 +3652,13 @@
 			"date-parts": [
 				[
 					"2021",
-					1, 3
+					1,
+					3
 				]
 			]
 		}
 	},
-	
-  		{
+	{
 		"id": "Liao2021rolefunctionalstrategies",
 		"type": "article-journal",
 		"abstract": "Understanding the determinants of species distributions is a central topic in ecology. Competition, stress tolerance and colonization, respectively represented by Grime's competitor (C), stress-tolerator (S) and ruderal (R) schemes, are three important functions that interactively influence plant distributions. In this study, we compiled a dataset of 2645 vascular plant species to explore the roles of the CSR strategies in global plant distribution. We analyzed the associations between the CSR scores and species range size with phylogenetic generalized least square (PGLS) models and phylogenetic path analysis, both of which accounted for the effects of species phylogenetic relatedness, longevity and growth form. The functional strategy-range size associations differed across different distributional ranges and growth forms. Specifically, species global and native range sizes were positively associated with the R score; species naturalized range size was positively associated with the C score; and all range-size measurements were negatively associated with the S score. These patterns were mostly driven by herbs but not shrubs or trees. For species global and native-range distributions, the patterns of shrubs were even opposite to those of herbs. Our work emphasizes the importance of distinguishing the functional strategy-distribution associations between different distributional ranges and growth forms for ecosystem conservation and invasion risk prediction, because of the trade-offs among the CSR strategies.",
@@ -3748,7 +3723,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/UR4WLSBZ",
 		"type": "article-journal",
@@ -3765,8 +3739,10 @@
 		"title": "Analyzing a phenological anomaly in Yucca of the southwestern United States",
 		"URL": "https://www.nature.com/articles/s41598-021-00265-y",
 		"volume": "11",
-				"pressrelease": [
-		  {"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304305&org=BIO&from=news"}
+		"pressrelease": [
+			{
+				"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304305&org=BIO&from=news"
+			}
 		],
 		"author": [
 			{
@@ -3809,7 +3785,6 @@
 			]
 		}
 	},
-	
 	{
 		"id": "http://zotero.org/users/1411594/items/I78QB6WX",
 		"type": "article-journal",
@@ -3874,7 +3849,6 @@
 			]
 		}
 	},
-
 	{
 		"id": "Hantak2021Mammalianbodysize",
 		"type": "article-journal",
@@ -3928,8 +3902,7 @@
 			]
 		}
 	},
-
-  {
+	{
 		"id": "Li2021Climateurbanizationspecies",
 		"type": "article-journal",
 		"abstract": "A wave of green leaves and multi-colored flowers advances from low to high latitudes each spring. However, little is known about how flowering offset (i.e., ending of flowering) and duration of populations of the same species vary along environmental gradients. Understanding these patterns is critical for predicting the effects of future climate and land-use change on plants, pollinators, and herbivores. Here, we investigated potential climatic and landscape drivers of flowering onset, offset, and duration of 52 plant species with varying key traits. We generated phenology estimates using >270,000 community-science photographs and a novel presence-only phenometric estimation method. We found longer flowering durations in warmer areas, which is more obvious for summer-blooming species compared to spring-bloomers driven by their strongly differing offset dynamics. We also found that higher human population density and higher annual precipitation are associated with delayed flowering offset and extended flowering duration. Finally, offset of woody perennials was more sensitive than herbaceous species to both climate and urbanization drivers. Empirical forecast models suggested that flowering durations will be longer in 2030 and 2050 under representative concentration pathway (RCP) 8.5, especially for summer-blooming species. Our study provides critical insight into drivers of key flowering phenophases and confirms that Hopkins’ Bioclimatic Law also applies to flowering durations for summer-blooming species and herbaceous spring-blooming species.",
@@ -3945,7 +3918,11 @@
 		"URL": "http://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15461",
 		"github": "https://github.com/daijiang/flower_duration",
 		"coverImage": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15174",
-		"pressrelease": [{"presslink": "https://www.lsu.edu/science/news_events/cos-news-events/2020/december/daijiang_li_inaturalist_research.php"}],
+		"pressrelease": [
+			{
+				"presslink": "https://www.lsu.edu/science/news_events/cos-news-events/2020/december/daijiang_li_inaturalist_research.php"
+			}
+		],
 		"volume": "27",
 		"author": [
 			{
@@ -4016,8 +3993,7 @@
 			]
 		}
 	},
-
-  {
+	{
 		"id": "Qian2020Geographicpatternsenvironmental",
 		"type": "article-journal",
 		"abstract": "The tropical niche conservatism hypothesis suggests that most groups should be most phylogenetically clustered in cold, dry environments. This idea has been well-tested in plants and some animal groups, but not for fishes. We assess the geographic patterns of freshwater fish phylogenetic structure and investigate the relationships between these patterns and environmental variables across North America and within two biogeographic realms. Phylogenetic relatedness and diversity of 360 freshwater fish assemblages across North America were quantified with three metrics based on a well-dated phylogeny, and were related to 15 environmental variables using correlation and regression analyses. Geographically, the data were analyzed for North America as well as for separate biogeographic realms. We found that cold temperatures are the strongest determinant of phylogenetic clustering overall. However, in the arid west, clustering is most pronounced in the driest regions. In eastern North America, phylogenetic clustering increases at higher latitudes, while the reverse is true in western North America. The strongest phylogenetic clustering for freshwater fish assemblages on the continent is found in the most arid, rather than the coldest, climate in North America. Our results highlight that patterns of phylogenetic structure of freshwater fishes in North America are driven by both ecological and evolutionary processes that differ regionally.",
@@ -4077,7 +4053,7 @@
 			]
 		}
 	},
-  {
+	{
 		"id": "Li2020phyrpackagephylogenetic",
 		"type": "article-journal",
 		"abstract": "Model-based approaches are increasingly popular in ecological studies. A good example of this trend is the use of joint species distribution models to ask questions about ecological communities. However, most current applications of model-based methods do not include phylogenies despite the well-known importance of phylogenetic relationships in shaping species distributions and community composition. In part, this is due to a lack of accessible tools allowing ecologists to fit phylogenetic species distribution models easily. To fill this gap, the r package phyr (pronounced fire) implements a suite of metrics, comparative methods and mixed models that use phylogenies to understand and predict community composition and other ecological and evolutionary phenomena. The phyr workhorse functions are implemented in C++ making all calculations and model estimations fast. phyr can fit a variety of models such as phylogenetic joint-species distribution models, spatiotemporal-phylogenetic autocorrelation models, and phylogenetic trait-based bipartite network models. phyr also estimates phylogenetically independent trait correlations with measurement error to test for adaptive syndromes and performs fast calculations of common alpha and beta phylogenetic diversity metrics. All phyr methods are united under Brownian motion or Ornstein–Uhlenbeck models of evolution, and phylogenetic terms are modelled as phylogenetic covariance matrices. The functions and model formula syntax we propose in phyr provide an easy-to-use collection of tools that we hope will ignite the use of phylogenies to address a variety of ecological questions.",
@@ -4394,11 +4370,21 @@
 		"URL": "https://www.nature.com/articles/s41559-019-1004-1",
 		"volume": "3",
 		"pressrelease": [
-		  {"presslink": "https://www.nature.com/articles/s41559-019-1043-7"},
-		  {"presslink": "https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas"},
-		  {"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609"},
-		  {"presslink": "https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/"},
-		  {"presslink": "https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals"}
+			{
+				"presslink": "https://www.nature.com/articles/s41559-019-1043-7"
+			},
+			{
+				"presslink": "https://natureecoevocommunity.nature.com/users/312598-daijiang-li/posts/54501-urbanization-advanced-plant-phenology-in-cold-but-not-warm-areas"
+			},
+			{
+				"presslink": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=299609"
+			},
+			{
+				"presslink": "https://www.floridamuseum.ufl.edu/science/urbanization-delays-spring-plant-growth-in-warm-regions/"
+			},
+			{
+				"presslink": "https://cosmosmagazine.com/climate/cities-messing-with-spring-s-signals"
+			}
 		],
 		"author": [
 			{
@@ -6042,9 +6028,15 @@
 		"URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/14-0893.1",
 		"volume": "96",
 		"pressrelease": [
-		  {"presslink": "http://news.wisc.edu/23803"},
-		  {"presslink": "http://www.sciencedaily.com/releases/2015/05/150526123833.htm"},
-		  {"presslink": "http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97"}
+			{
+				"presslink": "http://news.wisc.edu/23803"
+			},
+			{
+				"presslink": "http://www.sciencedaily.com/releases/2015/05/150526123833.htm"
+			},
+			{
+				"presslink": "http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97"
+			}
 		],
 		"author": [
 			{

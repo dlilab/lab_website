@@ -65,6 +65,8 @@ Optional fields recognized by the template (add to the paper's JSON object if ne
 | `EditorChoice` | Link to Editor's Choice page |
 | `pressrelease` | Array of `{ "presslink": "..." }` objects |
 
+Author name formatting on the Publications page is automatic — do **not** add bold or `§` markup manually to `papers.json`. See below.
+
 ---
 
 ### Add a current lab member
@@ -80,6 +82,9 @@ Add an entry to `data/people/current.toml`:
   ]
   role = "PhD student"   # Postdoc | Research Associate | PhD student | Undergraduate student
   when = "2025-"
+  cite_given  = "First"              # given name exactly as it appears in paper citations
+  cite_family = ["Last"]             # family name(s) exactly as they appear in citations
+                                     # list multiple if the person uses variant spellings
   [UniqueKey.social]
     email = "email@wisc.edu"
     www = "https://..."
@@ -91,6 +96,14 @@ Add an entry to `data/people/current.toml`:
 
 Place the profile photo in `static/mugshots/`. All social fields are optional.
 
+The `cite_given` / `cite_family` fields drive automatic author formatting on the Publications page:
+
+- All lab members: name rendered in **bold**
+- `role = "Postdoc"`: <sup>§</sup> prepended
+- `role = "PhD student"`: <sup>§§</sup> prepended
+
+If a person's citation name differs from their display name (hyphenated surnames, middle names, nicknames), set `cite_given` / `cite_family` to match exactly what appears in the paper's author list. Multiple family name variants can be listed: `cite_family = ["Reyes", "Reyes-Mendez"]`.
+
 Display order on the People page: PI → Postdoc → Research Associate → PhD student → Undergraduate student.
 
 ---
@@ -98,7 +111,7 @@ Display order on the People page: PI → Postdoc → Research Associate → PhD 
 ### Move a member to alumni
 
 1. Remove their entry from `data/people/current.toml`.
-2. Add an entry to `data/people/past.toml`:
+2. Add an entry to `data/people/past.toml`, keeping the `cite_given` / `cite_family` fields:
 
 ```toml
 [UniqueKey]
@@ -108,6 +121,8 @@ Display order on the People page: PI → Postdoc → Research Associate → PhD 
   role = "PhD student"
   when = "2021-2025"
   currentPosition = "Postdoc, Some University"
+  cite_given  = "First"
+  cite_family = ["Last"]
 ```
 
 ---

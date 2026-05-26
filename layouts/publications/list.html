@@ -5,6 +5,20 @@
 
         {{ $publications := .Site.Data.papers }}
 
+        {{/* Build "cite_given|cite_family" -> role lookup from all lab members.
+             Only entries with explicit cite_given + cite_family fields are indexed;
+             add those fields to current.toml / past.toml to register new members. */}}
+        {{ $labLookup := dict }}
+        {{ range $k, $p := (merge $.Site.Data.people.current $.Site.Data.people.past) }}
+          {{ if and (isset $p "cite_given") (isset $p "cite_family") }}
+            {{ $giv := lower $p.cite_given }}
+            {{ range $cf := $p.cite_family }}
+              {{ $key := printf "%s|%s" $giv (lower $cf) }}
+              {{ $labLookup = merge $labLookup (dict $key $p.role) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
         {{ $allyear := newScratch }}
         {{ $idyear := newScratch }}
         {{ range $publication := $publications }}
@@ -44,7 +58,7 @@
                     {{ $year3 := index $pub.issued "date-parts" 0 0 | string }}
                         {{ if eq  $year3 $ayear}}
                             {{ if eq $pub.id $id }}
-                                <li>{{ partial "publications.html" $pub }}</li>
+                                <li>{{ partial "publications.html" (dict "pub" $pub "labLookup" $labLookup) }}</li>
                             {{ end }}
                         {{ end }}
                 {{ end }}

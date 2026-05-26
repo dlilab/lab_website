@@ -54,6 +54,8 @@
 
   [NevynNeal]
   name = "Nevyn Neal"
+  cite_given = "Nevyn"
+  cite_family = ["Neal"]
   mugshot = "mugshots/nevyn_neal.jpeg"
   text = [
     "**PhD student**. Nevyn's research revolves around applying Deep Learning to Ecology and Evolution data. Nevyn has a passion for music, video games, and spending quality time with his two dogs."
