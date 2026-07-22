@@ -20,6 +20,7 @@ disable_highlight: true
 
 ## 2026
 
+- 07/20: :champagne: Our [CAREER proposal was funded by NSF](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542703)! We will work on advancing urban biodiversity research in the next 5 years and beyond!
 - 05/22: :champagne: Our proposal to study the impacts of extreme weather events on insects was [funded by NSF](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2544884)! We are super excited to work on this project with a great team of collaborators!
 - 05/15: :books: A paper Daijiang co-authored about Nature-based solutions in cities was published at [_Science_](http://dx.doi.org/10.1126/science.aea9563)!
 - 04/17: Nevyn did a good job during his first meeting with his PhD committee! Congrats, Nevyn!
