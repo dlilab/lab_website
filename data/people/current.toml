@@ -65,6 +65,18 @@
   [NevynNeal.social]
     email = "nneal4@lsu.edu"
 
+  [SylvieLi]
+  name = "Xuebing (Sylvie) Li"
+  cite_given = "Xuebing"
+  cite_family = ["Li"]
+  mugshot = "mugshots/xuebing_li.jpeg"
+  text = [
+    "**PhD student**. Sylvie (Xuebing) Li has broad interests in plant science and environmental research. Her research background spans ecology, plant physiology, and molecular biology. Outside of research, Sylvie enjoys reading and spending time in nature."
+  ]
+  role = "PhD student"
+  when = "2026-"
+  [SylvieLi.social]
+    email = "xli2945@wisc.edu"
   
 [you]
   name = "You?"
