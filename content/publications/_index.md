@@ -20,9 +20,9 @@ disable_comments: true
 
 # In press and Preprints
 
-<li> <b>Urban Environments Reshape Reproductive Phenology in Plants Across the Tropics</b>. Rohit Jha, Simha, A., Ita, R., Rao, R., Li, D., Kandlikar, G. <i>Biotropica</i>. In press.</li>
+<li> <a href="https://www.sciencedirect.com/science/article/pii/S0169534726002417" target="_blank" title=""><b>Integrating long-term biodiversity change into biodiversity–ecosystem functioning studies</b></a>. Yuxin Chen, Allan, E., Bruelheide, H., Eisenhauer, N., Hoss, D., Huang, Y., Isbell, F., Li, D., Lin, Z., Pichon, N. A., Qiu, Y., Roscher, C., Schmid, B., Schmiedel, U., Staude, I., Su, L., Waller, D. M. <i>Trends in Ecology and Evolution</i>. In press.</li>
 
-<li> <b>Integrating long-term biodiversity change into biodiversity–ecosystem functioning studies</b>. Yuxin Chen, Allan, E., Bruelheide, H., Eisenhauer, N., Hoss, D., Huang, Y., Isbell, F., Li, D., Lin, Z., Pichon, N. A., Qiu, Y., Roscher, C., Schmid, B., Schmiedel, U., Staude, I., Su, L., Waller, D. M. <i>Trends in Ecology and Evolution</i>. In press.</li>
+<li> <a href="https://doi.org/10.1057/s41599-026-09246-w" target="_blank" title=""><b>Five core themes of intentional team formation</b></a>. Brennan, A. N., Rollinson, C. R., Love, H., Schulz, A. N., Reidy, B., Grossman, J. J., Dickmann, E. M., Fisher, E. R., McCormack, L., Richardson, A. D., LaMontagne, J., Helmus, M. R., Li, D. <i>Humanities and Social Sciences Communications</i>. In press.</li>
 
 <li> <b>Turning a new leaf: PhenoVision provides leaf phenology data at the global scale</b>. Erin Grady, Ellen Denny, Carrie Seltzer, John Deck, Daijiang Li, Russell Dinnage, Rob Guralnick. <i>Applications in Plant Sciences</i>. In press.</li>
 

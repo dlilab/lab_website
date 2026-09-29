@@ -44,6 +44,67 @@
 			]
 		}
 	},
+	
+	{
+		"id": "http://zotero.org/users/1411594/items/WIR8A5MQ",
+		"type": "article-journal",
+		"abstract": "Plant phenological responses to global change phenomena like urbanization remain understudied in the tropics, hindering predictions regarding the dynamics of tropical ecosystems amid rapid land use changes. Studies of tropical phenology are often constrained by limited availability of phenological data, especially in urbanized landscapes. Observations recorded on citizen science platforms can overcome this limitation by providing high-resolution, spatially distributed data. In this study, we utilize records from iNaturalist to evaluate plant reproductive phenology in tropical urban vs. rural habitats. We first compare iNaturalist data (217,991 records) to herbarium collections (111,533 records) in order to validate their use, and we then investigate urban–rural reproductive phenology differences for 124 species, within 106 25 × 25 km grid cells. Data from iNaturalist and herbarium yield complementary insights regarding plant phenology in rural regions. With iNaturalist observations, we find that on average, plants in urban settings have significantly longer reproductive duration (estimate = 22 ± 9.16 SE, p = 0.001) and correspondingly weaker strength of seasonality than in nearby rural localities. We also find trait-mediated variation in these patterns, with annual and herbaceous plants showing the most pronounced differences in reproductive duration and seasonality strength. These results suggest that urbanization in tropical landscapes may alter plant reproductive phenology, with potential impacts on demographic processes like reproduction, recruitment, and survival. Our work also highlights the value of integrating insights from herbarium collections with citizen science data for broad-scale insights into ecological dynamics in tropical urban landscapes.",
+		"container-title": "Biotropica",
+		"DOI": "10.1111/btp.70272",
+		"ISSN": "1744-7429",
+		"issue": "6",
+		"language": "en",
+		"license": "© 2026 Association for Tropical Biology and Conservation.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/btp.70272",
+		"page": "e70272",
+		"source": "Wiley Online Library",
+		"title": "Urban Environments Reshape Reproductive Phenology in Plants Across the Tropics",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.70272",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Jha",
+				"given": "Rohit Raj"
+			},
+			{
+				"family": "Simha",
+				"given": "Anita"
+			},
+			{
+				"family": "Ita",
+				"given": "Richard Ekeng"
+			},
+			{
+				"family": "Rao",
+				"given": "Rachana"
+			},
+			{
+				"family": "Li",
+				"given": "Daijiang"
+			},
+			{
+				"family": "Kandlikar",
+				"given": "Gaurav"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	
 	{
 		"id": "http://zotero.org/users/1411594/items/J3UYE9ZV",
 		"type": "article-journal",
