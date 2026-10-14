@@ -48,7 +48,7 @@
   role = "Postdoc"
   when = "2025-"
   [CleberCaten.social]
-    email = ""
+    email = "tencaten@wisc.edu"
     www = "https://scholar.google.com/citations?user=4tkqzzwAAAAJ&hl=en"
     
 
@@ -63,7 +63,7 @@
   role = "PhD student"
   when = "2024-"
   [NevynNeal.social]
-    email = "nneal4@lsu.edu"
+    email = "nneal3@wisc.edu"
 
   [SylvieLi]
   name = "Xuebing (Sylvie) Li"
